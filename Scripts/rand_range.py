@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# return statement
+# return random number in range
 import random
 import sys
 
