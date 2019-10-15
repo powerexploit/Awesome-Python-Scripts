@@ -1,8 +1,10 @@
 #!/usr/bin/python3
+
 mypets = ['Zophie','Poka','fat-tail']
-print('enter a per name:')
-name = input()
+
+name = input('Enter pet name: ')
+
 if name not in mypets:
-    print('I dont have a pet name ' + name )
+    print('I dont have a pet name "%s"' % name )
 else:
-    print(name + 'is my pet')
+    print(name + ', is my pet')
