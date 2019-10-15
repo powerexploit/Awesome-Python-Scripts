@@ -5,8 +5,8 @@
  hacktoberfest
   <br>
 </h1>
-# Python-Scripts
 
+# Python-Scripts
 Repository is designed specially for beginners so that can they can learn to contribute to open source and play with [hacktoberfest](https://hacktoberfest.digitalocean.com).
 
 # print("Start contributing for hacktoberfest!")
