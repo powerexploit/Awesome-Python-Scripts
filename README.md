@@ -9,6 +9,6 @@
 # Python-Scripts
 Repository is designed specially for beginners so that you can learn to contribute to open source and play with [hacktoberfest](https://hacktoberfest.digitalocean.com).
 
-# Try to give star this repo and explore it more for beginner's
+# Try to give star ✨ this repo and explore it more for beginner's
 # print("Start contributing for hacktoberfest!")
 # print("Play with this repo all contribution are welcome!")
