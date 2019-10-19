@@ -1,0 +1,5 @@
+n = int(input("Enter a number: "))
+print("A list of numbers of squares up to the given number is:")
+print([x**2 for x in range(n)])
+print("Converting the list of numbers till the given number to string data type:")
+print([str(x) for x in range(n)])
