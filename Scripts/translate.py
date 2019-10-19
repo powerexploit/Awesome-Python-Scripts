@@ -5,7 +5,7 @@ def Translate(text,language_text,language_to):
     try:
         return translator.translate(text=text,dest=language_to,src=language_text)
     except:
-        return("can't do translate please check your connection internet. or  language input invalid ")
+        return("can't do translate please check your connection internet or  language input invalid ")
 
 def Select_Language(text):
     print('''Selcet a Language :
@@ -140,7 +140,7 @@ def Select_Language(text):
             tran = Translator()
             return tran.detect(text).lang
         except:
-            return("can't do translate please check your connection internet. or  language input invalid ")
+            print("can't do translate please check your connection internet or  language input invalid ")
 
     else:
         try:
@@ -164,12 +164,12 @@ Welcome to this script
     if option == 2:
         text = input('Enter your Text : ')
         print("\nchoose language text \n if you don't choose do it will automatically")
-        src =  print(Select_Language(text))
+        src =  Select_Language(text)
         print('\nSelect the language you want to translate :')
-        dest = print(Select_Language(text))
+        dest = Select_Language(text)
         try:
             print(str(Translate(text,src,dest).text))
         except:
-            print("can't do translate please check your connection internet. or  language input invalid ")
+            print("can't do translate please check your connection internet or  language input invalid ")
 
 main()
