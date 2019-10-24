@@ -1,5 +1,6 @@
 import random
-world_list = ["ball","account","xerox","laptop","python","Programming","Hangman","mumbai","bangalore"]
+#Sample word list, a file containing words can also be converted into list
+world_list = ["ball","account","xerox","laptop","python","Programming","Hangman","mumbai","bangalore"] 
 #print(world_list)
 word = random.choice(world_list)
 blanks = ["_" for i in range(len(word))]
