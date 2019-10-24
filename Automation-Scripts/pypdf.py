@@ -1,5 +1,5 @@
 #!/usrbin/python3
-# automation with pdf file
+# Automation with pdf file
 # Script design just to automate stuffs with pdf file
 import PyPDF2
 import os
