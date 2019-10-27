@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+# Whatsapp bot
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
