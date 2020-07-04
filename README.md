@@ -10,10 +10,10 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 
 ##  💥 How to Contribute?
 - All contributions welcomed. Follow these [guidelines](Contribution.md) to contribute.
-- Take a look at guidelines](Contribution.md).
+- Take a look at [guidelines](Contribution.md).
 
-- print("Start contributing for hacktoberfest!")
-- print("Play with this repo all contribution are welcome!")
+> print("Start contributing for hacktoberfest!")
+> print("Play with this repo all contribution are welcome!")
 
 ## ❤️ Project Maintainer
 
