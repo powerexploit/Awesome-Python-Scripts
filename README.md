@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## 📌 Introduction
-A curated collection of awesome **Python** scripts from basic to advance with automation task scripts. This is the project from which you can learn that how to contribute a open source contest and specially during hacktoberfest for the **Pythoneer**. 
+A curated collection of awesome **Python** scripts from basic to advance with automation task scripts. This is the project from which you can learn that how to contribute a open source contest and specially during in Open source contest like, hacktoberfesta and other for the **Pythoneer**. 
 
 ##  💥 How to Contribute?
 - All contributions welcomed. Follow these [guidelines](Contribution.md) to contribute.
