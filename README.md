@@ -32,7 +32,7 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 
 **[Ankit Dobhal](https://www.linkedin.com/in/ankit-dobhal-aa237015b/)**
 
-|<a href="https://www.linkedin.com/in/ankit-dobhal-aa237015b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+|<a href="https://www.linkedin.com/in/ankit-dobhal-aa237015b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="50px"></a> |
 
 ## ⚡ Contributors
 - All Contributors can be found in the [contributor](https://github.com/ankitdobhal/Awesome-Python-Scripts/graphs/contributors) section.
