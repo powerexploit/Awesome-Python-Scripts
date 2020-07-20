@@ -22,11 +22,11 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 - All contributions welcomed. Follow these [guidelines](Contribution.md) to contribute.
 - Take a look at [guidelines](Contribution.md).
 
-> print("Start contributing for hacktoberfest!")
+> print("Start contributing for Automation-Python-Scripts")
 
 
 ## ❤️ Project Admin
-<a href="https://github.com/ankitdobhal"><img src="https://dev-to-uploads.s3.amazonaws.com/i/mw6tlz9b69yt7rif5fh6.png" width=150px height=180px /></a>
+<a href="https://github.com/ankitdobhal"><img src="https://dev-to-uploads.s3.amazonaws.com/i/mw6tlz9b69yt7rif5fh6.png" width=100px height=180px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |
 
