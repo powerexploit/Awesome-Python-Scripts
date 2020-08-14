@@ -7,7 +7,7 @@
   -  Fork the [repository](https://github.com/ankitdobhal/Awesome-Python-Scripts)
   
   -  Clone the fork [repo](https://github.com/ankitdobhal/Awesome-Python-Scripts)
-     (git clone https://github.com/ankitdobhal/Python-Scripts)
+     (git clone https://github.com/ankitdobhal/Awesome-Python-Scripts)
   -  Create new branch 
      git checkout -b <Your-Branch-Name>)
   
