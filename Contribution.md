@@ -8,7 +8,7 @@
      - Issue-1 : https://github.com/ankitdobhal/Awesome-Python-Scripts/issues/91
      - Issue-2 : https://github.com/ankitdobhal/Awesome-Python-Scripts/issues/92
      - Issue-3 : https://github.com/ankitdobhal/Awesome-Python-Scripts/issues/93
-     - Issue-4 : https://github.com/ankitdobhal/Awesome-Python-Scripts/issues/91
+     - Issue-4 : https://github.com/ankitdobhal/Awesome-Python-Scripts/issues/94
   
   -  Fork the [repository](https://github.com/ankitdobhal/Awesome-Python-Scripts)
   
