@@ -1,15 +1,28 @@
-open_bracket_list = ["[", "{", "("]
-close_bracket_list = ["]", "}", ")"]
+openBracketList = ["[", "{", "("]
+closeBracketList = ["]", "}", ")"]
 
 
-def checkParanthsis(data):
+def checkParanthsis(data: str) -> str:
+    """
+    checkParanthsis() : Will take a string as an arguement and each time when an open parentheses is encountered 
+    will push it in the stack, and when closed parenthesis is encountered, 
+    will match it with the top of stack and pop it. 
+
+    Parameters: 
+    data (str): takes a string. 
+  
+    Returns: 
+    str: Returns a string value whether string passed is balanced or Unblanaced. 
+	"""
     stack = []
-    for i in data:
-        if i in open_bracket_list:
-            stack.append(i)
-        elif i in close_bracket_list:
-            pos = close_bracket_list.index(i)
-            if (len(stack) > 0) and (open_bracket_list[pos] == stack[len(stack) - 1]):
+    for index in data:
+        if index in openBracketList:
+            stack.append(index)
+        elif index in closeBracketList:
+            position = closeBracketList.index(index)
+            if (len(stack) > 0) and (
+                openBracketList[position] == stack[len(stack) - 1]
+            ):
                 stack.pop()
             else:
                 return "Unbalanced"
