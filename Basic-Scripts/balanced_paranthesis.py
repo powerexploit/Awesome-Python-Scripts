@@ -2,9 +2,9 @@ openBracketList = ["[", "{", "("]
 closeBracketList = ["]", "}", ")"]
 
 
-def checkParanthsis(data: str) -> str:
+def checkParentheses(data: str) -> str:
     """
-    checkParanthsis() : Will take a string as an arguement and each time when an open parentheses is encountered 
+    checkParentheses() : Will take a string as an arguement and each time when an open parentheses is encountered 
     will push it in the stack, and when closed parenthesis is encountered, 
     will match it with the top of stack and pop it. 
 
@@ -12,7 +12,7 @@ def checkParanthsis(data: str) -> str:
     data (str): takes a string. 
   
     Returns: 
-    str: Returns a string value whether string passed is balanced or Unblanaced. 
+    str: Returns a string value whether string passed is balanced or Unbalanced. 
 	"""
     stack = []
     for index in data:
@@ -34,6 +34,7 @@ def checkParanthsis(data: str) -> str:
 
 if __name__ == "__main__":
 
-    data = input()
-    result = checkParanthsis(data)
+    data = input("Enter the string to check:\t")
+    result = checkParentheses(data)
     print(result)
+
