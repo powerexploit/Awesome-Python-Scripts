@@ -1,18 +1,7 @@
-##Installation
-
-##Windows
-##$ pip install opencv-python
-##MacOS
-##$ brew install opencv3 --with-contrib --with-python3
-##Linux
-##$ sudo apt-get install libopencv-dev python-opencv
-
 
 ##import the module i.e opencv
 import cv2
-
 ##Reading Images and Finding Image details
-
 
 img = cv2.imread('rose.jpg') ##imread() is function use to read image which accepts iamge path
 
