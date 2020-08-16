@@ -2,7 +2,7 @@
 
 Scrapy is a web crawling framework for a developer to write code to create, which defines how a particular site (or a group of websites) will be scrapped.
 
-## Steps:</br>
+### Steps:</br>
 
 1) From the conda-forge, install scrapy: </br>
 >> conda install -c conda-forge scrapy
