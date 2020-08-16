@@ -26,7 +26,12 @@ explanation : if you give [3,6,1,9] the permutation of it first will find, after
 
 #import itertools for doing the permutation
 from itertools import permutations
-n=[1,2,3,3]
+
+numbers=input("enter the numbers")
+n_string=numbers.split()
+n=[]
+for i in n_string:
+   n.append(int(i)) 
 
 #set the counter for nondivisible pair
 global_not_divisible=0
@@ -36,8 +41,7 @@ per=permutations(n)
 
 #iterate through each combinations
 for con in per:
-    
-    
+
     #set the counters to Zero
     divisible=not_divisible=0
     
@@ -48,14 +52,14 @@ for con in per:
             
             #sum the adjacent elemnts
             sum=con[index]+con[index+1]
-            
-            
+
             #chack the divisibility and update the counters
             if sum%3 == 0:
                 divisible+=1
             else:
                 not_divisible+=1
-   
+        
+                
         #update the globar non divisible counter
         if not_divisible==len(n)-1:
             print(con)
@@ -66,3 +70,4 @@ if(global_not_divisible>0):
     print("YES")
 else:
     print("NO")
+
