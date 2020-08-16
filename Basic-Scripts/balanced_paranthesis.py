@@ -2,7 +2,7 @@ openBracketList = ["[", "{", "("]
 closeBracketList = ["]", "}", ")"]
 
 
-def checkParentheses(data: str) -> str:
+def check_parentheses(data: str) -> str:
     """
     checkParentheses() : Will take a string as an arguement and each time when an open parentheses is encountered 
     will push it in the stack, and when closed parenthesis is encountered, 
