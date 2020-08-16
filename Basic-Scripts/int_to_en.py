@@ -57,5 +57,5 @@ def int_to_en(num):
     
 if __main__ == '__name__':
    
-    number = int(input())    
+    number = int(input("Enter Number"))    
     print(int_to_en(number))
