@@ -45,7 +45,7 @@ def create_custom_hackernews(mega_link,mega_votes):
         if len(vote): #To check if class "score" exists or not
             points = int(vote[0].getText().replace(' points', ''))
             if points > 100:  # To get votes/points more than 100
-                hackerNews.append({'title': title, 'link': href,'votes':points})
+                hackerNews.append({'title': title, 'link': href,'votes': points})
 
     return sorted_stories_list(hackerNews)
 
