@@ -8,7 +8,7 @@ Created on Sun Aug 16 16:21:31 2020
 """This code is to convert any int32 number to it's English representation
    without using any in-built library """
 
-"""The function int_to_em takes one integer parameter 'num' and returns 
+"""The function int_to_en takes one integer parameter 'num' and returns 
     a string made of English representation of the number that is passed."""
 
 
