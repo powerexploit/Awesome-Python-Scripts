@@ -4,7 +4,7 @@ closeBracketList = ["]", "}", ")"]
 
 def check_parentheses(data: str) -> str:
     """
-    checkParentheses() : Will take a string as an arguement and each time when an open parentheses is encountered 
+    check_parentheses() : Will take a string as an arguement and each time when an open parentheses is encountered 
     will push it in the stack, and when closed parenthesis is encountered, 
     will match it with the top of stack and pop it. 
 
@@ -35,6 +35,6 @@ def check_parentheses(data: str) -> str:
 if __name__ == "__main__":
 
     data = input("Enter the string to check:\t")
-    result = checkParentheses(data)
+    result = check_parentheses(data)
     print(result)
 
