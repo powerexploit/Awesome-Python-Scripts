@@ -5,7 +5,6 @@ import csv
 from bs4 import BeautifulSoup
 
 f=csv.writer(open('covid.csv','w'))
-#f.writerow(['country_other','total_cases','new_cases','total_death','new_death','total_recovered','active_cases','serious','tot_cases','total_death'])
 url='https://www.worldometers.info/coronavirus/'
 page=requests.get(url) #requests the page through the url
 page=BeautifulSoup(page.text,'html.parser')  #parses the text by html.parser
