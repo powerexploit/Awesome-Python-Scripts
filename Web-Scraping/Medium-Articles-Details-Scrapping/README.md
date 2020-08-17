@@ -1,5 +1,6 @@
 # Medium-Articles-Details-Scrapping
-This script will scrap details about medium articles published in a date range in the given publication. The dates are choosen randomly. If there is no article on that date, then that date is skipped. The results returned is a dataframe which can be saved in any format, currently saves as CSV.
+This script will scrap details about medium articles published in a date range in the given publication. The dates are choosen randomly. If there is no article on that date, then that date is skipped. The results returned is a dataframe which can be saved in any format, currently saves as CSV. Here is the preview of the terminal:
+![](terminal-preview.PNG)
 
 # Requirements
 - numpy
