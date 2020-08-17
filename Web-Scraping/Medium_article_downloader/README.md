@@ -12,12 +12,9 @@ The Beautiful Soup library in Python enables web scraping and enables parsing th
 
 ## Implementation ##
 
-The user is prompted to enter the URL of the Medium article that has to be downloaded
+- The user is prompted to enter the URL of the Medium article that has to be downloaded
 
-![Image](promptURL.PNG)
+- The contents are then stored in a file named Medium$_article$_content.txt
 
-The contents are then stored in a file named Medium$_article$_content.txt
-
-![Image](content.PNG)
 
 
