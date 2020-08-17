@@ -6,6 +6,10 @@ Which prints the staircase pattern
 ####
 
 """
-n=int(input()) #which accepts the input
-for i in range(1,n+1):
-    print(' '*(n-i) + '#'*i)
+def staircase(height):
+   for i in range(1,height+1):
+       print(' '*(height-i) + '#'*i)
+      
+print('Please enter the height of the staircase')      
+height=int(input()) #which accepts the input
+staircase(height)
