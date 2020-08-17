@@ -7,6 +7,9 @@ Which prints the staircase pattern
 
 """
 def staircase(height):
+   """
+   This program prints the staircase pattern for the given height (dynamically)
+   """
    for i in range(1,height+1):
        print(' '*(height-i) + '#'*i)
       
