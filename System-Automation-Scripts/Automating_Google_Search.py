@@ -11,7 +11,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 # providing the link  
-driver.get("http://www.google.com")
+driver.get("https://www.google.com")
 
 # then we will look for the search bar name(here name is referred to the html code)
 element = driver.find_element_by_name("q")

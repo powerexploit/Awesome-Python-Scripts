@@ -10,7 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 # enter the link of the google
-driver.get("http://www.google.com")
+driver.get("https://www.google.com")
 
 # AUTOMATING CLICKING OF THE LINK TEXT
 
