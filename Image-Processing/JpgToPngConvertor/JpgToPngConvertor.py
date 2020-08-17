@@ -1,9 +1,4 @@
 '''
-This script converts the list of JPG images available in source folder to PNG images
-which will get stored in destination folder
-'''
-
-'''
 Script uses Pillow module to read the image and convert it to png.
 sys module for accepting inputs from terminal and os module 
 for operations on pathnames.
