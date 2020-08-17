@@ -8,8 +8,6 @@ This script will scrap details about medium articles published in a date range i
 - requests
 
 # How to run?
-- Open the run.py to add the dictionary of urls, date range and number of random dates.
-- Save the file.
 - Run the command: python run.py
 
 # About the Scrap class
