@@ -7,8 +7,6 @@
 
 2. Install ChromeDriver
 
-### Python Scripts in this folder
-
 #### Automating_Google_Search.py 
 - This file contains the script to automate the Google Search , you just have to enter whatever you want to search & run the file.
 
