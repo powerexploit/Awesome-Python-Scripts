@@ -6,21 +6,21 @@ Created on Mon Aug 17 14:24:23 2020
 """
 # Function rock_paper_scissor--->
 def rock_paper_scissor(num1,num2,bit1,bit2):
-    p1=int(num1[bit1])%3
-    p2=int(num2[bit2])%3
-    if(player_one[p1]==player_two[p2]):
+    play_pos1=int(num1[bit1])%3  #Play Position For Player 1
+    play_pos2=int(num2[bit2])%3  #Play Position For Player 2
+    if(player_one[play_pos1]==player_two[play_pos2]):
         print("Draw")
-    elif(player_one[p1]=="Rock" and player_two[p2]=="Scissor"):
+    elif(player_one[play_pos1]=="Rock" and player_two[play_pos2]=="Scissor"):
         print("Player one wins!!")
-    elif(player_one[p1]=="Rock" and player_two[p2]=="Paper"):
+    elif(player_one[play_pos1]=="Rock" and player_two[play_pos2]=="Paper"):
         print("Player two wins!!")
-    elif(player_one[p1]=="Paper" and player_two[p2]=="Scissor"):
+    elif(player_one[play_pos1]=="Paper" and player_two[play_pos2]=="Scissor"):
         print("Player two wins!!")
-    elif(player_one[p1]=="Paper" and player_two[p2]=="Rock"):
+    elif(player_one[play_pos1]=="Paper" and player_two[play_pos2]=="Rock"):
         print("Player one wins!!")
-    elif(player_one[p1]=="Scissor" and player_two[p2]=="Rock"):
+    elif(player_one[play_pos1]=="Scissor" and player_two[play_pos2]=="Rock"):
         print("Player two wins!!")
-    elif(player_one[p1]=="Scissor" and player_two[p2]=="Paper"):
+    elif(player_one[play_pos1]=="Scissor" and player_two[play_pos2]=="Paper"):
         print("Player one wins!!")
 
 # Main Function To Execute Rock Paper Scissor        
