@@ -1,3 +1,5 @@
+#Python Program to print a simple christmas tree pattern using asterisk
+
 picture1 = [
   [0,0,0,1,0,0,0],
   [0,0,1,1,1,0,0],
