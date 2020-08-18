@@ -18,4 +18,23 @@ def pattern(picture): #function definition
         print(' ', end ="")
     print('')
 
-pattern(picture1) #function calling
+
+def main(input): # Defining main function 
+  pattern(input)  #function calling 
+
+if __name__=="__main__": 
+    main(picture1)  
+
+'''
+Sample Output  
+   *   
+  ***
+ *****
+*******
+   *
+   *
+'''
+  
+
+
+
