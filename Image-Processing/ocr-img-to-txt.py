@@ -1,10 +1,8 @@
 import pytesseract 
 from PIL import Image
 
-
 # path to the Tessaract
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-
 
 def convert():
     #Image to Convert
@@ -18,6 +16,5 @@ def convert():
     newfile = open("newfile.txt", "w+") 
     # To Write the text in that file
     newfile.write(text)
-    
-    
+ 
 convert()
