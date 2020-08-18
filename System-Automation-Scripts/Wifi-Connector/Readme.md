@@ -1,4 +1,5 @@
-##Connecting Wifi Automatically
+ ##Connecting Wifi Automatically
+
 -We can make Wifi Connect automatically by python
 -We can make it by running commands on command line.
 
@@ -13,13 +14,13 @@
 -But how can we run this using python ???
 
 -Yess..! we can run  commands using python by using os module
-
-####os.popen()
-
+```
+os.popen()
+```
 -This will run commands using python
-
-####os.popen().read()
-
+```
+os.popen().read()
+```
 -This will return the output after excuting the line
 
 -For example 
