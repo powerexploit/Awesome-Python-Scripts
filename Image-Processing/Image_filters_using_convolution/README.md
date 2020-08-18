@@ -20,11 +20,11 @@
 
 - The images attached show an image before and after blurring.
 
-![Image](/images/before.png")
+![Image]("./images/before.png")
 
 - This is before applying convolution.
 
-![Image](/images/after.png")
+![Image]("./images/after.png")
 
 - This is after applying convolution.
 
