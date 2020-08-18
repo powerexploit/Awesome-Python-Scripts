@@ -1,3 +1,3 @@
 from itertools import groupby
-S=str(input())
-print(*[(len(list(c)), int(k)) for k, c in groupby(S)])
+S=str(input())                                          # user input for string
+print(*[(len(list(c)), str(k)) for k, c in groupby(S)]) # logic to print occurence of values in string 
