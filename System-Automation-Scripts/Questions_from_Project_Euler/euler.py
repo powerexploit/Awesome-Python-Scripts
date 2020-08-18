@@ -56,4 +56,5 @@ def Euler():
 
         writer.writerow([question_number, question_name , description])
 
-Euler() 
+if __name__ == "__main__":
+    Euler() 
