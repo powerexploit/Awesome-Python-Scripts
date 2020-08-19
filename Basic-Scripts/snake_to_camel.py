@@ -1,9 +1,16 @@
 import re
 def snake_to_camel(string):
-        return "".join(word.capitalize() or '_' for word in re.split("-|_", string))
+    """
+    Parameters: 
+    snake_to_camel (str): takes a string. 
+    
+    Returns:
+    string value in camel case by removing underscore or dash and capitalizing every word
 
-def main():
+    """
+    return "".join(word.capitalize() or '_' for word in re.split("-|_", string))
+
+if __name__ == "__main__":
     string = raw_input("Enter string in snake case:")
     print(snake_to_camel(string))
 
-main()
