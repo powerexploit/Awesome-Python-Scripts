@@ -10,8 +10,15 @@ picture1 = [
 ] 
 
 def pattern(picture): #function definition
-  ''' Pattern() gets an array of values that prints a pattern
-      where 0 is going to be ' ', and the 1 is going to be '*'. '''      
+  ''' 
+    Functions prints the pattern of christmas tree
+      where 0 is going to be ' ', and the 1 is going to be '*'.
+      params:
+      picture: Contains the binary representation of christmas tree
+    returns:
+      None
+      
+  '''      
   for image in picture:
     for pixel in image:
       if (pixel):
@@ -21,7 +28,7 @@ def pattern(picture): #function definition
     print('') 
     
 if __name__=="__main__": 
-    pattern(picture1) #funcioncalling
+    pattern(picture1) #funcion calling
     
 '''
 Sample Output  
