@@ -1,8 +1,8 @@
-# Python program to count positive and negative numbers in a List 
+# Python program to count positive and negative numbers in a List given by user 
 def count_pos_neg(list1):
     pos_count, neg_count = 0, 0
     for num in list1:                           # iterating each number in list 
-        if num >= 0:                            # checking condition 
+        if num>=0:                            # checking condition 
             pos_count += 1
         else: 
             neg_count += 1      
