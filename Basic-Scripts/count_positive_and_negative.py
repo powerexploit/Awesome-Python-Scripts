@@ -1,17 +1,20 @@
 # Python program to count positive and negative numbers in a List 
-  
-# list of numbers 
-list1 = [10, -21, 4, -45, 66, -93, 1] 
+def count_pos_neg(list1):
+    pos_count, neg_count = 0, 0
+    for num in list1:                           # iterating each number in list 
+        if num >= 0:                            # checking condition 
+            pos_count += 1
+        else: 
+            neg_count += 1      
+    print("Positive numbers in the list: ", pos_count) 
+    print("Negative numbers in the list: ", neg_count) 
 
-positive_count, negative_count = 0, 0
-  
-# iterating each number in list 
-for num in list1:     
-    # checking condition 
-    if num >= 0: 
-        positive_count += 1
-    else: 
-        negative_count += 1
-          
-print("Positive numbers in the list: ", positive_count) 
-print("Negative numbers in the list: ", negative_count) 
+#main program
+n= int(input("Enter number of elements: "))
+#list of numbers
+lst = []
+for i in range(0,n):
+    #print() 
+    ele=int(input("Enter "+str(i)+"th element: "))
+    lst.append(ele)        
+count_pos_neg(lst)
