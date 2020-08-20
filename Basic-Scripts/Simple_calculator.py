@@ -105,12 +105,17 @@ def main():
     print()
     print("         THIS IS A BASIC USER FRIENDLY CALCULATOR!          ")
     print()
+    
+    print("The allowed actions are:")
+    print(" 1) ADDITION \n 2) SUBTRACTION \n 3) MULTIPLICATION \n 4) DIVISION")
+    print()
     print("You can type a sentence and interact.")
     print()
+
     #inputting two numbers at a time using the split function
     num_1,num_2 = input("Enter two numbers: ").split()
-    num1=float(num_1)
-    num2=float(num_2)
+    num_1=float(num_1)
+    num_2=float(num_2)
 
 
     #printing both the numbers
