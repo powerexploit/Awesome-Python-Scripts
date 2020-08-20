@@ -13,8 +13,10 @@
   -  Fork the [repository](https://github.com/ankitdobhal/Awesome-Python-Scripts)
   
   -  Clone the fork [repo](https://github.com/ankitdobhal/Awesome-Python-Scripts)
+     - git clone https://github.com/ankitdobhal/Awesome-Python-Scripts
+
      - git clone https://github.com/<Your_Username>/Awesome-Python-Scripts
-  -  Create new branch 
+      -  Create new branch 
      - git checkout -b <Your-Branch-Name>
   
   -  Add Scripts related to your respective issues.
@@ -22,6 +24,9 @@
  
   -  Add a commit message !
      - git commit -a -m "<Added your message>"
+  -  Push changes
+    - git push origin
+
   
   -  Push changes
     - git push -u origin <name_of_your_branch>
