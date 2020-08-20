@@ -22,7 +22,7 @@ def christmastree(level): #function definition
         a=a-1
         print()
     for l in range(3):
-      print(' '*(level-1),'*')
+      print(' '*(level-2),'*')
      
 
 
