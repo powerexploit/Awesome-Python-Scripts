@@ -28,7 +28,7 @@ def christmastree(level): #function definition
 
 if __name__ == "__main__": #main function
 
-  level= int(input("Enter the height of christmas tree (Integer less than 30) :")) #inputs the height of the tree
+  level= int(input("Enter the height of christmas tree (Integer less than 30):")) #inputs the height of the tree
 
   christmastree(level) #function calling
     
