@@ -1,43 +1,57 @@
 #Python Program to print a simple christmas tree pattern using asterisk
 
-picture1 = [
-  [0,0,0,1,0,0,0],
-  [0,0,1,1,1,0,0],
-  [0,1,1,1,1,1,0],
-  [1,1,1,1,1,1,1],
-  [0,0,0,1,0,0,0],
-  [0,0,0,1,0,0,0]
-] 
-
-def pattern(picture): #function definition
-  ''' 
-    Functions prints the pattern of christmas tree
-      where 0 is going to be ' ', and the 1 is going to be '*'.
-      params:
-      picture: Contains the binary representation of christmas tree
+def christmastree(level): #function definition
+    ''' 
+       Functions prints the pattern of christmas tree     
+    params:
+      level: inputs the height of the tree
     returns:
       None
       
-  '''      
-  for image in picture:
-    for pixel in image:
-      if (pixel):
-        print('*', end ="")
-      else:
-        print(' ', end ="")
-    print('') 
+    ''' 
+    a=level-1
+    b=1
+    for image in range(0,level):
+        for pixel in range(0,a):
+            print(' ',end='')
+        for image in range(0,b):
+            print('*',end='')
+        for pixel in range(0,a):
+            print(' ',end='')
+        b=b+2
+        a=a-1
+        print()
+    for l in range(3):
+      print(' '*(level-1),'*')
+     
+
+
+if __name__ == "__main__": #main function
+
+  level= int(input("Enter the height of christmas tree (Integer less than 30) :")) #inputs the height of the tree
+
+  christmastree(level) #function calling
     
-if __name__=="__main__": 
-    pattern(picture1) #funcion calling
-    
+
 '''
-Sample Output  
-   *   
-  ***
- *****
-*******
-   *
-   *
+
+Sample Output  :
+
+Enter the height of christmas tree (Integer less than 30) :10
+         *         
+        ***        
+       *****       
+      *******      
+     *********     
+    ***********    
+   *************   
+  ***************  
+ ***************** 
+*******************
+          *
+          *
+          *
+ 
 '''
   
 
