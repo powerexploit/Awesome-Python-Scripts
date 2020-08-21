@@ -14,11 +14,11 @@ def sum_of_elements(user_list): #function definition
 if __name__ == "__main__":
   user_list = []   
 # number of elemetns as input 
-  n = int(input("Enter number of elements:")) 
+  num = int(input("Enter number of elements:")) 
 
 # iterating till the range 
   print("Enter the elements:")
-  for i in range(0, n): 
+  for index in range(0, num): 
     elements = int(input())   
     user_list.append(elements) # adding the element
 
