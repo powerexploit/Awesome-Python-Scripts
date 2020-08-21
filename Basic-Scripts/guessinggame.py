@@ -8,12 +8,7 @@ def start(limit, chances):
             print("HOORAY YOU WON!!!")
             win = True
             break
-        elif guess < number:
-            print("Your guess was too low: Guess a number higher than", guess)
-            win = False
-        else:
-            print("Your guess was too high: Guess a number lower than", guess)
-            win = False
+
         chances -= 1
 
     if win is not True:
