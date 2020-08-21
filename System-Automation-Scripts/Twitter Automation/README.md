@@ -7,7 +7,7 @@
 Just run it and it will like and retweet tweets of the value which you have assigned to the "search".
 
 <h3>Voila!!! Twitter Is Automated</h3><br>
-Here, I have given value as <b> search = "#100DaysOfCode"</b><br>
+Here, I have given value as <b> search = "#100DaysOfCode"</b>
 
-<p align="left">
+<p align="left"><br>
   <img src="twitter_image.PNG"></p>
