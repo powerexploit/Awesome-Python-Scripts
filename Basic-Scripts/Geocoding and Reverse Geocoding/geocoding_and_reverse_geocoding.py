@@ -2,7 +2,7 @@ import requests
 import sys
 
 # If you want your own private_token please refer the README file for this script.
-private_token = "fd00189046e6f6"
+private_token = "<Your Private Token>"
 
 while True:
     choice = input(
@@ -70,3 +70,17 @@ while True:
     else:
         print("Please make a valid choice")
         print()
+
+#Sample Input - Output:
+
+#If you choose Geocoding:
+
+#Address(Input): Rashtrapati Bhavan
+#Latitude(Output): 28.614458
+#Longitude(Output): 77.199594
+
+#If you choose Reverse-Geocoding:
+
+#Latitude(Input): 28.614458
+#Longitude(Input): 77.199594
+#Address(Output): Rashtrapati Bhavan, Rajpath, Presidential Estate, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India        
