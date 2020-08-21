@@ -1,14 +1,19 @@
 import random
 def start(limit, chances):
     number = random.randint(1, limit)
-  
+    win = False
     while chances > 0:
         guess = int(input())
         if guess == number:
             print("HOORAY YOU WON!!!")
             win = True
             break
-
+        elif guess < number:
+            print("Your guess was too low: Guess a number higher than", guess)
+            
+        else:
+            print("Your guess was too high: Guess a number lower than", guess)
+        
         chances -= 1
 
     if win is not True:
