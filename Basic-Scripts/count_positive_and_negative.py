@@ -10,11 +10,12 @@ def count_pos_neg(list1):
     print("Negative numbers in the list: ", neg_count) 
 
 #main program
-n= int(input("Enter number of elements: "))
+if __name__ == "__main__":
+    num = int(input("Enter number of elements: "))
 #list of numbers
 lst = []
-for i in range(0,n):
+for index in range(0,num):
     #print() 
-    ele=int(input("Enter "+str(i)+"th element: "))
+    ele=int(input("Enter "+str(index)+"th element: "))
     lst.append(ele)        
 count_pos_neg(lst)
