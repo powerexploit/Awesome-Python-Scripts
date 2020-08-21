@@ -1,4 +1,3 @@
-
 import cv2 ##import the module opencv
 import numpy as np ##import the module numpy
 import pyzbar.pyzbar as pyzbar ##import the module pyzbar
