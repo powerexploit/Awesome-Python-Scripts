@@ -1,16 +1,25 @@
+# Python Program to find roots of a Quadratic Equation
 # Solve the quadratic equation ax**2 + bx + c = 0
 # import complex math module
 import cmath
+a = int(input("Please Enter a Value of a Quadratic Equation : "))
+b = int(input("Please Enter b Value of a Quadratic Equation : "))
+c = int(input("Please Enter c Value of a Quadratic Equation : "))
 
-a=float(input("Give your first input:\n"))
-b=float(input("Give your second input:\n"))
-c=float(input("Give your third input:\n"))
+discriminant = (b * b) - (4 * a * c)
 
-# calculate the discriminant
-d = (b**2) - (4*a*c)
+if(discriminant > 0):
+    r1 = (-b + math.sqrt(discriminant) / (2 * a))
+    r2 = (-b - math.sqrt(discriminant) / (2 * a))
+    print("Two Distinct Real Roots Exists: ")
+    print("root1 = %.2f and root2 = %.2f" % (r1, r2))
+elif(discriminant == 0):
+    r1 = r2 = -b / (2 * a)
+    print("Two Equal and Real Roots Exists: ")
+    print("root1 = %.2f and root2 = %.2f" % (r1, r2))
+elif(discriminant < 0):
+    r1 = r2 = -b / (2 * a)
+    imaginary = math.sqrt(-discriminant) / (2 * a)
+    print("Two Distinct Complex Roots Exists: ")
+    print("r1=%.2f+%.2f and r2=%.2f-%.2f" % (r1, imaginary, r2, imaginary))
 
-# find two solutions
-sol1 = (-b-cmath.sqrt(d))/(2*a)
-sol2 = (-b+cmath.sqrt(d))/(2*a)
-
-print('The solution are {0} and {1}'.format(sol1,sol2))
