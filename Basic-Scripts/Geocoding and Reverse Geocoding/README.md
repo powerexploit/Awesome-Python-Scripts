@@ -5,12 +5,18 @@
 
 #### I have used the LocationIQ website's geocoding api inorder to solve this problem.
 
-#### For the purpose of this script I obtained a private token to access the api using a dummy account so you can use my private token.
+#### In order to run this script you need to have a private token which is just a key for the api..
 
-#### To obtain your own private token create a *free account* at https://locationiq.com/ and replace my private token with yours.(Optional)
+#### To obtain your own private token create a *free account* at https://locationiq.com/ and replace my private token with yours.
 
 #### Remember, *don't share* your private token with anyone if you use your personal email for account creation.
 
 #### Install the dependencies by using:
 
 pip install -r requirements.txt
+
+#### An Example of the script in action:
+
+<img src="Sample.PNG" alt="Sample">
+
+
