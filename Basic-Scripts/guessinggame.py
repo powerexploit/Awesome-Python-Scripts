@@ -1,7 +1,7 @@
 import random
 def start(limit, chances):
     number = random.randint(1, limit)
-    win = False
+  
     while chances > 0:
         guess = int(input())
         if guess == number:
