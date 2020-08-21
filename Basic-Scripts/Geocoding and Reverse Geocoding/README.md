@@ -10,3 +10,7 @@
 #### To obtain your own private token create a *free account* at https://locationiq.com/ and replace my private token with yours.(Optional)
 
 #### Remember, *don't share* your private token with anyone if you use your personal email for account creation.
+
+#### Install the dependencies by using:
+
+pip install -r requirements.txt
