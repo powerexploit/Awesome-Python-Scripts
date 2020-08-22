@@ -1,3 +1,3 @@
 from itertools import groupby
-S=str(input())                                          # user input for string
-print(*[(len(list(c)), str(k)) for k, c in groupby(S)]) # logic to print occurence of values in string 
+uncompressed = str(input("Enter string to compress: "))                            # user input for string
+print(*[(len(list(value)), str(key)) for key, value in groupby(uncompressed)]) # logic to print occurence of values in string 
