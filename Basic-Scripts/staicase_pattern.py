@@ -19,7 +19,6 @@ def staircase(height):
       
       
 if __name__ == '__main__':
-
-   print('Please enter the height of the staircase')      
-   height=int(input()) #which accepts the input
+   
+   height=int(input('Enter the height of the staircase')) #which accepts the input
    staircase(height)
