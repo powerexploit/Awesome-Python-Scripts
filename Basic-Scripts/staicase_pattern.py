@@ -12,7 +12,7 @@ def staircase(height):
    Params:
        height: height of the staircase as entered by user
    Returns:
-       None
+       The staircase pattern
    """
    for index in range(1,height+1):
        print(' '*(height-index) + '#'*index)
