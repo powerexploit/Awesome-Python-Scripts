@@ -39,5 +39,5 @@ if __name__ == "__main__":
   a = float(input("Please Enter a Value of a Quadratic Equation : "))
   b = float(input("Please Enter b Value of a Quadratic Equation : "))
   c = float(input("Please Enter c Value of a Quadratic Equation : "))
-
-    print(findRoots(a, b, c))
+  
+  print(findRoots(a, b, c))
