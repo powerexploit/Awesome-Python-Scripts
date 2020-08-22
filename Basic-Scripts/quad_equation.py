@@ -4,7 +4,8 @@
 
 import cmath  # import complex math module
 
-def findRoots( a, b, c):
+
+def findRoots(a, b, c):
     """
     If a is 0 then equation is not quadratic but linear,
     So if user enters value of a as zero then its invalid.
@@ -28,7 +29,7 @@ def findRoots( a, b, c):
         print("Two Distinct Complex Roots Exists: ")
         print("r1=%.2f+%.2f and r2=%.2f-%.2f" % (root_1, imaginary, root_2, imaginary))
 
-# Main Program       
+# Main Program
 
 a = int(input("Please Enter a Value of a Quadratic Equation : "))
 b = int(input("Please Enter b Value of a Quadratic Equation : "))
