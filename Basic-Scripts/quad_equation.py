@@ -2,7 +2,7 @@
 # Solve the quadratic equation ax**2 + bx + c = 0
 
 
-import cmath  # import complex math module
+import math  # import complex math module
 
 
 def findRoots(a, b, c):
@@ -30,9 +30,9 @@ def findRoots(a, b, c):
         print("r1=%.2f+%.2f and r2=%.2f-%.2f" % (root_1, imaginary, root_2, imaginary))
 
 # Main Program
+if __name__ == "__main__":
+  a = float(input("Please Enter a Value of a Quadratic Equation : "))
+  b = float(input("Please Enter b Value of a Quadratic Equation : "))
+  c = float(input("Please Enter c Value of a Quadratic Equation : "))
 
-a = int(input("Please Enter a Value of a Quadratic Equation : "))
-b = int(input("Please Enter b Value of a Quadratic Equation : "))
-c = int(input("Please Enter c Value of a Quadratic Equation : "))
-
-findRoots(a, b, c)
+print(findRoots(a, b, c))
