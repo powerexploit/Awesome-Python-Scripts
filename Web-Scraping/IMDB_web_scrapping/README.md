@@ -1,0 +1,3 @@
+Script to Scrape TV Show Epsiode IMDb Ratings Using Python & BeautifulSoup.
+If the data you’re looking for is on an web page, however, then the solution to all these problems is web scraping.
+In this script we’ll scrape IMDB web pages with Python using BeautifulSoup and requests to obtain a datasets of GAME OF THRONES episodes and ratings. We’ll then perform some simple analysis using pandas, and matplotlib.
