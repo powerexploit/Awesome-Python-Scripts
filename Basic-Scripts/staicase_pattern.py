@@ -14,8 +14,8 @@ def staircase(height):
    Returns:
        None
    """
-   for i in range(1,height+1):
-       print(' '*(height-i) + '#'*i)
+   for index in range(1,height+1):
+       print(' '*(height-index) + '#'*index)
       
       
 if __name__ == '__main__':
