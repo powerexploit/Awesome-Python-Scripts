@@ -13,7 +13,12 @@ def findRoots(a, b, c):
     if a == 0:
         print("Invalid")
         return -1
-    discriminant = (b * b) - (4 * a * c)
+    discriminant = (b * b) - (4 * a * c)      # calculating value of discriminant
+    """
+    Now below we check for various condition, i.e
+    Is discriminant greater than, equals to or less than 0.
+    Each condition has its own different roots.
+    """
     if(discriminant > 0):
         root_1 = (-b + math.sqrt(discriminant) / (2 * a))
         root_2 = (-b - math.sqrt(discriminant) / (2 * a))
