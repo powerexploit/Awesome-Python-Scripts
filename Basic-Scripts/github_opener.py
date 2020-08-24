@@ -38,10 +38,16 @@ if __name__ == "__main__":
     It takes two command line arguments.
     Name of the file (Not complete path with directory) in which the desired line of code is present and 
     the line number to high light.
+    Eg. 
+        python github_opener.py mode.py 9
+    output:
+        Link copied!
+        (Link => https://github.com/username/proj_name/blob/master/directory/mode.py/#L9)
+
 
     In terminal, navigate to the directory in which the file is present.
 
-    Run command : github_opener.py filename.xyz 23
+    Run command : python github_opener.py filename.xyz 23
 
     """
     github_opener(sys.argv[1], sys.argv[2])
