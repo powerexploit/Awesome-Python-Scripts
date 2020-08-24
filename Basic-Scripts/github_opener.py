@@ -22,7 +22,7 @@ def github_opener (filename, line_no):
     """
     
     stream = os.popen('git remote -v | grep "origin"')
-    cmd_output = stream.readline()                          #cmd_otput => origin  git@github:username/proj/name.git (fetch)
+    cmd_output = stream.readline()                          #cmd_output => origin  git@github:username/proj/name.git (fetch)
     info = cmd_output.split(":")[1].split(".")[0]           #info => username/proj_name
     
     curr_dir = os.getcwd()
@@ -31,7 +31,17 @@ def github_opener (filename, line_no):
     index = curr_dir.find(proj_name)                        #start index of proj name in current path
     perma_link = "https://github.com/" + info + "/blob/master" + curr_dir[(index+len(proj_name)):] + "/" + filename + "/#L" + line_no
     pyperclip.copy(perma_link)
+    print("Link copied!")
     
-
 if __name__ == "__main__":
+    """
+    It takes two command line arguments.
+    Name of the file (Not complete path with directory) in which the desired line of code is present and 
+    the line number to high light.
+
+    In terminal, navigate to the directory in which the file is present.
+
+    Run command : github_opener.py filename.xyz 23
+
+    """
     github_opener(sys.argv[1], sys.argv[2])
