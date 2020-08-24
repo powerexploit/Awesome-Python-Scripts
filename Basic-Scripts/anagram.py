@@ -26,7 +26,8 @@ def areAnagram(string1, string2):
     return Counter(string1) == Counter(string2)
 
 
-string1 = 'geeksforgeeks'
-string2 = 'forgeeksgeeks'
-print(areAnagram(string1, string2))
+if __name__ == '__main__':
+    string1 = 'geeksforgeeks'
+    string2 = 'forgeeksgeeks'
+    print(areAnagram(string1, string2))
  
