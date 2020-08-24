@@ -16,9 +16,9 @@ Run this command:
 # Working Demo:
 On configuring the following things:
 
-![](config.PNG)
+![](output/config.PNG)
 
 The output csv looks like this:
 
-![](csv.PNG)
+![](output/csv.PNG)
 
