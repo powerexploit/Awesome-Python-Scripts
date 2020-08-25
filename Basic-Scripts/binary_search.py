@@ -1,37 +1,22 @@
-def bin_search(n,s):
-    low = 0                             # initialize left index
-    high = len(n) - 1                   # initialize right index
-
-    while low <= high:
-        index = (low + high)//2         # find the mid-point of the list
-
-        if n[index] < s:                # element is in upper half so ignore lower half
-            low = index + 1
-        elif n[index] > s:              # element is in lower half so ignore upper half
-            high = index - 1
+def binary_search(list1, key):
+    start = 0
+    end = len(list1)
+    while start<end:
+        mid = (start+end)//2
+        if list1[mid] > key:
+            end = mid
+        elif list1[mid] == key:
+            start = mid+1
         else:
-            return index
+            return mid
+        return -1
 
-    return -1                           # if we reach this part of the code, it means the element does not exist
-
-print("Enter the number of numbers you want to search:")
-num = int(input())
-
-n = []     # define a new list to hold the numbers to be searched
-
-print("Enter the List of numbers you want to search")
-for i in range(num):
-    n.append(int(input()))
-
-print("Enter the number you want to search")
-s = int(input())
-n.sort()                    #binary search only works on sorted lists
-
-ans = bin_search(n,s)
-
-if ans < 0:
-    print(s,"was not found in the given list")
+list1 = input('Enter the sorted list of numbers: ')
+list1 = list1.split()
+list1 = [int(x) for x in list1]
+key = int(input('The number to be searched'))           
+index = binary_search(list1 , key)
+if index < 0:
+    print('{} was not found' .format(key))
 else:
-    print(s,"found at index", ans)
-
-
+    print('{} was found at index {} ' .format(key, index))         
