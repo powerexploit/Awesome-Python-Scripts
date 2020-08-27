@@ -1,0 +1,39 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>TO DO LIST</title>
+<link rel="stylesheet" href="{% static 'css/style.css' %}"/>
+</head>
+
+<body>
+	<h1> TO-DO App </h1>
+
+			<ol>
+				{% for todo_items in all_items %}
+				<li>{{ todo_items.content }}
+					<form action="/deleteTodo/{{todo_items.id}}/" style="display: inline;" method="post">{% csrf_token %}
+						<input type="submit" name="" value="delete"/>
+      </form>
+    </oi>
+  {% endfor %}
+</ul>
+
+<form action="/addTodo/" method="post">{% csrf_token %}
+  <br>
+  <input type="text" name="content" id=""/>
+  <input type="submit" name="" value="Add"/>
+</form>
+
+<div class="footer container" id="footer">
+  <p>Developed & Designed by Swarup Bhanja Chowdhury</p>
+  <p> <a href="https://repl.it/@swarupbhanja/To-DO-LIST-app-Django-1">Source Code  </a> --- <a href="https://github.com/swarupbhanjachowdhury">  GitHUb</a> </p>
+  <p></p>
+</div>
+
+</body>
+</html>
