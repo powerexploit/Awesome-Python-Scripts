@@ -1,13 +1,15 @@
-   #Basic-Scripts
-   Basic-Scripts is a collection of basic python scripts for newbies in python to understand basic concept of python programming.
-   -Data Structure in python
-   -Conditional
-   -Loop
-   -Exception handling
-   -Algorithms
-   -OOP
-   -Class
-   -Object
+   # Basic-Scripts
+
+   Basic-Scripts is a collection of basic Python scripts for newbies in Python to understand basic concepts of Python programming. The concepts covered are :
+
+   - Data Structures
+   - Conditional Statements
+   - Loops
+   - Exception handling
+   - Algorithms
+   - OOP
+   - Classes
+   - Objects
    
    
    
