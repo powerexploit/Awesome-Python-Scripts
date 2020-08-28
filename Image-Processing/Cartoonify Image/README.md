@@ -8,8 +8,8 @@ It can be further implemented for pencil-sketch, color-pencil-sketch, water-colo
 
 <h4>Original Image</h4>
 <p align="left">
-<img src="images/Readme_Output/Original20%Image.PNG" width="600" height="500"/></p>
+<img src="/images/Original%20Image.PNG" width="600" height="500"/></p>
 
 <h4>Cartoonified Image</h4>
 <p align="left">
-<img src="images/Readme_Output/Cartoonified20%Image.PNG" width="600" height="500"/></p>
+<img src="/images/Cartoonified%20Image.PNG" width="600" height="500"/></p>
