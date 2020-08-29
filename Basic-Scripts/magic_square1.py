@@ -66,7 +66,6 @@ def magic_square(n):
 
 # Main Function for Magic Square        
 if __name__ == '__main__':
-    magic_square(3)
-    print("\n")
-    magic_square(5)
+    n = int(input("Enter Number To Generate Magic Square"))
+    magic_square(n)
             
