@@ -12,5 +12,7 @@ also install the required modules:-
 
 It takes around 1 min to detect your current location and displays it as a dictionary in the python terminal
 
+# OUTPUT
 ![alt text](https://github.com/abhishek-pes/Awesome-Python-Scripts/blob/master/System-Automation-Scripts/geolocator-master/img.JPG)
 
+so the output is an ordered dictionary with the informatin of your location.
