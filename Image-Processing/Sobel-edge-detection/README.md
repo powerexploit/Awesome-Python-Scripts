@@ -20,8 +20,8 @@
 
 This is the example image to begin with :
 
-![Image](./images/start.png)
+![Image](/images/before.png)
 
 This is the final image after running the filter :
 
-![Image](./images/end.png)
+![Image](/images/after.png)
