@@ -10,4 +10,7 @@ also install the required modules:-
 
 -->rev_geocoder : pip install reverse-geocode
 
-It takes aroun 1 min to detect your current location and displays it as a dictionary in the python terminal
+It takes around 1 min to detect your current location and displays it as a dictionary in the python terminal
+
+![alt text](https://github.com/abhishek-pes/Awesome-Python-Scripts/blob/master/System-Automation-Scripts/geolocator-master/img.JPG)
+
