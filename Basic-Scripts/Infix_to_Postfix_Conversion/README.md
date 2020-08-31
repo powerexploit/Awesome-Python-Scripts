@@ -3,8 +3,8 @@
 > • In Infix expression operator is in between every pair of operands.<br>
 > • In Postfix expression, the operator is followed for every pair of operands. 
 
-- Infix expression is converted to postfix conversion using Stack.
-- Postfix expression is evaluated using Stack in Left to Right order.
+> Infix expression is converted to postfix conversion using Stack.
+> Postfix expression is evaluated using Stack in Left to Right order.
 
 ##### If the scanned character is operand, show it as output. Else, If precedence of scanned operator is greater than the precedence of the operator in the stack,push it.
 
@@ -15,7 +15,7 @@
 • Repeat above steps. Continue Pop and output from stack until it becomes empty.
 
 ##### It makes the code more efficient and even reduces the time complexity.
-
+### Constraints
 """
  Input:
  Enter infix expression: A+C*(B^D-E)^(G+H*K)-K
