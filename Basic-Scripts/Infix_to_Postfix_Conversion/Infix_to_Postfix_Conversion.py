@@ -52,13 +52,3 @@ print("Output")
 
 # Displaying the Output
 print("Postfix expression: ", infix_to_postfix(infix_expression))
-
-"""
- Input:
- Enter infix expression: A+C*(B^D-E)^(G+H*K)-K
- Output:
- Postfix expression:     ACBD^E-GHK*+^*+K-
-
- Time Complexity : O(n)
- Space Complexity: Θ(n)
-"""
