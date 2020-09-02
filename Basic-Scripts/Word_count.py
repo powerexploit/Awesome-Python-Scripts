@@ -1,4 +1,4 @@
-def countWords(fileName):
+def count_Words(fileName):
     number_of_words = 0
     number_of_characters = 0
     number_of_lines = 0
@@ -15,4 +15,4 @@ def countWords(fileName):
     print ("Characters: ", number_of_characters)
 
 if __name__ == '__main__':
-    countWords('quad.txt')
+    count_Words('count_Words.py')
