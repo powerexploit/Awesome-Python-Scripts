@@ -19,4 +19,4 @@ def count_Words(fileName):
     print ("Number of Characters: ", number_of_characters)
 
 if __name__ == '__main__':
-    count_Words('count_Words.py')
+    count_Words('Word_count.py')
