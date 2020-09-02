@@ -10,9 +10,9 @@ def count_Words(fileName):
             number_of_words += len(wordlist)
             number_of_characters += len(line)
 
-    print ("Words: ", number_of_words)
-    print ("Lines: ", number_of_lines)
-    print ("Characters: ", number_of_characters)
+    print ("Number of Words: ", number_of_words)
+    print ("Number of Lines: ", number_of_lines)
+    print ("Number of Characters: ", number_of_characters)
 
 if __name__ == '__main__':
     count_Words('count_Words.py')
