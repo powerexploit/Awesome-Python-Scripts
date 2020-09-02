@@ -1,5 +1,7 @@
 # Author: Prasad V Patil
 
+# This script helps to count number of words, number of lines and number of characters from a file.
+
 def count_Words(fileName):
     number_of_words = 0
     number_of_characters = 0
