@@ -30,4 +30,4 @@ pip install pandas
 
 ## Screenshot
 
-![](C:\Users\Admin\Desktop\Awesome-Python-Scripts\Image-Processing\Color_Detection\color_sample.png)
+![](../Color_Detection/color_sample.png)
