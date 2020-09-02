@@ -1,3 +1,5 @@
+# Author: Prasad V Patil
+
 def count_Words(fileName):
     number_of_words = 0
     number_of_characters = 0
