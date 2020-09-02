@@ -21,6 +21,8 @@ def count_Words(fileName):
 if __name__ == '__main__':
     count_Words('Word_count.py')
 
+    
+    
     #OUTPUT :-
     
     # Number of Words:  55
