@@ -4,7 +4,7 @@ face = cv2.CascadeClassifier('C:/Users/91976/Desktop/haarcascade_frontalface_def
 cap = cv2.VideoCapture(0) ##capturevideo by webcam or your laptop default cam for webcame  => 1 and for defalut laptop camera => 2
 
 while True:
-    sucess,img = cap.read()
+    sucess , img = cap.read()
     gray = cv2.cvtColor( img , cv2.COLOR_BGR2GRAY ) ##before detecting  face you should convert img or video into gray image
     faces = face.detectMultiScale( gray ,1.1 ,5 )
 
