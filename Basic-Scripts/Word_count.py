@@ -1,8 +1,8 @@
-# Author: Prasad V Patil
+# Author:- Prasad V Patil
+# The following is a python script, which helps to count number of words, number of lines and number of characters from a file.
 
-# This script helps to count number of words, number of lines and number of characters from a file.
 
-def count_Words(fileName):
+def count_Words(fileName):  
     number_of_words = 0
     number_of_characters = 0
     number_of_lines = 0
@@ -18,6 +18,8 @@ def count_Words(fileName):
     print ("Number of Lines: ", number_of_lines)
     print ("Number of Characters: ", number_of_characters)
 
+    
+#Main Program    
 if __name__ == '__main__':
     count_Words('Word_count.py')
 
