@@ -21,12 +21,19 @@ def count_Words(fileName):
     
 #Main Program    
 if __name__ == '__main__':
-    count_Words('Word_count.py')
-
+    fileName = input("Enter file name: ")
+    count_Words(filename)
     
+    '''
+    If this python file is given as file name,
+    i.e, 
+    count_Words('Word_count.py')
+    Then, the following will be the output.
+    '''
     
     #OUTPUT :-
     
     # Number of Words:  55
     # Number of Lines:  18
     # Number of Characters:  548
+    
