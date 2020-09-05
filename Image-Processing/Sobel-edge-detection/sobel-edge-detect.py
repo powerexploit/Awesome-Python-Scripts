@@ -6,8 +6,8 @@ from math import sqrt, atan
 #This script can be used for edge-detection without the use of any inbuilt openCV libraries
 #Here the sobel filter is applied after blurring the image.
 
-kernelblur = np.array([1/16,1/8,1/16,1/8,1/4,1/8,1/16,1/8,1/16]).reshape(3,3)
-kernelsobelX = np.array([-1,-2,-1,0,0,0,1,2,1]).reshape(3,3)
+kernelblur = np.array([1/16, 1/8, 1/16, 1/8, 1/4, 1/8, 1/16, 1/8, 1/16]).reshape(3, 3)
+kernelsobelX = np.array([-1, -2, -1, 0, 0, 0, 1, 2, 1]).reshape(3, 3)
 kernelsobelY = kernelsobelX.transpose()
 
 def convolute(img, kernel, height, width):
@@ -64,8 +64,8 @@ def sobel(img):
   resultant = []
   for i in range(height-1):
     for j in range(width-1):
-      in_x = pow(convoluted_X[i,j] ,2)
-      in_y = pow(convoluted_Y[i,j] , 2)
+      in_x = pow(convoluted_X[i, j], 2)
+      in_y = pow(convoluted_Y[i, j], 2)
       gradient = sqrt(in_x + in_y)
       reusultant.append(grad) 
   resultant = np.array(resultant).reshape(height-1, width-1)
