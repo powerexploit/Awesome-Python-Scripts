@@ -26,13 +26,13 @@ Please add the image you want to use this on in the same folder you are saving t
 ### Input
 
 <div align="center">
-<img src="./Detecting Contours/shapes.png" width="250">
+<img src="https://github.com/simarpreetsingh-019/Awesome-Python-Scripts/blob/master/Image-Processing/Detecting%20Contours/shapes.png" width="250">
 </div>
 
 
 ### output
 
 <div align="center">
-<img src="./Detecting Contours/output2.JPG" width="250">
+<img src="https://github.com/simarpreetsingh-019/Awesome-Python-Scripts/blob/master/Image-Processing/Detecting%20Contours/output2.JPG" width="250">
 </div>
 
