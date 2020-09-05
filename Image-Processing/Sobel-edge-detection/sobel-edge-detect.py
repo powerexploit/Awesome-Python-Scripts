@@ -47,7 +47,7 @@ def convolute(img, kernel, height, width):
 
 def sobel(img):
   height = img.shape[0]
-  width= img.shape[1]
+  width = img.shape[1]
 
   #The image is blurred, so the noise is removed
   blur = convolute(img, kernelblur, height, width)
@@ -62,8 +62,8 @@ def sobel(img):
   #Every pixel in convoluted_X can be called gx, in convoluted_Y can be called gy,
   #The resultant will be sqrt(pow(gx**2) + pow(gy**2))
   resultant = []
-  for i in range(height-1):
-    for j in range(width-1):
+  for i in range(height - 1):
+    for j in range(width - 1):
       in_x = pow(convoluted_X[i, j], 2)
       in_y = pow(convoluted_Y[i, j], 2)
       gradient = sqrt(in_x + in_y)
