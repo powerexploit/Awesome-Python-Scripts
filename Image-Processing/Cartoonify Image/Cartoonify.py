@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 from skimage import io
 
-
 # Class Defination
 class Cartoon:
     def __init__(self):
@@ -26,7 +25,6 @@ class Cartoon:
         resize2 = cv2.resize(cartoon_img, (600, 450))
         self.resize = resize
         self.resize2 = resize2
-
 
 # Displaying Image
 # Creating an object of class Cartoon
