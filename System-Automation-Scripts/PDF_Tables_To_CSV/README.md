@@ -1,5 +1,5 @@
 # PDF to CSV
-This scrpit will convert the tables in the PDF file into CSV files. Each CSV file has one table from the PDF and number of CSV equal to number of tables in the PDF.
+This script will convert the tables in the PDF file into CSV files. Each CSV file has one table from the PDF and the number of CSV equal to the number of tables in the PDF.
 
 # Requirements
 `pip install tabula-py, pandas`
