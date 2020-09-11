@@ -11,7 +11,7 @@ This code allows you to crop images and save them.
 5. Repeat from step 2 to crop more images.  
 
 ### Demo  
-![](https://github.com/Pranjalmishra30/OpenCV-Rep/blob/master/Mini-Projects/Cropping_Images/Data/CropDEMO.gif)  
+![](https://github.com/Pranjalmishra30/Awesome-Python-Scripts/blob/PranjalMishra/Image-Processing/ImageCropper/Data/CropDEMO.gif)  
 
 ### Refrences  
 1. Mouse events [tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_mouse_handling/py_mouse_handling.html)  
