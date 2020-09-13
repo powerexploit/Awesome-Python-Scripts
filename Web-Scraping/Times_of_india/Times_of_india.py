@@ -4,17 +4,17 @@ from bs4 import BeautifulSoup
 
 url = "http://timesofindia.indiatimes.com/"
 
-# Use requests library to get html from artist's page
+# Use requests library to get html from TOI's page
 response = requests.get(url)
 # Make the html soup object
 soup = BeautifulSoup(response.content, 'html.parser')
 
-print("\t!!!**The Times of India**!!!")
+print("\t!!!** The Times of India **!!!")
 today = datetime.date.today()
 print(today.strftime('\tThe date %d, %b %Y'))
 
 # scrping times of India in four domains:
-print("\n\t\t****Flash news****")
+print("\n\t\t**** Flash news ****")
 for div in soup.findAll('div', attrs={'id':'featuredstory'}):
     for a in div.findAll('a'):
         print(a.text)
