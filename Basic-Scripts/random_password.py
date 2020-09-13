@@ -8,7 +8,7 @@ def get_random_password():
     password += random.choice(string.digits)
     
 
-    for i in range(6):
+    for index in range(6):
         password += random.choice(random_source)
 
     password_list = list(password)
