@@ -1,9 +1,9 @@
-## Automate Telegram ##
+## Automate Telegram 
 - This script can be used to automate the process of sending messages in Telegram
 - Here the process of automation is achieved by using the framework Selenium.
 - Selenium is a portable framework for testing and automating web applications web applications
 
-## Working ##
+## Working 
 
 ![Image](login.png)
 
