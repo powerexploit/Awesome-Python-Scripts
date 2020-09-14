@@ -1,5 +1,3 @@
-
-
 """The previous script becomes very boring for the user as he has to keep on typing just numbers and of wants to interact using 
 simple english language he is unable to do so. Also the program terminates after one execution and if the user wants to keep on 
 performing operations it becomes difficult.
