@@ -1,35 +1,3 @@
-operation = input('''
-Please type in the math operation you would like to complete:
-1 for addition
-2 for subtraction
-3 for multiplication
-4 for division
-''')
-
-num = int(input('Enter your first number: '))
-num2 = int(input('Enter your second number: '))
-
-if operation == '1':
-    print('{} + {} = '.format(num, num2))
-    print(num+num2)
-
-elif operation == '2':
-    print('{} - {} = '.format(num, num2))
-    print(num-num2)
-
-elif operation == '3':
-    print('{} * {} = '.format(num, num2))
-    print(num*num2)
-
-elif operation == '4':
-    print('{} / {} = '.format(num, num2))
-    print(num / num2)
-
-else:
-    print('Wrong Input! Please Try Again')
-=======
-
-
 """The previous script becomes very boring for the user as he has to keep on typing just numbers and of wants to interact using 
 simple english language he is unable to do so. Also the program terminates after one execution and if the user wants to keep on 
 performing operations it becomes difficult.
@@ -135,12 +103,17 @@ def main():
     print()
     print("         THIS IS A BASIC USER FRIENDLY CALCULATOR!          ")
     print()
+    
+    print("The allowed actions are:")
+    print(" 1) ADDITION \n 2) SUBTRACTION \n 3) MULTIPLICATION \n 4) DIVISION")
+    print()
     print("You can type a sentence and interact.")
     print()
+
     #inputting two numbers at a time using the split function
     num_1,num_2 = input("Enter two numbers: ").split()
-    num1=float(num_1)
-    num2=float(num_2)
+    num_1=float(num_1)
+    num_2=float(num_2)
 
 
     #printing both the numbers
