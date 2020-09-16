@@ -71,5 +71,5 @@
    </div>  
    
 
-## Endnote:
-*For more detail on learning Canny Edge Detection and maths behind, see my article* [here](https://medium.com/simply-dev/what-is-canny-edge-detection-cfefa272a8d0)
+## Endnote: 
+### **For more detail on learning Canny Edge Detection and maths behind, see my article** [here](https://medium.com/simply-dev/what-is-canny-edge-detection-cfefa272a8d0)
