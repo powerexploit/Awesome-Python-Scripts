@@ -5,10 +5,10 @@ def select_roi (event,x,y,flags,param):
     global refpt #Global refrences
 
     if event == cv2.EVENT_LBUTTONDOWN: # When the left mouse button is cliked
-        refpt = [(x,y)]
+        refpt = [(x , y)]
 
     elif event == cv2.EVENT_LBUTTONUP: # When the left mouse button is released
-        refpt.append((x,y)) # recording the last coordinates
+        refpt.append((x , y)) # recording the last coordinates
         cv2.rectangle(img_main,refpt[0],refpt[1],(0,255,0),2)
         cv2.imshow("frame",img_main)
         print("Selection Successful")
@@ -22,7 +22,7 @@ clone2 = img_main.copy() # To crop a section out without affecting the original 
 cv2.namedWindow("frame")
 cv2.setMouseCallback("frame",select_roi)
 
-i=1 # Numbering for saving images
+i = 1 # Numbering for saving images
 
 while True:
     cv2.imshow("frame",img_main)
@@ -32,8 +32,8 @@ while True:
 
     if var == ord('c'): # Crop selected images
         
-        if len(refpt)==2:
-            roi = clone2[refpt[0][1]:refpt[1][1], refpt[0][0]:refpt[1][0]] # [x1:x2 , y1:y2]
+        if len(refpt) == 2:
+            roi = clone2[ refpt[0][1] : refpt[1][1] , refpt[0][0] : refpt[1][0] ] # [x1:x2 , y1:y2]
             cv2.namedWindow("Crop")
             cv2.imshow("Crop",roi)
             print("Cropped")
@@ -42,7 +42,7 @@ while True:
 
             if var2 == ord('s'): # Saving cropped image
                 cv2.imwrite("Data/cropped image{}.png".format(i),roi)
-                i=i+1
+                i = i+1
                 print("image saved\n")
                 cv2.destroyWindow("Crop") 
                 img_main = clone.copy()
