@@ -1,4 +1,4 @@
-## Desktop notifier
+# Desktop notifier
 - This script is exclusive to Windows
 - This script displays a randomly generated joke by the PyJokes library.
 - The user can set :
@@ -12,5 +12,5 @@
 
 ![Image](start.png)
 
-![Image](joke.png)
+![Image](jokes.jpeg)
 
