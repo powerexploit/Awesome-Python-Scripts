@@ -11,3 +11,7 @@ python zip_file_extractor.py -l <Your zip file>
 Example: 
 
 python zip_file_extractor.py -l Awesome.zip
+
+<p align = "center">
+	<img src="sample.PNG" alt="sample">
+</p>
