@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
-image=cv2.imread('image.png')
+image=cv2.imread('image.jfif')
 img=cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 edges = cv2.Canny(img,100,200) 
 
