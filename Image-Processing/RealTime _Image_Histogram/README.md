@@ -23,6 +23,9 @@ the output is also an image, whereas in computer vision the output can be some f
   $ pip install numpy <br>
   $ pip install matplotlib
   
+# About RealTime Image Histrogram
+This script is used to make real-time image histogram with respect to RGB (Red, Green, Blue) colors. It starts with open the camera to capture the image using **opencv** module, and store it to your script directory. After that by using **numpy** and **matplotlib** it creates the histogram of image by mapping it through 256 gray scales.
+
 # Output
 
 ![](https://github.com/gulshanbaraik01/Awesome-Python-Scripts/blob/Image-Process/Image-Processing/RealTime%20_Image_Histogram/Histogram_output.png)
