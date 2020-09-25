@@ -20,7 +20,7 @@ the output is also an image, whereas in computer vision the output can be some f
    
 ## Other Modules
 
-  $ pip install numpy <nbr>
+  $ pip install numpy <br>
   $ pip install matplotlib
   
 # Output
