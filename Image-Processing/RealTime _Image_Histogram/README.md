@@ -20,9 +20,9 @@ the output is also an image, whereas in computer vision the output can be some f
    
 ## Other Modules
 
-  $ pip install numpy
+  $ pip install numpy <nbr>
   $ pip install matplotlib
   
 # Output
 
-![](https://github.com/gulshanbaraik01/Awesome-Python-Scripts/new/Image-Process/Image-Processing/RealTime _Image_Histogram/Histogram_output.png)
+![](https://github.com/gulshanbaraik01/Awesome-Python-Scripts/blob/Image-Process/Image-Processing/RealTime%20_Image_Histogram/Histogram_output.png)
