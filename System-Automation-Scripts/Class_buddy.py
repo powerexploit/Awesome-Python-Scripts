@@ -20,7 +20,7 @@ opt.add_experimental_option("prefs", { \
     "profile.default_content_setting_values.media_stream_camera": 1, 
     "profile.default_content_setting_values.notifications": 1 
       })
-browser =webdriver.Chrome(chrome_options=opt,executable_path="C:\\Users\\Yuvraj\\Downloads\\softwares\\Webdrivers\\chromedriver_win32\\chromedriver.exe") #Enter the path of your chrome driver
+browser =webdriver.Chrome(chrome_options=opt,executable_path="C:\\Users\\path where your chrome driver is saved") #Enter the path of your chrome driver
 browser.maximize_window() 
 action=ActionChains(browser)
 
