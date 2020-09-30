@@ -1,0 +1,9 @@
+# Vscode files
+.vscode
+
+# Sample Files
+sample.pdf
+sample2.pdf
+
+# Python
+__pycache__
