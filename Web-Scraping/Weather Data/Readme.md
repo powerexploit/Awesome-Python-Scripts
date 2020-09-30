@@ -12,4 +12,4 @@ $ python3 Weather_data_scraper.py
 
 ## Output
 
-[im](im.png)
+![output](im.png?raw=true)
