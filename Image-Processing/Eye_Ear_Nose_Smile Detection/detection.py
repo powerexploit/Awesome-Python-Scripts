@@ -3,10 +3,10 @@ import cv2
 import numpy as np
 
 
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') 
-eye_cascade = cv2.CascadeClassifier('eye.xml')
-nose_cascade = cv2.CascadeClassifier('nose.xml')
-smile_cascade = cv2.CascadeClassifier('smile.xml')
+face_cascade = cv2.CascadeClassifier('XML Files/haarcascade_frontalface_default.xml') 
+eye_cascade = cv2.CascadeClassifier('XML Files/eye.xml')
+nose_cascade = cv2.CascadeClassifier('XML Files/nose.xml')
+smile_cascade = cv2.CascadeClassifier('XML Files/smile.xml')
 cap = cv2.VideoCapture(0)
 while 1: 
     ret, img = cap.read() 
