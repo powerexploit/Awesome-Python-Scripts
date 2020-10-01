@@ -23,8 +23,7 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 - Take a look at [guidelines](Contribution.md).
 
 > print("Start contributing for Automation-Python-Scripts")
-
-  print("Thanks.")
+> print("Thanks.")
 
 ## ❤️ Project Admin
 <a href="https://github.com/ankitdobhal"><img src="https://dev-to-uploads.s3.amazonaws.com/i/mw6tlz9b69yt7rif5fh6.png" width=100px height=180px /></a>
