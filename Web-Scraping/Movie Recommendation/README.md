@@ -12,3 +12,5 @@ There are 8 classes of emotion that would be effective to classify a text these 
 <b>Surprise</b><br>
 <b>Trust</b><br>
 Here these are taken as input and the corresponding movies would be displayed for the emotion.
+
+![IMG_20201002_003025](https://user-images.githubusercontent.com/43890931/94852005-e0c28b80-0446-11eb-8026-0bcb29b4703d.jpg)
