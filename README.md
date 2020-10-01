@@ -24,6 +24,12 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 
 > print("Start contributing for Automation-Python-Scripts")
 
+## Contents of this PROJECT
+- [Basic Python Scripts](https://github.com/ankitdobhal/Awesome-Python-Scripts/tree/master/Basic-Scripts)
+- [Image Processing Scripts](https://github.com/ankitdobhal/Awesome-Python-Scripts/tree/master/Image-Processing)
+- [System Automation Scripts](https://github.com/ankitdobhal/Awesome-Python-Scripts/tree/master/System-Automation-Scripts)
+- [Web Scraping using Python](https://github.com/ankitdobhal/Awesome-Python-Scripts/tree/master/Web-Scraping)
+
 
 ## ❤️ Project Admin
 <a href="https://github.com/ankitdobhal"><img src="https://dev-to-uploads.s3.amazonaws.com/i/mw6tlz9b69yt7rif5fh6.png" width=100px height=180px /></a>
