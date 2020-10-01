@@ -29,9 +29,8 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 
 <a href="https://github.com/ankitdobhal"><img src="https://dev-to-uploads.s3.amazonaws.com/i/mw6tlz9b69yt7rif5fh6.png" width=100px height=180px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|
-<a href="https://www.linkedin.com/in/ankit-dobhal-aa237015b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="30px"></a>
-**[Ankit Dobhal](https://www.linkedin.com/in/ankit-dobhal-aa237015b/)**
+
+<a href="https://www.linkedin.com/in/ankit-dobhal-aa237015b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="30px"></a> **[Ankit Dobhal](https://www.linkedin.com/in/ankit-dobhal-aa237015b/)**
 
 
 
