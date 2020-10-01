@@ -1,5 +1,4 @@
 # Awesome-Python-Scripts
-#This is a great project.
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -25,6 +24,7 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 
 > print("Start contributing for Automation-Python-Scripts")
 
+  print("Thanks.")
 
 ## ❤️ Project Admin
 <a href="https://github.com/ankitdobhal"><img src="https://dev-to-uploads.s3.amazonaws.com/i/mw6tlz9b69yt7rif5fh6.png" width=100px height=180px /></a>
