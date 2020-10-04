@@ -83,4 +83,4 @@ You can check https://docs.scrapy.org/en/latest/news.html for the release notes.
 # Running code
 ---
 ![scrapy crawl name_of_spider](image.png)
-![getting data](Screenshot (9).png)
+![getting data](Screenshot(9).png)
