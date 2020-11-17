@@ -8,7 +8,7 @@
 
 ****About****
 
-Contributor's Hack, 2020 is an Open Source Program organized by HakinCodes to introduce the youth to Open Source and it's great benefits. This program will run for about one and a half months in which fellow participants will get guidance from highly skilled mentors to contribute in Open Source Projects and after the conclusion of the program, they will recieve benefits according to their contributions.
+Contributor's Hack, 2020 is an Open Source Program organized by HakinCodes to introduce the youth to Open Source and it's great benefits. This program will run for about one and a half months in which fellow participants will get guidance from highly skilled professionals mentors to contribute in Open Source Projects and after the conclusion of the program, they will recieve benefits according to their contributions.
 
 <p align="center">
   <a href="https://hakincodes.tech/">
