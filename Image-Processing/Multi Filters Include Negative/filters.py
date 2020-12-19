@@ -1,11 +1,8 @@
-import PIL
 from PIL import Image
 from PIL import ImageFilter
-import cv2
-import skimage.measure
-import numpy as np
 import matplotlib.pyplot as plt
 import negative_image
+import cv2
 import sys
 import os
 
