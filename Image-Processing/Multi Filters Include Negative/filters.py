@@ -52,7 +52,7 @@ while True:
 				if (opt >= 1 and opt <= 11):
 					break
 			except ValueError:
-				print("PLEASE, DIGIT A INTEGER NUMBER BETWEEN 1 AND 10")
+				print("PLEASE, DIGIT A INTEGER NUMBER BETWEEN 1 AND 11")
 
 		if (opt >= 1 and opt <= 10):
 			img1 = img.filter(filters[opt-1])
