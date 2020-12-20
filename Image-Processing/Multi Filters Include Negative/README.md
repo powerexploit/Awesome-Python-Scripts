@@ -1,10 +1,10 @@
-#Multi Filters Include Negative
+# Multi Filters Include Negative
 
 The multi filters provides eleven differents filters to apply on images. It includes
 the Blur effect, Contour, Detail, Edge enhance and the Edge enhance more, Emboss, Find_egdes
 Sharpen, Smooth and the Smooth_more and the Negative effect
 
-##Installing dependences
+## Installing dependences
 
 First of all, we should check if we are using an updated version of pip, with this line:
     python3 -m pip install --upgrade pip
@@ -23,14 +23,14 @@ and then install matplotlib:
 
 note that matplotlib may install numpy as a dependence, but is a good practice to do it manually
 
-##Running
+## Running
 
 To get the program running we use the command below:
     python filters.py [NAME OF FILE IMAGE]
 
 It will show us the image we chosen and open a menu with the filters, from which we got to write a number corresponding to the filter we would like
 
-##Example
+## Example
 
 Let's try out with a normal image of an apple
 ![Normal apple]((https://github.com/brunohomma/Awesome-Python-Scripts/blob/feature-add-image-filters/Image-Processing/Multi_Filters_Include_Negative/apple.jpg?raw=true))
