@@ -38,62 +38,62 @@ It will show us the image we chosen and open a menu with the filters, from which
 
 Let's try out with a normal image of an apple
 <p align="center">
-  <img src="./images/apple.jpg" width="48" height="48">
+  <img src="apple.jpg" width="250" height="250">
 </p>
 
 Applying each of the filters, we get the following results:
 
 1 - Blur filter
 <p align="center">
-  <img src="./images/apple_1_converted.jpg" width="48" height="48">
+  <img src="./images/apple_1_converted.jpg" width="250" height="250">
 </p>
 
 2 - Contour filter
 <p align="center">
-  <img src="./images/apple_2_converted.jpg" width="48" height="48">
+  <img src="./images/apple_2_converted.jpg" width="250" height="250">
 </p>
 
 3 - Detail filter
 <p align="center">
-  <img src="./images/apple_3_converted.jpg" width="48" height="48">
+  <img src="./images/apple_3_converted.jpg" width="250" height="250">
 </p>
 
 4 - Edge enhance filter
 <p align="center">
-  <img src="./images/apple_4_converted.jpg" width="48" height="48">
+  <img src="./images/apple_4_converted.jpg" width="250" height="250">
 </p>
 
 5 - Edge enhance more filter
 <p align="center">
-  <img src="./images/apple_5_converted.jpg" width="48" height="48">
+  <img src="./images/apple_5_converted.jpg" width="250" height="250">
 </p>
 
 6 - Emboss filter
 <p align="center">
-  <img src="./images/apple_6_converted.jpg" width="48" height="48">
+  <img src="./images/apple_6_converted.jpg" width="250" height="250">
 </p>
 
 7 - Find_egdes filter
 <p align="center">
-  <img src="./images/apple_7_converted.jpg" width="48" height="48">
+  <img src="./images/apple_7_converted.jpg" width="250" height="250">
 </p>
 
 8 - Sharpen filter
 <p align="center">
-  <img src="./images/apple_8_converted.jpg" width="48" height="48">
+  <img src="./images/apple_8_converted.jpg" width="250" height="250">
 </p>
 
 9 - Smooth filter
 <p align="center">
-  <img src="./images/apple_9_converted.jpg" width="48" height="48">
+  <img src="./images/apple_9_converted.jpg" width="250" height="250">
 </p>
 
 10 - Smooth_more filter
 <p align="center">
-  <img src="./images/apple_10_converted.jpg" width="48" height="48">
+  <img src="./images/apple_10_converted.jpg" width="250" height="250">
 </p>
 
 11 - Negative filter
 <p align="center">
-  <img src="./images/apple_11_converted.jpg" width="48" height="48">
+  <img src="./images/apple_11_converted.jpg" width="250" height="250">
 </p>
