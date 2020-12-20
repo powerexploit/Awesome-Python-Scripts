@@ -37,39 +37,63 @@ It will show us the image we chosen and open a menu with the filters, from which
 ## Example
 
 Let's try out with a normal image of an apple
-![Normal apple](./apple.jpg | width=48)
+<p align="center">
+  <img src="./images/apple.jpg" width="48" height="48">
+</p>
 
 Applying each of the filters, we get the following results:
 
 1 - Blur filter
-![Blur filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_1_converted.jpg" width="48" height="48">
+</p>
 
 2 - Contour filter
-![Contour filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_2_converted.jpg" width="48" height="48">
+</p>
 
 3 - Detail filter
-![Detail filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_3_converted.jpg" width="48" height="48">
+</p>
 
 4 - Edge enhance filter
-![Edge enhance filter filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_4_converted.jpg" width="48" height="48">
+</p>
 
 5 - Edge enhance more filter
-![Edge enhance more filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_5_converted.jpg" width="48" height="48">
+</p>
 
 6 - Emboss filter
-![Emboss filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_6_converted.jpg" width="48" height="48">
+</p>
 
 7 - Find_egdes filter
-![Find_egdes filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_7_converted.jpg" width="48" height="48">
+</p>
 
 8 - Sharpen filter
-![Sharpen filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_8_converted.jpg" width="48" height="48">
+</p>
 
 9 - Smooth filter
-![Smooth filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_9_converted.jpg" width="48" height="48">
+</p>
 
 10 - Smooth_more filter
-![Smooth_more filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_10_converted.jpg" width="48" height="48">
+</p>
 
 11 - Negative filter
-![Negative filter](./images/apple_1_converted.jpg | width=48)
+<p align="center">
+  <img src="./images/apple_11_converted.jpg" width="48" height="48">
+</p>
