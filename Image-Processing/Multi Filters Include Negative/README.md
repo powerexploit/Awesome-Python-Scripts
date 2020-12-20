@@ -37,39 +37,39 @@ It will show us the image we chosen and open a menu with the filters, from which
 ## Example
 
 Let's try out with a normal image of an apple
-![Normal apple](./apple.jpg|width=48)
+![Normal apple](./apple.jpg | width=48)
 
 Applying each of the filters, we get the following results:
 
 1 - Blur filter
-![Blur filter](./images/apple_1_converted.jpg|width=48)
+![Blur filter](./images/apple_1_converted.jpg | width=48)
 
 2 - Contour filter
-![Contour filter](./images/apple_1_converted.jpg|width=48)
+![Contour filter](./images/apple_1_converted.jpg | width=48)
 
 3 - Detail filter
-![Detail filter](./images/apple_1_converted.jpg|width=48)
+![Detail filter](./images/apple_1_converted.jpg | width=48)
 
 4 - Edge enhance filter
-![Edge enhance filter filter](./images/apple_1_converted.jpg|width=48)
+![Edge enhance filter filter](./images/apple_1_converted.jpg | width=48)
 
 5 - Edge enhance more filter
-![Edge enhance more filter](./images/apple_1_converted.jpg|width=48)
+![Edge enhance more filter](./images/apple_1_converted.jpg | width=48)
 
 6 - Emboss filter
-![Emboss filter](./images/apple_1_converted.jpg|width=48)
+![Emboss filter](./images/apple_1_converted.jpg | width=48)
 
 7 - Find_egdes filter
-![Find_egdes filter](./images/apple_1_converted.jpg|width=48)
+![Find_egdes filter](./images/apple_1_converted.jpg | width=48)
 
 8 - Sharpen filter
-![Sharpen filter](./images/apple_1_converted.jpg|width=48)
+![Sharpen filter](./images/apple_1_converted.jpg | width=48)
 
 9 - Smooth filter
-![Smooth filter](./images/apple_1_converted.jpg|width=48)
+![Smooth filter](./images/apple_1_converted.jpg | width=48)
 
 10 - Smooth_more filter
-![Smooth_more filter](./images/apple_1_converted.jpg|width=48)
+![Smooth_more filter](./images/apple_1_converted.jpg | width=48)
 
 11 - Negative filter
-![Negative filter](./images/apple_1_converted.jpg|width=48)
+![Negative filter](./images/apple_1_converted.jpg | width=48)
