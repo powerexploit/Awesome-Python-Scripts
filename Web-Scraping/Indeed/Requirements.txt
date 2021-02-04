@@ -1,0 +1,45 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2020.12.5-h033912b_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libcxx-11.0.0-h4c3b8ed_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/llvm-openmp-11.0.0-h73239a0_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.2-h2e338ed_4.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/tzdata-2020d-h516909a_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.5-haf1e3a3_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h7795811_1010.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libffi-3.3-h046ec9c_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libgfortran5-9.3.0-h7cc5361_13.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1i-h35c211d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/readline-8.0-h0678c8f_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.10-h0419947_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libgfortran-5.0.0-h7cc5361_13.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.34.0-h17101e1_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libopenblas-0.3.12-openmp_h54245bb_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/python-3.9.1-h1d169a7_1_cpython.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-3_openblas.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pycparser-2.20-pyh9f0ad1d_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.9-1_cp39.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pytz-2020.4-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/six-1.15.0-pyh9f0ad1d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/soupsieve-2.0.1-py_1.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/wheel-0.36.2-pyhd3deb0d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/certifi-2020.12.5-py39h6e9494a_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/cffi-1.14.4-py39h7786acb_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/chardet-4.0.0-py39h6e9494a_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-3_openblas.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/liblapack-3.9.0-3_openblas.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pysocks-1.7.1-py39h2c36a5b_2.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.8.1-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/brotlipy-0.7.0-py39h66d5b7b_1001.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/cryptography-3.3.1-py39h79a2c39_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/numpy-1.19.4-py39he588a01_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-49.6.0-py39h2c36a5b_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pandas-1.1.5-py39h089d6f7_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.2-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2
