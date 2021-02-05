@@ -4,11 +4,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-## Contributor's Hack, 2020
-<p align="center">
-  <a href="https://hakincodes.tech/">
-    <img src="https://dev-to-uploads.s3.amazonaws.com/i/l03dhrni2dxfgi67hx78.jpeg" alt="Logo">
-  </a>
 
 ## 📌 Introduction
 A curated collection of awesome **Python** scripts from basic to advance with automation task scripts. This is the project from which you can learn that how to contribute a open source contest and specially during in Open source contest as a **Pythoneer**. 
