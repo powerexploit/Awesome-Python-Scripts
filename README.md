@@ -5,11 +5,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## Contributor's Hack, 2020
-
-****About****
-
-Contributor's Hack, 2020 is an Open Source Program organized by HakinCodes to introduce the youth to Open Source and it's great benefits. This program will run for about one and a half months in which fellow participants will get guidance from highly skilled mentors to contribute in Open Source Projects and after the conclusion of the program, they will recieve benefits according to their contributions.
-
 <p align="center">
   <a href="https://hakincodes.tech/">
     <img src="https://dev-to-uploads.s3.amazonaws.com/i/l03dhrni2dxfgi67hx78.jpeg" alt="Logo">
