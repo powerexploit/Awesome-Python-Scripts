@@ -1,0 +1,5 @@
+import geocoder
+
+loc = input("Enter the location:")
+g = geocoder.arcgis(loc)
+print(g.latlng)
