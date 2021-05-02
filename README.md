@@ -25,8 +25,10 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 |<a href="https://www.linkedin.com/in/ankit-dobhal-aa237015b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="30px"></a> |
 
 ## ⚡ Contributors
-- All Contributors can be found in the [contributor](https://github.com/ankitdobhal/Awesome-Python-Scripts/graphs/contributors) section.
+![105](https://contributors-img.web.app/image?repo=ankitdobhal/Awesome-Python-Scripts)
 
 
 ## License
 This project follows GNU [License](LICENSE)
+
+
