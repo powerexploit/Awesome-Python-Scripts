@@ -12,7 +12,7 @@ def check_parentheses(data: str) -> str:
     data (str): takes a string. 
   
     Returns: 
-    str: Returns a string value whether string passed is balanced or Unbalanced. 
+    str: Returns a string value whether string passed is balanced or Unbalanced.
 	"""
     stack = []
     for index in data:
@@ -21,7 +21,7 @@ def check_parentheses(data: str) -> str:
         elif index in closeBracketList:
             position = closeBracketList.index(index)
             if (len(stack) > 0) and (
-                openBracketList[position] == stack[len(stack) - 1]
+                    openBracketList[position] == stack[len(stack) - 1]
             ):
                 stack.pop()
             else:
@@ -33,8 +33,6 @@ def check_parentheses(data: str) -> str:
 
 
 if __name__ == "__main__":
-
     data = input("Enter the string to check:\t")
     result = check_parentheses(data)
     print(result)
-
