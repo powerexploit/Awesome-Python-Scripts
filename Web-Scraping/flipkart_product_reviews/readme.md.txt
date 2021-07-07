@@ -1,0 +1,1 @@
+Asks the user for the URL of the product they are interested in and then scrapes 10 pages of reviews for them.
