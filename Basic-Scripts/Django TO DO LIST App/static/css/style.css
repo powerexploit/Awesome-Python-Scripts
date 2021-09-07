@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
+body{
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1 {
+  color:white;
+  text-align: center;
+  font-size: 65px;
+
+}
+
+ol {
+  color: white;
+}
+ol li{
+  font-size: 30px;
+  font-weight: 500;
+
+}
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+}
+
+p a {
+  color: white;
+}
