@@ -1,0 +1,5 @@
+{
+  "url": "https://quotes.toscrape.com",
+  "tag": "span",
+  "class": "text"
+}
