@@ -10,8 +10,9 @@ jobs:
   rudra:
     runs-on: ubuntu-latest
     steps:
-      - uses: powerexploit/rudra@v0
+      - uses: powerexploit/Rudra@v0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           llm-api-key: ${{ secrets.RUDRA_LLM_API_KEY }}   # omit → deterministic-only
+          llm-provider: anthropic
           fail-threshold-score: "7.0"
