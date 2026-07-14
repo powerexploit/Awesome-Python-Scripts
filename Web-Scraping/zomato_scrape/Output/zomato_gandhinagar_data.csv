@@ -1,0 +1,541 @@
+name,address,cost_per_two,timings,category,cusine,detailed_address,featured_in,discount
+Subway,Infocity,₹500,11am – 12midnight (Mon-Sun),Quick Bites,"Healthy Food,Sandwich,Salad,Wraps,Fast Food"," Shop 1, Super Mall 1, Infocity, Gandhinagar",,NULL
+Spices & Herbs,Infocity,₹700,"12noon – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Mexican,Chinese"," Swagat Rainforest 2, Opposite Swaminarayan Dham, Infocity, Gandhinagar","Outdoor Seating,Unique Dining",NULL
+Terracotta,Airport Gandhinagar Highway,"₹1,000","12noon – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Italian,Chinese"," A-101, Pramukh Arcade 2, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",Best of Ahmedabad,NULL
+Creamoholic Cafe & Restaurant,Airport Gandhinagar Highway,₹700,12noon – 6am (Mon-Sun),Café,"Cafe,North Indian,Continental"," G Block, 59/60, Krishna Kunj Complex, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Domino's Pizza,"Sector 11, Gandhinagar",₹600,10:57am – 3am (Mon-Sun),Quick Bites,"Pizza,Fast Food"," 231, Haveli Arcade, Sector 11, Gandhinagar",,NULL
+Trupti Ice Cream Parlour,"Sector 16, Gandhinagar",₹250,"10:30am – 10pm (Mon, Tue, Wed, Fri, Sat, Sun)...",Dessert Parlor,"Desserts,Ice Cream"," 382 & 383, Near DCB Bank, Sector 16, Gandhinagar",,NULL
+Mocha,Infocity,"₹1,200",12noon – 9:30pm (Mon-Sun),Café,"Cafe,Italian,North Indian,Continental,Beverages,Desserts"," SG Highway, Near Indroda Circle, Infocity, Gandhinagar","Great Coffee,Trending This Week",10% off on all orders above ₹499
+Mezza 9,Airport Gandhinagar Highway,₹700,"11am – 3pm, 7pm – 11:30pm (Mon-Sun)",Casual Dining,"North Indian,Beverages"," Plot Radhe Fortune, Near Apollo Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+La Pino'z Pizza,Airport Gandhinagar Highway,₹800,11am – 11pm (Mon-Sun),Quick Bites,"Pizza,Italian,Fast Food,Desserts,Beverages"," A 139, Pramukh Arcade, Kudasan, Gandhinagar, Airport Gandhinagar Highway, Gandhinagar",Best Pizza in Town,NULL
+Bhavnaben Raval,"Chopati, Sector 16",₹300,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Chinese,South Indian"," Shop 77, Chopati, GH Road, Sector 16, Gandhinagar",,NULL
+Cafe Chocoaddict,Airport Gandhinagar Highway,₹400,"12midnight – 12:30am, 11am – 12midnight...",Café,Cafe," 52, Radhe Square Building, Near Reliance Chokdi, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Greenz Restaurant,Infocity,₹700,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"Chinese,North Indian,Continental"," Near Ved International School, Sargasan Road, Infocity, Gandhinagar",,10% off on all orders
+Gurukrupa Food Zone,Airport Gandhinagar Highway,₹400,"11am – 3pm, 6pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Chinese"," Shop 50, Radhe Square, Near Kabir world, Reliance chowkadi,Kudasan Airport Gandhinagar Highway, Gandhinagar",,20% off on all orders above ₹129
+Foodsta,Airport Gandhinagar Highway,₹400,10am – 3am (Mon-Sun),Quick Bites,"North Indian,Chinese,Fast Food"," 51, Radhey Square Complex, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Sardar Foods,Infocity,₹500,"11:30am – 3pm, 7pm – 10:30pm (Mon-Sun)",Quick Bites,"North Indian,Chinese"," Shop 24, Super Mall 2, Gh 0 Circle, Infocity, Gandhinagar",,NULL
+Khana Shana,Infocity,₹900,"11:30am – 3pm, 7pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,Street Food"," 102 A, Super Mall 1, Infocity, Gandhinagar",,25% off on all orders above ₹150
+Hungry Puppet,Airport Gandhinagar Highway,"₹1,000","12noon – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Mexican,Fast Food"," Radhe Fortune Complex, Near Balaji Agora Mall, Bhat Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+7 Wonders Hotel,Airport Gandhinagar Highway,₹900,11am – 10pm (Mon-Sun),Casual Dining,"Fast Food,Chinese,North Indian,Desserts,Beverages"," 7th Floor, Ugti Cooperate Park, Kudasan, Opposite HDFC Bank, Airport Gandhinagar Highway, Gandhinagar",,20% off on all orders above ₹449
+Dawat,Infocity,₹700,"12noon – 3pm, 7pm – 10pm (Mon, Tue, Wed, Thu...",Casual Dining,"North Indian,Mughlai,Chinese"," A 11, Super Mall 1, Infocity, Gandhinagar",,10% off on all orders above ₹169
+Dilkhush Food Point,Airport Gandhinagar Highway,₹350,"9am – 3:30pm, 6pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Street Food"," Shop 10, Pramukh Corporate, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Savoury Restaurant and Banquet,Infocity,₹600,"11am – 3:30pm, 6:30pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese"," Atria Business Hub, Sargasan Cross Roads, KH-0, S. G. Highway, Infocity, Gandhinagar",,NULL
+The Chocolate Room,Infocity,₹900,9:30am – 11pm (Mon-Sun),Café,"Cafe,Italian,Mexican,Desserts"," 18/19, Super Mall 2, Infocity, Gandhinagar",,30% off on all orders above ₹299
+Mr. & Mrs. Idly,Infocity,₹300,11am – 11pm (Mon-Sun),Quick Bites,South Indian," Shop 29, Supermall 1, Infocity, Gandhinagar",,NULL
+Sam's Pizza,Infocity,₹600,11am – 11pm (Mon-Sun),Quick Bites,"Pizza,Fast Food"," 101, Super Mall 2, Infocity, Gandhinagar",,NULL
+Dadi Sa Restaurant,"Sector 16, Gandhinagar",₹600,"11am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Fast Food"," Plot 286, Gh 4, Sector 16, Gandhinagar",,NULL
+Dum ka Zaika- Narayani Heights,Airport Gandhinagar Highway,"₹1,300","12noon – 3pm, 7pm – 11pm (Mon-Sun)",Fine Dining,"Mughlai,North Indian,South Indian"," Narayani Heights, Near Apollo Hospital, Airport Gandhinagar Highway, Gandhinagar","Flavours of Punjab,Fancy and Fun",NULL
+Sankalp,Infocity,₹500,11am – 11pm (Mon-Sun),Casual Dining,"South Indian,Beverages,Ice Cream"," 101, Super Mall 1, Near Gh 0 Circle, Infocity, Gandhinagar",,25% off on all orders above ₹199
+Green Apple Restaurant,"Sector 16, Gandhinagar",₹600,"10:30am – 3pm, 6:30pm – 10pm (Mon-Sun)",Casual Dining,"North Indian,Chinese"," 1st Floor, GH-4II, Near Gandhinagar Nagarik Bank, Sector 16, Gandhinagar",,NULL
+Pirate King's Kitchen,Airport Gandhinagar Highway,₹500,8pm – 4am (Mon-Sun),NULL,"North Indian,Chinese"," Shop 12, 1st Floor, Aawaass Coconut, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Faasos,Airport Gandhinagar Highway,₹600,7am – 1am (Mon-Sun),NULL,"Wraps,North Indian,Biryani,Fast Food", Delivery Only,,NULL
+Kaka Kathiyawadi,Airport Gandhinagar Highway,₹400,"11:30am – 4pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,Gujarati"," 104, Radhe Square, Reliance Cross Road, Kudasan, Gandhinagar",,NULL
+Tuli's Restaurant,Airport Gandhinagar Highway,₹600,11am – 11pm (Mon-Sun),Casual Dining,"Bengali,North Indian,Chinese"," 36, 37, Pramukh Arcade, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Marigold Restaurant,"Sector 16, Gandhinagar",₹600,"10:30am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,South Indian"," Plot 281, GH Road, Sector 16, Gandhinagar",,NULL
+Hocco Eatery,Infocity,₹700,10am – 1am (Mon-Sun),Quick Bites,"Pizza,Sandwich,Fast Food,Biryani,Wraps,Beverages"," SHOP NO 11 12 GROUND FLOOR INFOCITY SUPER MALL GANDHINAGAR, Gandhinagar Municipal Corporation (Gujarat) - 382007",,NULL
+Midnight Scorer,Infocity,₹400,8am – 5am (Mon-Sun),Quick Bites,Fast Food," Shop 26, Shree Rang Plaza, Dholeswar Mahadev, Randesan Infocity, Gandhinagar",,NULL
+56 Bhog,Infocity,₹600,"11am – 2:30pm, 7pm – 10pm (Mon-Sun)",Casual Dining,"Gujarati,North Indian"," F1-F2, Siddhraj Zavod, Near Sargassan Cross Roads, Infocity, Gandhinagar",,NULL
+Megh Malhar Fancy Dosa,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,South Indian," Radhe Square Complex, Opposite NID College, Reliance Crossroads. 
+Kudasan, Airport Gandhinagar Highway, Gandhinagar",,20% off on all orders
+Balista,Airport Gandhinagar Highway,₹500,11am – 10pm (Mon-Sun),Quick Bites,"Italian,Wraps,Sandwich"," Shop 24, Pramukh Cyprus, Shahpur Sargasan Road, Opposite Aska Hospital, Kundasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Behrouz Biryani,Airport Gandhinagar Highway,₹550,10am – 1am (Mon-Sun),NULL,Biryani," C-19-20, Swagat Rainforest 2, Village Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Pooja Parlour,"Sector 21, Gandhinagar",₹200,10am – 10pm (Mon-Sun),Quick Bites,Street Food," B/8, District Shopping Center, Sector 21, Gandhinagar",Street Food,NULL
+Satkar Garden Restaurant,Infocity,₹700,"11am – 3pm, 6:30pm – 10pm (Mon, Tue, Thu, Fri...",Casual Dining,"North Indian,Gujarati,Chinese,Mexican,Beverages"," Near Suyash Elegance, Kudasan, Infocity, Gandhinagar",,NULL
+Blue Crunch,"Sector 21, Gandhinagar",₹200,10am – 12midnight (Mon-Sun),Dessert Parlor,"Desserts,Ice Cream"," Gh-5, Kapidhvaj Complex, Near IBP Petrol Pump, Sector-22, Near Sector 21, Gandhinagar",,NULL
+Khanasutra,Airport Gandhinagar Highway,₹550,7pm – 4am (Mon-Sun),Quick Bites,"North Indian,Chinese,Fast Food"," 101,Shyam Sukan Complex, Bhaijipura Cross Road, Airport Gandhinagar Highway, Gandhinagar, Ahmedabad.",,NULL
+Furat Restaurant,Airport Gandhinagar Highway,₹600,"11am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Fast Food"," Pramukh Arcade, Opposite NID, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Alfa,"Sector 16, Gandhinagar",₹750,"11:30am – 3:30pm, 6:30pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Mughlai"," 316-317, Shopping Centre, Sector 16, Gandhinagar",,10% off on all orders
+Zayka,Infocity,₹350,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Seafood,Chinese"," Shop 2, Anxy Super Mall, Infocity, Gandhinagar",,NULL
+Anki's Cakery,Infocity,₹200,"11am – 8pm (Mon-Sat),12noon – 6pm (Sun)",NULL,"Bakery,Desserts"," B 19, InfoCity Township, InfoCity, Gandhinagar",,NULL
+Momoman,Infocity,₹500,11am – 11pm (Mon-Sun),Casual Dining,"Momos,Chinese"," 4/B & 5/B, Super Mall 1, Besides GH-0 Cross Road, Infocity, Gandhinagar",,NULL
+Wooddy Jhone's Pizza,Airport Gandhinagar Highway,₹500,"11am – 11pm (Mon-Sat),11am – 12:30am (Sun)",Quick Bites,"Pizza,Fast Food"," A 101/104, Atria The Bussiness Hub, Sargasan Cross Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Radhe Sweets And Snacks,"Sector 11, Gandhinagar",₹250,9:30am – 8pm (Mon-Sun),Sweet Shop,"Mithai,Fast Food,Street Food,Gujarati"," 231, Haveli Extension, Sector 11, Gandhinagar",Sweet Tooth,10% off on all orders
+Rajvee Food Corner,Airport Gandhinagar Highway,₹600,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)",Casual Dining,"Chinese,Fast Food,Gujarati,North Indian"," Shop 1, Ground Floor, Pratik Mall, Near City Pulse, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Saffron,Infocity,₹800,"12noon – 3:30pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Biryani"," 118, First Floor, Super Mall 2, Infocity, Gandhinagar",,NULL
+Hogger's Den,Airport Gandhinagar Highway,₹300,7pm – 11pm (Mon-Sun),Food Truck,Fast Food," Raysan Bus Stand, Service Road Kudasan, Gandhinagar Highway, Gandhinagar",,NULL
+Fits Food,Airport Gandhinagar Highway,₹350,"10am – 10pm (Mon-Sat),Closed (Sun)",NULL,"Healthy Food,Fast Food,Beverages"," Shop 151, 1st Floor, Radhe Square, Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Some Place Else,Infocity,₹600,"12noon – 3:30pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Italian,Mexican,Chinese"," 117, Super Mall-2, Infocity, Gandhinagar",,NULL
+Koba Social,Airport Gandhinagar Highway,₹700,5pm – 1am (Mon-Sun),Casual Dining,"Italian,Mexican,North Indian"," Service Lane, From Koba Circle, Towards Kamalam, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Yash Food Point,Infocity,₹250,8am – 10pm (Mon-Sun),Quick Bites,"North Indian,South Indian,Chinese,Fast Food"," Shop 5, NXC, Infocity, Gandhinagar",,NULL
+McDonald's,Infocity,₹500,9am – 11pm (Mon-Sun),Quick Bites,"Burger,Fast Food"," Shop 1 & 2, Pramukh Tangent, Sargasan Cross Road, Infocity, Gandhinagar",Food Hygiene Rated Restaurants In Ahmedabad,NULL
+I Contrast IC Fiesta,Airport Gandhinagar Highway,₹300,10am – 9pm (Mon-Sun),Dessert Parlor,"Desserts,Beverages,Wraps"," A1, Pramukh Arcade, Near Reliance Cross Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Kathi Junction,Airport Gandhinagar Highway,₹450,10am – 11pm (Mon-Sun),Quick Bites,"Rolls,Chinese,North Indian"," Shop B 120, Kudasan, Near KTM Bike Showroom, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Zinc,Airport Gandhinagar Highway,₹350,11am – 9:30pm (Mon-Sun),Quick Bites,North Indian," 1st Floor, Saptarushi Complex, Block D, Near Rakshashakti Circle, Airport Gandhinagar Highway, Gandhinagar",,40% off on all orders
+Chatkazz,Infocity,₹250,8am – 10:30pm (Mon-Sun),Quick Bites,Fast Food," 19, Ground Floor, Super Mall 1, Infocity, Gandhinagar",,NULL
+The Belgian Waffle Co.,Infocity,₹300,11am – 11pm (Mon-Sun),Dessert Parlor,"Desserts,Beverages,Fast Food"," 21, Infocity Service Road, Infocity, Gandhinagar",,NULL
+Cafe Coffee Day,Infocity,₹700,9am – 11pm (Mon-Sun),Café,"Cafe,Sandwich,Fast Food,Beverages,Desserts"," Shop 17, Super Mall 2, Commercial Complex, Infocity, Gandhinagar",,NULL
+Karnavati Dabeli,Infocity,₹350,9am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," 203, Sarthak Mall, Sarghasan Chokdi, Mahatma Mandir Road, Infocity, Gandhinagar",,NULL
+RP's Pizzeria,Infocity,₹550,11am – 11pm (Mon-Sun),Casual Dining,"Pizza,Continental,Italian,Fast Food,Beverages"," 7, 8, 9, Ground Floor, Tangent Complex, Near Sargasan Circle, Vill Sargasan Tal, Infocity, Gandhinagar",,20% off on all orders
+Eggs Point,Airport Gandhinagar Highway,₹300,9am – 10:30pm (Mon-Sun),Quick Bites,Fast Food," B-75, Pramukh Arcade, Near Reliance Chokdi, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Charotar,"Sector 21, Gandhinagar",₹400,8:30am – 10pm (Mon-Sun),Quick Bites,"North Indian,South Indian,Street Food,Fast Food,Beverages"," Plot 286, Akshar Bhavan, Sector 21, Gandhinagar",,20% off on all orders
+Radhe Thal,Infocity,₹600,"11am – 3pm, 7:30pm – 11pm (Mon-Sun)",Casual Dining,Gujarati," Siddhraj Zavod, SG Highway, Sargasan, Infocity, Gandhinagar",,NULL
+Sahib's,Infocity,₹700,"11am – 3pm, 6:30pm – 11:30pm (Mon-Sun)",NULL,"North Indian,Mughlai", Delivery Only,,NULL
+Shakti - The Sandwich Shop,Airport Gandhinagar Highway,₹600,11:30am – 11:30pm (Mon-Sun),Quick Bites,"Sandwich,Fast Food,Beverages"," Radhe Square Complex, Opposite NID College, Reliance Crossroads,
+Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Kansar Garden Restaurant,Airport Gandhinagar Highway,₹700,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Fast Food,Italian,Ice Cream,Beverages"," Kudasan Por Road, Near Kishan Petrol Pump, Airport Gandhinagar Highway, Gandhinagar",,NULL
+HM Kathiyawadi,Airport Gandhinagar Highway,₹300,"11:30am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"Gujarati,North Indian"," B-50, 51 Pramukh Arcade, Near Reliance Cross Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Orchid - Fortune Inn Haveli Restaurant,"Fortune Inn Haveli Restaurant, Sector 11, Gandhinagar","₹1,400","7am – 10:30am, 12:30pm – 3:30pm, 7:30pm –...",Casual Dining,"North Indian,Mughlai"," Fortune Inn Haveli, Plot 235, Sector 11, Gandhinagar",Sunday Brunches,NULL
+Real Paprika,"Sector 16, Gandhinagar",₹400,"11am – 3pm, 6pm – 10pm (Mon-Sun)",Quick Bites,"Pizza,Fast Food"," Near Punjab National Bank, Sector 16, Gandhinagar",,10% off on all orders above ₹325
+Purnima,"Sector 16, Gandhinagar",₹600,"10:30am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,South Indian,Chinese,Fast Food"," 1/2, Gh 4, Sector 16, Gandhinagar",,10% off on all orders
+Order N Eat,Infocity,₹550,9am – 7pm (Mon-Sun),NULL,"North Indian,Chinese,Fast Food", Delivery Only,,NULL
+Spice Affair - Hotel German Palace,Airport Gandhinagar Highway,"₹1,000",11am – 11pm (Mon-Sun),Casual Dining,"North Indian,Continental"," Hotel German Palace, Opposite Apollo Hospital, Airport Gandhinagar Highway, Gandhinagar","Fancy and Fun,Flavours of Punjab,Meat Cravings",NULL
+Chhel Chhabila,Infocity,₹600,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Gujarati,Rajasthani"," 112-114, B Block, Atria Business Hub, Sargasan Chokadi, Near Infocity, Gandhinagar",,10% off on all orders
+Bhagyoday Restaurant,"Sector 21, Gandhinagar",₹600,"11am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Continental"," B-1, Plot 197, District Shopping Centre, Sector 21, Gandhinagar",,NULL
+Shiva's Coffee Bar & Snacks,Infocity,₹450,9am – 10pm (Mon-Sun),Quick Bites,"Cafe,Fast Food"," A 38, Super Mall 1, Infocity, Gandhinagar",,NULL
+Laxmi Bakery,"Sector 21, Gandhinagar",₹200,8am – 10pm (Mon-Sun),NULL,Bakery," C- 1, Shopping Centre, Sector 21, Gandhinagar",,NULL
+Brown Burger Co.,Airport Gandhinagar Highway,₹250,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Burger,Sandwich,Pizza,Beverages"," 140, Pramukh Arcade, Reliance Cross Road, Urjanagar 1, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Manokamana Momo Magic,Infocity,₹300,"9:30am – 2am (Mon-Wed),9:32am – 2am (Thu),11am...",Food Truck,"Momos,Chinese"," Opposite TATA Consultancy Services, Infocity, Gandhinagar",,25% off on all orders above ₹199
+Pathikashram Cafe,"Pathikashram, Sector 11",₹450,10am – 4am (Mon-Sun),Quick Bites,"South Indian,Fast Food,Chinese,Desserts"," Near S T Depot, GH 3 Circle, GH Road, Sector 11, Gandhinagar",,NULL
+Gwalia Sweets,Infocity,₹450,9am – 11pm (Mon-Sun),Sweet Shop,"Mithai,South Indian,North Indian"," Ground Floor, Super Mall 2, Infocity, Gandhinagar",,NULL
+Shambhu's Coffee Bar,Infocity,₹600,9am – 12midnight (Mon-Sun),Café,"Cafe,Sandwich,Fast Food"," Near Ved International School, Sargasan Road, Infocity, Gandhinagar",,NULL
+Blake Pepper,Airport Gandhinagar Highway,₹650,"11am – 3pm, 6pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese"," C 117, Swagat Rainforest 1, Airport Gandhinagar Highway, Gandhinagar",,NULL
+New Dawat Restaurant,Infocity,₹600,"11am – 3:30pm, 7pm – 11pm (Mon-Sun)",Casual Dining,North Indian," Shop 9-10-11, Super Mall 1, Infocity, Gandhinagar",,10% off on all orders above ₹169
+The Hangout Cafe,Airport Gandhinagar Highway,₹550,11am – 11pm (Mon-Sun),Café,Cafe," Shop 1, 2, 3, Kanam Residency 2, DA-IICT Cross Roads, Near Kanam Party Plot, Airport Gandhinagar Highway, Gandhinagar, Ahmedabad",,NULL
+Hotel Gokul,"Sector 16, Gandhinagar",₹300,"10:30am – 3pm, 7pm – 10pm (Mon-Sun)",Quick Bites,Gujarati," Plot 437, Near Axis Bank, Gh Road, Sector 16, Gandhinagar",,NULL
+The Royal Dum Biryani,Airport Gandhinagar Highway,₹450,11am – 3am (Mon-Sun),Quick Bites,"Biryani,North Indian,Chinese"," Shop 4, Pramuk Cyprus, Opposite Ashka Hospital, Sargasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Om Food Centre,Infocity,₹300,"11am – 4pm, 6pm – 12midnight (Mon-Sun)",NULL,"Gujarati,North Indian,Rajasthani"," Plot 91, Next To Shree Rang Plaza 95, Randesan, Infocity, Gandhinagar",,NULL
+Khana Khajaana Restaurant,Airport Gandhinagar Highway,₹500,9am – 11:30pm (Mon-Sun),Quick Bites,"North Indian,Chinese"," A12, Swagat Rainforest 2, Opposite Axis Bank, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Bombay Vadapav,Airport Gandhinagar Highway,₹200,8am – 11:30pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," Radhe Square Building, Near Reliance Chokdi, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Candle Light Date N Dinner,Airport Gandhinagar Highway,"₹1,500","11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese"," 3. 522, Pramukh Mastana, Reliance Circle, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+William John's Pizza,Airport Gandhinagar Highway,₹500,"11am – 4pm, 7pm – 11pm (Mon-Sun)",Quick Bites,Pizza," Pramukh Arcade 2, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Urban Khichdi,Airport Gandhinagar Highway,₹600,"12noon – 4pm, 7pm – 1am (Mon-Sun)",Casual Dining,"North Indian,Healthy Food"," 65, Pramukh Mastana, Near Reliance Cross Roads, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Lalabhai Sevusalwala,Airport Gandhinagar Highway,₹200,9:30am – 10:30pm (Mon-Sun),Quick Bites,"Street Food,Gujarati"," Radhe Square complex, Opposite NID College, Reliance Crossroads. 
+Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Honest,Airport Gandhinagar Highway,₹800,11am – 11pm (Mon-Sun),Casual Dining,"North Indian,Fast Food,South Indian,Chinese"," 4-8, Pramukh Arcade-2, Opposite NID, Kudasan Airport Gandhinagar Highway, Ahmedabad",,NULL
+Karnavati Dabeli Centre,"Sector 16, Gandhinagar",₹250,10am – 10pm (Mon-Sun),Quick Bites,"Street Food,Fast Food,Gujarati"," Plot 385/1, Near Ambica (idea) Communication Cetner Sector 16, Gandhinagar, Gujarat",,NULL
+Up & Up,Airport Gandhinagar Highway,₹500,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Biryani,Rolls"," Shop 162, 1st Floor, Radhe Square, Reliance Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Chai Wai,Airport Gandhinagar Highway,₹350,8am – 10:30pm (Mon-Sun),Quick Bites,"Tea,Sandwich,Fast Food,Beverages"," A 37-38, Pramukh Arcade, Opposite NID, Reliance Chowkdi, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Pizza Plus,Airport Gandhinagar Highway,₹450,"11am – 3pm, 6:30pm – 10:30pm (Mon-Sun)",Quick Bites,"Pizza,Fast Food"," Radhe Square Complex, Opposite NID College, Reliance Crossroads. Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Indichini,Airport Gandhinagar Highway,₹900,"12noon – 4pm, 7pm – 12midnight (Mon-Sun)",Casual Dining,"Chinese,North Indian,Italian,Continental"," Shop 131-134, Radhe Fortune Plot, Near Apollo Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Khyati's Cake,Infocity,₹250,11am – 8pm (Mon-Sun),Bakery,"Bakery,Desserts"," Swagat Afford, Sargasan Cross Road, Infocity, Gandhinagar",,NULL
+Pooja Dhokla Shoppe,Airport Gandhinagar Highway,₹150,9am – 10:30pm (Mon-Sun),Quick Bites,"Street Food,Fast Food"," B-42, Pramukh Arcade, Reliance Cross Roads, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Tuli's Restaurant,"Vittal Mall, Chandkheda",₹500,11am – 11pm (Mon-Sun),NULL,"North Indian,Chinese,Bengali,Mughlai,Biryani,Beverages,Rolls"," Shop 36, Pramukh Arcade Complex, Opposite Rajdhani Society, Reliance Cross Road, Kudasan, Infocity, Gandhinagar",,NULL
+Mr. Prince,Airport Gandhinagar Highway,₹250,11am – 11pm (Mon-Sun),Quick Bites,Street Food," Radhe Square Complex, Opposite NID College, Reliance Crossroads. Kudasan, Airport Gandhinagar Highway",,NULL
+Catch 22,Airport Gandhinagar Highway,₹400,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)",Quick Bites,Fast Food," B 101-112, Pramukh Arcade, Radhe Square, Near NID Reliance Circle, Kudasan, Airport Gandhinagar Highway, Gandhi Nagar",,NULL
+Rollin Greens,Airport Gandhinagar Highway,₹200,"11:30am – 3:30pm, 8pm – 2am (Mon-Sun)",NULL,"Fast Food,North Indian,Chinese"," A-5A, Vinayak Riverside, Opposite Shanti Botanica, Raysan Village Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Paubhajiwala,Airport Gandhinagar Highway,₹350,"12noon – 11pm (Mon),11am – 11pm (Tue-Sun)",Quick Bites,Street Food," 140, Pramukh Arcade, Reliance Cross Road, Urjanagar 1, Near Infocity, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Apnaa Addaa,Airport Gandhinagar Highway,₹400,"12midnight – 6am, 9am – 12midnight (Mon-Sun)",Quick Bites,"Rolls,Fast Food,Beverages"," Pramukh Arcade 2, Opposite NID, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Cafe Moj Masti,Airport Gandhinagar Highway,₹400,10am – 12midnight (Mon-Sun),Café,Cafe," 20-21-22, Pramukh Cyprus, Kudasan, Gandhinagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Kutchi King,Infocity,₹300,10am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," 6, Supper Mall 1, Infocity, Gandhinagar",,NULL
+Vrundavan Garden Restaurant,Airport Gandhinagar Highway,₹600,11am – 11pm (Mon-Sun),Casual Dining,"Gujarati,South Indian,Fast Food,North Indian"," Koba Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Dilkhush Foodies Point,Airport Gandhinagar Highway,₹300,11am – 12noon (Mon-Sun),Quick Bites,"North Indian,Street Food"," Shop 10, Pramukh Corporate, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Hogger's Den,Airport Gandhinagar Highway,₹400,11:15am – 2am (Mon-Sun),Casual Dining,"Fast Food,Wraps"," Shop 3, Sunshine Heights 1, Opposite Raysan Petrol Pump, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shree Adarsh Bhojanalay,"Sector 16, Gandhinagar",₹300,"11am – 3pm, 7pm – 10pm (Mon, Tue, Wed, Fri, Sat...",Quick Bites,Gujarati," Near IOB, Sector 16, Gandhinagar",,NULL
+Kabhi B,Infocity,₹300,11am – 10pm (Mon-Sun),Bakery,"Bakery,Desserts"," G-41, Super Mall 1, Infocity, Gandhinagar",,NULL
+The Kitchen,Airport Gandhinagar Highway,₹400,11am – 4am (Mon-Sun),Quick Bites,"North Indian,Fast Food,Chinese"," C 9, Business Park, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Tea Post,Airport Gandhinagar Highway,₹250,8:30am – 11pm (Mon-Sun),Quick Bites,"Tea,Beverages,Sandwich"," 39, Radhe Square, Opposite Pramukh Arcade, Reliance Cross Roads, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Milkbar And Co.,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Beverage Shop,Beverages," Shop 3, Parmukkh Arcade, Near Reliance Circle, Kudasan, Airport Gandhinagar Highway",,NULL
+DwarkAmrit,Airport Gandhinagar Highway,₹700,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,Gujarati," Service Lane Koba Circle, Opposite Kamalam, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Good Bowl,Airport Gandhinagar Highway,₹500,10am – 1am (Mon-Sun),NULL,"Asian,Biryani,North Indian", Delivery Only,,NULL
+Rajwadi Bhojanalay,"Sector 16, Gandhinagar",₹200,"11am – 3pm, 6pm – 10pm (Mon-Sun)",Bhojanalya,Gujarati," 2, GH Road, Near INOX R16, Sector 16, Gandhinagar",,NULL
+Jay Matarani Doodh Bhandar,Infocity,₹100,8am – 10:30pm (Mon-Sun),Beverage Shop,"Beverages,Ice Cream"," Shop 2, Super Mall 2, Infocity, Gandhinagar",,NULL
+Ovenstory Pizza,Airport Gandhinagar Highway,₹400,11am – 1am (Mon-Sun),NULL,"Fast Food,Italian,Pizza"," C-19-20, Swagat Rainforest 2, Village Kudasan, Ta & District, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Jay Bhavani Vadapav,Infocity,₹400,10:30am – 10:30pm (Mon-Sun),Quick Bites,"Fast Food,South Indian,Sandwich,Chinese,Street Food,Beverages"," 48, Super Mall 2, GH-0, Infocity, Gandhinagar",,NULL
+M.L.F Franco,Airport Gandhinagar Highway,₹300,"12noon – 10pm (Mon-Sat),5pm – 11pm (Sun)",Quick Bites,"Fast Food,Beverages"," GF 53, Radhe Square, Near Reliance Chowkdi, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Firangi Bake,Airport Gandhinagar Highway,₹400,11am – 1am (Mon-Sun),NULL,"Mexican,Italian,Desserts", Delivery Only,,NULL
+Vishwakarma,"Chopati, Sector 16",₹400,8am – 11:30pm (Mon-Sun),Quick Bites,"North Indian,Fast Food,Chinese,Gujarati"," 69, GH-5, Chopati, Sector 16, Gandhinagar",,NULL
+Shree Sai South Indian Hotel,Infocity,₹150,"11am – 3pm, 6pm – 11pm (Mon-Sun)",Quick Bites,South Indian," 21, Super Mall 2, Infocity, Gandhinagar",,NULL
+Kum Kum Restaurant,"Sector 16, Gandhinagar",₹600,"11am – 3:30pm, 6:30pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Continental"," C - 9, Patnagar Yojna Bhavan, Sector 16, Gandhinagar",,NULL
+Raju Omlet,Airport Gandhinagar Highway,₹300,10am – 10pm (Mon-Sun),Quick Bites,Fast Food," 64, Radhe Square, Reliance Chowk, Kudasan, Airport Gandhinagar Highway",,NULL
+Raju Omlet,Airport Gandhinagar Highway,₹300,10am – 10pm (Mon-Sun),Quick Bites,Fast Food," 64, Radhe Square, Reliance Chowk, Kudasan, Airport Gandhinagar Highway",,NULL
+Royal Choice,Infocity,₹400,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Chinese"," 144/1, Near Panchdev Mandir, Sector 22, Near Infocity, Gandhinagar",,20% off on all orders
+Karnavati Dabeli And Vadapav,Airport Gandhinagar Highway,₹200,10am – 10:30pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," Shop 8, Radhe Square Mall, Near Reliance Crossroad, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+TGB Cafe n Bakery,Infocity,₹350,11am – 11pm (Mon-Sun),Bakery,"Bakery,Desserts"," 38, Supermall, Infocity, Gandhinagar",,NULL
+Pathikashram Sarbhara Restaurant,"Pathikashram, Sector 11",₹600,"11am – 3pm, 6:30pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,South Indian"," Pathikashram, Near S T Depot, GH 3 Circle, GH Road, Sector 11, Gandhinagar",,NULL
+Upper Deck,Infocity,₹700,11am – 7pm (Mon-Sun),Café,"Cafe,Italian,Mexican,North Indian"," 6th Floor, Pramukh Tangent, Sargasan, Infocity, Gandhinagar",,NULL
+Copper Wok Restaurant,Airport Gandhinagar Highway,₹700,"12noon – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Continental"," Hotel Blue Moon, Shreerang Mall And Nagar, Randesan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Pathikashram Atithya Restaurant,"Pathikashram, Sector 11",₹500,"10:30am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,Gujarati," Near S T Depot, GH 3 Circle, GH Road, Sector 11, Gandhinagar",,NULL
+Plush Restaurant,Airport Gandhinagar Highway,₹800,"7am – 10am, 11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,North Indian," Behind Ugati Heights, Kudasan Por Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Indian Zayka,"Chopati, Sector 16",₹400,11am – 11pm (Mon-Sun),Food Court,"Chinese,North Indian,Gujarati"," 46, GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+The Cake Bar,Airport Gandhinagar Highway,₹150,9:30am – 12midnight (Mon-Sun),Dessert Parlor,"Desserts,Bakery"," 30, Radhe Square Building, Near Reliance Chokdi, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Rajvadi Bhojnalay,"Sector 16, Gandhinagar",₹200,10am – 10:30pm (Mon-Sun),Bhojanalya,Gujarati," Shop 9- 12, Plot 400, R World 16, Sector 16, Gandhinagar",,NULL
+Bansari Traditional,"Sector 11, Gandhinagar",₹600,11am – 10:30pm (Mon-Sun),Casual Dining,"Gujarati,Street Food,South Indian,North Indian"," 1st Floor, Near Fortune Inn Haveli, Haveli Arcade, Sector 11, Gandhinagar",,NULL
+Awara The Cafe,Airport Gandhinagar Highway,₹400,11am – 12midnight (Mon-Sun),Café,Fast Food," 29, Yash Plaza, PDPU Road, Raisan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Laxmi Bakery,"Sector 6, Gandhinagar",₹300,8:30am – 10:30pm (Mon-Sun),Bakery,Bakery," 1GF, Apna Bazar, Sector 6, Gandhinagar",,NULL
+Cakelelo.com - Live Cake Studio,Airport Gandhinagar Highway,₹500,"8:30am – 12midnight (Mon),9am – 12midnight...",Bakery,"Bakery,Desserts"," A 8, Pramukh Arcade, Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Gulalwadi,"Sector 21, Gandhinagar",₹200,6pm – 11pm (Mon-Sun),Quick Bites,"Street Food,Fast Food"," 335, Omti Gate, Sector 21, Gandhinagar",,NULL
+Jay Matarani Alu Parathe,Airport Gandhinagar Highway,₹150,"10am – 3pm, 6pm – 10pm (Mon-Sun)",Quick Bites,North Indian," Radhe Square complex, Opposite NID College, Reliance Crossroads. 
+Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Indus - Cambay Sapphire,"Sector 25, Gandhinagar","₹1,300","7am – 10:30am, 12:30pm – 3pm, 7:30pm – 11pm...",Casual Dining,"North Indian,Continental,Mughlai"," Cambay Sapphire, Plot 22-24, K Road, GIDC, Sector 25, Gandhinagar",,NULL
+Bean There,Airport Gandhinagar Highway,₹350,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages"," City Pulse Campus, Near Koba Circle, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Punjabi Food Junction,Airport Gandhinagar Highway,₹300,"8am – 12midnight (Mon),8am – 11:57pm...",Quick Bites,North Indian," 9, Radhe Square, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Khichdi Etc,Airport Gandhinagar Highway,₹700,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Gujarati"," B 102, Pramukh Arcade 2, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Yubby's,Airport Gandhinagar Highway,₹100,9am – 11pm (Mon-Sun),Casual Dining,"Chinese,Sandwich"," Shop 32, Krishnakunj Complex, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Tuli's Royal Bengal,Airport Gandhinagar Highway,₹250,11am – 11pm (Mon-Sun),Quick Bites,"Bengali,North Indian,Chinese"," 37, Near Reliance Cross Road, Opposite Rajdhani Society, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Gajanand Pauva House,Airport Gandhinagar Highway,₹300,6am – 11pm (Mon-Sun),Quick Bites,"Street Food,Fast Food,Beverages"," Radhe Squre Complex, Reliance Cross Road, Opposite Pramukh Arcade, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Fruit Zone And Wafflespot,Airport Gandhinagar Highway,₹250,1pm – 12:30am (Mon-Sun),Dessert Parlor,"Desserts,Juices"," A-20, Pramukh Arcade-2, Near Reliance Chokdi, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Chasko Fast Food,"Chopati, Sector 16",₹400,"11:30am – 2:30pm, 7pm – 11pm (Mon-Sun)",Food Court,"North Indian,South Indian,Chinese"," GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+Hotel Ghunghat Garden Restaurant,"Sector 25, Gandhinagar",₹700,7am – 11pm (Mon-Sun),Casual Dining,North Indian," Sector -26, ""K"" Road, Near GIDC, Gandhinagar -Mansa Road, Sector 25, Gandhinagar",,NULL
+Fun And Feast Restaurant,Airport Gandhinagar Highway,₹750,11am – 11pm (Mon-Sun),Casual Dining,"North Indian,Mughlai,Continental"," Fun and Feast Theme Park, Kudasan Road, Urjanagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Theka,Airport Gandhinagar Highway,₹250,11am – 2am (Mon-Sun),Café,Beverages," Shop 19, Pramukh Arcade, Reliance Cross Roads, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Foodish Daily Chaska,Airport Gandhinagar Highway,₹450,"12midnight – 2am, 3pm – 12midnight (Mon-Sun)",Quick Bites,"Pizza,Sandwich,Fast Food,Street Food,Beverages"," A 2, Shukan Silver, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+M K Sandwich,"Sector 21, Gandhinagar",₹400,11am – 11pm (Mon-Sun),NULL,"Fast Food,Beverages", Delivery Only,,NULL
+Eggetarian,Airport Gandhinagar Highway,₹400,8am – 11pm (Mon-Sun),Quick Bites,"Fast Food,North Indian"," Shop 5, Pramukh Corporate, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,10% off on all orders above ₹99
+Kathiyavadi,Airport Gandhinagar Highway,₹300,"10:30am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"Gujarati,North Indian"," Shop No. 5,6, Shree Rang Hights, Bhaijipura Patiya, P.D.P.U Road, Kudasan, Gandhinagar, Ahmedabad.",,NULL
+Frankie Station,Infocity,₹250,11am – 11pm (Mon-Sun),NULL,"Fast Food,Burger,Chinese"," Shop 29, Super Mall 1, Infocity, Gandhinagar",,NULL
+Vipul Dudhiya Sweets,Airport Gandhinagar Highway,₹300,8:30am – 10pm (Mon-Sun),Sweet Shop,"Mithai,Street Food,Gujarati"," B 6-7, Radhe Arcade, Near Sbi Bank, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Chezmoi,"The Spicy Street Road, Airport Gandhinagar Highway",₹400,3pm – 12midnight (Mon-Sun),Food Court,"Chinese,Thai"," Stall 18, 19, The Spicy Street Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",Street Food,NULL
+The MB's Fork's And Spoon's,Airport Gandhinagar Highway,₹500,11am – 4am (Mon-Sun),Casual Dining,"Fast Food,Chinese,North Indian"," B-14, Vinayak life Style Business Park, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Fyafulla Food,Infocity,₹350,7:30pm – 11:30pm (Mon-Sun),Food Truck,"Chinese,North Indian"," Opposite NIFT, Near TCS Office, Reliance Chokdi, Infocity, Gandhinagar",,NULL
+Legends of Punjab - By Pepperazi,Airport Gandhinagar Highway,"₹1,000","12noon – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,North Indian," 1st Floor, Pramukh Mastana, Kudasan, Near Reliance Cross Roads, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Karnavati Dabeli And Vadapav,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,"Gujarati,Fast Food,Street Food"," Shop 8, Radhe Square Mall, Near Reliance Crossroad, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Capital Point Restaurant & Banquet,Airport Gandhinagar Highway,₹800,"11:30am – 3:15pm, 7:15pm – 10:45pm (Mon-Sun)",Casual Dining,"North Indian,Chinese,Fast Food"," Radhe Fortune, Near Apollo Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Pandya Ice World,"Sector 16, Gandhinagar",₹250,10am – 10:30pm (Mon-Sun),Dessert Parlor,"Desserts,Beverages"," 381/3, Opposite DCB Bank, Sector 16, Gandhinagar",,NULL
+BMG Dosa Den,Airport Gandhinagar Highway,₹300,9am – 9pm (Mon-Sun),Quick Bites,South Indian," C 05, Business Park, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Mummas Food,Airport Gandhinagar Highway,₹150,"11:30am – 2:30pm, 7pm – 10pm (Mon-Sun)",Quick Bites,Gujarati," 1, Shivalay Residency, Near Pramukh Arcade, Kudasan",,NULL
+Aavkar,"Sector 16, Gandhinagar",₹600,"10:30am – 3:30pm, 6:30pm – 10pm (Mon-Sun)",Casual Dining,"North Indian,South Indian,Chinese"," 318, Gh 4, Near Dena Bank, Sector 16, Gandhinagar",,NULL
+Bethak,"Sector 6, Gandhinagar",₹250,9:30am – 11pm (Mon-Sun),Quick Bites,"Chinese,South Indian,Fast Food,Street Food,Beverages,Ice Cream"," Plot 1525, Shivalay Arcade, Near Jaliyan Jewellers, Sector 6, Gandhinagar",,NULL
+Dakshination,Airport Gandhinagar Highway,₹200,"12noon – 3:30pm, 7pm – 11pm (Mon-Sun)",Quick Bites,South Indian," 135, 1st Floor, Pramukh Mastana, Opposite NID, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Jay Matarani Dhaba,Infocity,₹150,"11:30am – 3pm, 7pm – 10pm (Mon-Sun)",Quick Bites,Gujarati," 112, Super Mall 1, Infocity, Gandhinagar",,NULL
+Pramukh Kathiyavadi Bhojanalay,"Sector 6, Gandhinagar",₹250,"11am – 3:30pm, 7pm – 10:30pm (Mon-Sun)",Quick Bites,"Gujarati,North Indian"," Plot 1553, First Floor, Apna Bazar, Sector 6, Gandhinagar",,NULL
+Sweet Truth,Airport Gandhinagar Highway,₹300,7am – 1am (Mon-Sun),Bakery,"Bakery,Desserts", Delivery Only,,NULL
+Karnavati Snacks,"Sector 25, Gandhinagar",₹300,10am – 10pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," Shop 4, Plot R/1, Goldmine Jewel, Near D Mart Road, K Road, Sector 26, Gandhinagar",,NULL
+Vrundavan Sweets and Namkeen,"Sector 21, Gandhinagar",₹200,8:30am – 10pm (Mon-Sun),Sweet Shop,"Mithai,Street Food"," A-12, District Shopping Centre, Sector 21, Gandhinagar",,NULL
+Raj Bhojnalay,Infocity,₹150,"11am – 3pm, 6pm – 10pm (Mon-Sun)",Quick Bites,Gujarati," Shop 14, Super Mall 1, Infocity, Gandhinagar",,NULL
+Farki,Airport Gandhinagar Highway,₹300,9am – 11pm (Mon-Sun),Dessert Parlor,"Ice Cream,Beverages"," A 2, Pramukh Arcade, Reliance Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Sky Light Restaurant,Airport Gandhinagar Highway,₹450,11am – 1am (Mon-Sun),Quick Bites,North Indian," 3rd Floor, Pramukh Cyprus, Sargasan-Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Relief,"Sector 16, Gandhinagar",₹500,"11:30am – 4pm, 6:30pm – 11pm (Mon-Sun)",Casual Dining,North Indian," 321, Shopping Center, Sector 17, Near Sector 16, Sector 16, Gandhinagar",,NULL
+SaladOholics,Airport Gandhinagar Highway,₹300,8am – 11pm (Mon-Sun),Quick Bites,"Healthy Food,Salad"," Shop 19, Pramukh Tangent, Sargasan Cross Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+New Saurashtra Farsan Corner,"Sector 21, Gandhinagar",₹200,7am – 10pm (Mon-Sun),NULL,"Fast Food,Chinese,Gujarati"," A-4, District Shopping Centre, Sector 21, Gandhinagar",,NULL
+Ravan Foods And Restaurants,Airport Gandhinagar Highway,₹400,11am – 2am (Mon-Sun),NULL,North Indian," Shop 5, Pramukh Cypus, TP-9, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Patel Ice Cream Parlour,"Sector 21, Gandhinagar",₹200,8:30am – 11pm (Mon-Sun),Dessert Parlor,"Desserts,Ice Cream,Beverages"," Kapidhav, Opposite IBP Petrol Pump, GH 5, Sector 22, Near Sector 21, Gandhinagar",,NULL
+Delicious Food,"Sector 16, Gandhinagar",₹200,"8am – 8pm (Mon, Tue, Wed, Fri, Sat, Sun), 8am –...",NULL,"Street Food,South Indian"," Near 10 B, Sector 16, Gandhinagar",,NULL
+Mongini's,Infocity,₹200,10am – 10pm (Mon-Sun),Bakery,Bakery," A 43, Ground Floor, Super Mall 1, Infocity, Gandhinagar",,NULL
+Kasturi Biryani,Infocity,₹400,12noon – 12midnight (Mon-Sun),Quick Bites,"Biryani,North Indian"," Shop 2, Anxy Super Mall, Infocity, Gandhinagar",,NULL
+Doner And Gyros,Airport Gandhinagar Highway,₹500,9:30am – 2am (Mon-Sun),Café,"Cafe,Wraps,Fast Food"," A 101 - 102, Pramukh Mastana, Kudasan, Reliance Cross Road, Near Punjab Hyundai, Airport Gandhinagar Highway, Gandhinagar",Trending This Week,NULL
+Frankie Station,"Sector 16, Gandhinagar",₹250,10:30am – 11pm (Mon-Sun),NULL,"Fast Food,Beverages,Rolls"," Near DCB Bank, Sector 16, Gandhinagar",,NULL
+Whatta Waffle,Airport Gandhinagar Highway,₹400,12noon – 9pm (Mon-Sun),Dessert Parlor,"Desserts,Fast Food,Beverages"," Shop 46, Fortune Mall, Sardar Patel Ring Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shri Ambica Sweet & Namkeen,"Sector 25, Gandhinagar",₹150,8am – 10pm (Mon-Sun),Sweet Shop,"Mithai,Desserts,Fast Food,Street Food"," 5, Shreenagar Shopping Centre, Sector 24, Near Sector 25, Gandhinagar",,NULL
+Chopstick Box,Infocity,₹350,11am – 11pm (Mon-Sun),Quick Bites,Chinese," Shop 10, Radhe Square, Near Reliance Cross Road, Kudasan, Infocity, Gandhinagar",,10% off on all orders above ₹120
+Amul By Atulya,"Sector 6, Gandhinagar",₹350,24 Hours (Mon-Sun),Café,"Cafe,South Indian"," Plot 1284, HPCL Petrol Pump, GH-3, Near ST Stand, Sector 6, Gandhinagar",,NULL
+Bonfire,Airport Gandhinagar Highway,₹400,12noon – 11pm (Mon-Sun),Quick Bites,"North Indian,Chinese,Fast Food"," Opp. P.D.P.U Boyes Hostel, At. Raysan, Ta & Dist., Gandhinagar, Ahmedabad.",,NULL
+Hello Boho,Airport Gandhinagar Highway,₹400,9am – 11pm (Mon-Sun),Quick Bites,Fast Food," 11, Silicone Hills, Opposite Business Park, PDPU Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Saikrupa Restaurant,Infocity,₹350,11am – 10pm (Mon-Sun),Quick Bites,"North Indian,Gujarati"," Sargasan Gandhinagar, Infocity, Gandhinagar",,NULL
+A-1 Panjabi FastFood,"Chopati, Sector 16",₹450,"11am – 3pm, 6pm – 11pm (Mon-Sun)",Food Court,"North Indian,Chinese,Gujarati,Street Food"," GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+Shree Nivas Bhojanshala,Infocity,₹150,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Bhojanalya,Gujarati," 134, Super Mall 2, Infocity, Gandhinagar",,NULL
+Lazari Fast Food,Infocity,₹300,8am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages"," G-4, Sarthak Mall, Sargasan Cross Road, Infocity, Gandhinagar",,NULL
+Jay Krishna,Airport Gandhinagar Highway,₹500,8am – 11pm (Mon-Sun),Casual Dining,"North Indian,South Indian,Fast Food"," 7-12, Silver Point Complex, Behind Koba Bus Stand, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+President Lounge,"Sector 7, Gandhinagar","₹1,000",11am – 5am (Mon-Sun),Casual Dining,"Fast Food,Chinese,Italian,Beverages"," Shop 1-3, Suryajyot Lake, Sector 1, Near Sector 7, Gandhinagar",,NULL
+Sabar Fry Centre,Airport Gandhinagar Highway,₹400,5pm – 12midnight (Mon-Sun),Dhaba,"Chinese,Mughlai"," Opposite GNLU College, PDPU Road Raisan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Punjabi Junction,Infocity,₹250,12noon – 11pm (Mon-Sun),NULL,North Indian, Delivery Only,,NULL
+iHangover - A Munching Mania,Airport Gandhinagar Highway,₹750,11am – 11pm (Mon-Sun),Casual Dining,"Pizza,Fast Food"," A-9, Ground Floor, Shivalay Complex, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Havmor Ice Cream,"Sector 11, Gandhinagar",₹300,11am – 11pm (Mon-Sun),Dessert Parlor,"Desserts,Ice Cream"," Shop 6, Plot 10, 7 President Complex, Sector 11, Gandhinagar",,NULL
+Navaratna Punjabi Restaurant,"Sector 21, Gandhinagar",₹700,"9am – 12midnight (Mon, Tue, Thu, Fri, Sat, Sun)...",Casual Dining,North Indian," 13-14, Shakti Complex, Opposite Krishna Hospital, Chiloda, Near Sector 21, Gandhinagar",,NULL
+Krishna Fast Food,"Sector 21, Gandhinagar",₹400,"11am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Casual Dining,"South Indian,Sandwich,Chinese,North Indian"," B/1, 1st Floor, Gopal Dairy, District Shopping Centre, Sector 21, Gandhinagar",,NULL
+South Dosa,Airport Gandhinagar Highway,₹300,6pm – 11pm (Mon-Sun),Quick Bites,South Indian," A-15/16, Pramukh Arcade, Airport Gandhinagar Highway, Gandhinagar",,NULL
+7th Heaven,Infocity,₹500,11am – 10pm (Mon-Sun),Bakery,"Bakery,Desserts"," G 3, Siddhart Zori Complex, Adalaj Road Sargasan, Infocity, Gandhinagar",,NULL
+Happinezz,Airport Gandhinagar Highway,₹200,1pm – 10pm (Mon-Sun),Dessert Parlor,"Ice Cream,Desserts,Beverages"," B9, Pramukh Arcade, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Egg Eatery - Eggstremely Delicious,Airport Gandhinagar Highway,₹600,11am – 7pm (Mon-Sun),Casual Dining,"North Indian,Fast Food"," 67, Radhe Square, Reliance Cross Road, Airport Gandhinagar Highway, Gandhinagar",,10% off on all orders above ₹129
+Twin Brothers Pizza & Cafe,Infocity,₹500,11am – 11pm (Mon-Sun),Quick Bites,"Pizza,Fast Food,Beverages"," 130, 1st Floor, Pramukh Tangent Complex, Sargasan Cross Road, Sargaasan, Near Infocity, Gandhinagar",,NULL
+Meals4you,Airport Gandhinagar Highway,₹400,6pm – 12midnight (Mon-Sun),Food Truck,North Indian," B/015, Ground Floor, Opposite Silicon Hills, PDPU Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Blue Oven,Infocity,₹700,11:30am – 11pm (Mon-Sun),Café,"Cafe,Italian,Continental,Beverages,Pizza"," C-64, Ground Floor, Pramukh Mastana, Dhola Kuvan Curcle, Kudasan, Infocity, Gandhinagar",,NULL
+Ghar Ka Dabba,Airport Gandhinagar Highway,₹350,"11am – 4pm, 7pm – 11pm (Mon-Sun)",NULL,"Gujarati,Fast Food,North Indian"," 29, Pramukh Cypras, Near Reliance Cross, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Zippy Meals,Infocity,₹300,"11am – 3pm, 7pm – 3am (Mon-Sun)",Quick Bites,"Fast Food,North Indian"," Shop 304, Pramukh Cyprus, Kudasan, Opposite Aashka Hospital, Infocity, Gandhinagar",,NULL
+Cafe Food Stop,Airport Gandhinagar Highway,₹350,11am – 12midnight (Mon-Sun),Quick Bites,Fast Food," C 03, Ground Floor, Vinayak Business Park, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Tea Post,Infocity,₹200,8am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages,Tea"," 42, Super Mall - I, Gandhinagar, Infocity, Gandhinagar",,NULL
+Munching Room,Infocity,₹500,11am – 3am (Mon-Sun),Quick Bites,"Pizza,Sandwich,Beverages"," Shop 162, 1st Floor, Radhe Square, Reliance Circle, Infocity, Gandhinagar",,NULL
+R-Andhra Cafe,"Sector 6, Gandhinagar",₹200,8am – 12midnight (Mon-Sun),Quick Bites,South Indian," Shop 2, Shopping Complex, Near Vishal Super Market, Sector 6, Gandhinagar",,NULL
+Radhe Snacks,Airport Gandhinagar Highway,₹200,8:30am – 9:30pm (Mon-Sun),Quick Bites,"Fast Food,Street Food,Mithai"," Shrirang Heights, PDPU Service Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Banana Leaf,Airport Gandhinagar Highway,₹400,8am – 11pm (Mon-Sun),Quick Bites,South Indian," Shop 15, Radhe Square Building, Kudasan, Reliance Crossroads, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Hashtag Waffles,"Sector 21, Gandhinagar",₹400,9am – 4am (Mon-Sun),Quick Bites,"Desserts,Fast Food"," GH 62/1, Near Ayurveda Dwarkhana, Sector 29, Near Sector 21, Gandhinagar",,NULL
+Finger Lick Food,Airport Gandhinagar Highway,₹300,5pm – 3am (Mon-Sun),Quick Bites,Chinese," Shop 12, Shrifal Heights, Kudasan, Opposite Pramukh Furniture, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Blue Berry Restaurant,"Sector 16, Gandhinagar",₹500,11am – 11pm (Mon-Sun),Casual Dining,"North Indian,Chinese"," Plot 316, Near Indian Bank, Sector 16, Gandhinagar",,NULL
+The Hunger House,Infocity,₹300,"11am – 3pm, 7pm – 12midnight (Mon-Sun)",NULL,"Fast Food,North Indian,South Indian", Delivery Only,,NULL
+Iscon Gathiya,"Sector 6, Gandhinagar",₹100,6am – 11pm (Mon-Sun),NULL,"Gujarati,Street Food"," Plot 1553, Ground Floor, Avkar Arcade, Beside Apna Bazar, GH 2, Sector 6, Gandhinagar",,NULL
+Pramukh Kathiyavadi Bhojanalay,"Sector 6, Gandhinagar",₹250,"11am – 3pm, 6:30pm – 10:30pm (Mon-Sun)",Bhojanalya,"Gujarati,North Indian"," GH Road, Sector 6-A, Gandhinagar, Ahmedabad",,NULL
+New Rajdhani,Airport Gandhinagar Highway,₹450,11am – 11pm (Mon-Sun),Casual Dining,"North Indian,Chinese,South Indian"," Near Petrol Pump, Koba, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Capital Night,Infocity,₹300,11am – 1am (Mon-Sun),NULL,"Healthy Food,Street Food"," 108, Tangent Complex, Near Sargasan Cross Road, Village Sargasan, Infocity, Gandhinagar",,NULL
+Mr Egg Shop,Airport Gandhinagar Highway,₹250,10am – 10pm (Mon-Sun),Quick Bites,Street Food," B-34, Pramukh Arcade, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Dark Night Food Zone,Infocity,₹250,11am – 11pm (Mon-Sun),Quick Bites,Fast Food," Shop 12, Vrundavan Recidency 2, Near Sargasan, Infocity, Gandhinagar",,NULL
+Patel Parlour,"Sector 25, Gandhinagar",₹250,9am – 11pm (Mon-Sun),Dessert Parlor,"Desserts,Ice Cream"," Sector 24 Cross Road, Sector 25, Gandhinagar",,NULL
+Gravitic Juice,Infocity,₹250,7am – 10pm (Mon-Sun),Beverage Shop,"Juices,Salad"," G 204, Ratnaraj Residency, Sargasan, Behind Siddharaj Zori, Infocity, Gandhinagar",,NULL
+Sarvoday Bhojnalaya,"Sector 11, Gandhinagar",₹300,"9:30am – 4pm, 7pm – 10pm (Mon-Sun)",Quick Bites,"Gujarati,North Indian"," 40 D, Old Secretariat, Meena Bazaar, Sector 10 B, Near Sector 11, Gandhinagar",,NULL
+The Jungle Joy Multi-Cuisine Restaurant,"Sector 21, Gandhinagar",₹500,11am – 11pm (Mon-Sun),Casual Dining,"North Indian,Italian,South Indian"," Plot B/16-B/17, District Shopping Center, Sector 21, Gandhinagar",,Buy 1 Get 1 Free from select items
+Bhagyalaxmi Kitchen,Infocity,₹350,11am – 11pm (Mon-Sun),Quick Bites,"Chinese,Fast Food"," Plot 147, Near Shopping Centre, Sector 8, Infocity, Gandhinagar",,NULL
+The Night Kitchen,Infocity,₹400,6pm – 4am (Mon-Sun),NULL,"North Indian,Fast Food,Chinese"," Shop C8, Business Park, PDPU Road, Raysan, Infocity, Gandhinagar",,NULL
+Rise,Infocity,₹800,6:30am – 11pm (Mon-Sun),Casual Dining,"Continental,Fast Food,North Indian"," Block 38, Zone 3, Tapas Marg, Gift City, Infocity, Gandhinagar",,NULL
+Hotel Purohit,"Sector 21, Gandhinagar",₹350,"10:30am – 3:30pm, 6:30pm – 10:30pm (Mon-Sun)",Quick Bites,"North Indian,Gujarati,Rajasthani"," Himmatnagar Highway No 8, Chiloda, Near Sector 21, Sector 21, Gandhinagar",,NULL
+Baker's Make Restaurant,"Sector 21, Gandhinagar",₹450,11am – 10pm (Mon-Sun),Casual Dining,"Street Food,Fast Food"," Near Navratri Chowk, Mahavir Nagar, Himatnagar, Sabarkantha, Sector 21, Gandhinagar",,NULL
+Street Meet Non Veg Point,Infocity,₹500,5pm – 12midnight (Mon-Sun),Quick Bites,"North Indian,Mughlai,Biryani"," Gift City Road, Dholakuva, Infocity, Gandhinagar",,NULL
+Delhi Belly,"The Spicy Street Road, Airport Gandhinagar Highway",₹350,10am – 10pm (Mon-Sun),Quick Bites,North Indian," Stall 04, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Waffle Cafe,"The Spicy Street Road, Airport Gandhinagar Highway",₹350,11am – 12midnight (Mon-Sun),Food Court,Desserts," Stall 5, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Prince Food Court,"Chopati, Sector 16",₹300,9am – 11pm (Mon-Sun),Food Court,"Fast Food,Chinese,North Indian"," Shop 62, Chopati, Near Shalimar Cinema, GH Road, Sector 16, Gandhinagar",,NULL
+Brew Brothers,"The Spicy Street Road, Airport Gandhinagar Highway",₹100,6pm – 11:30pm (Mon-Sun),Food Court,Beverages," Stall 27, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan Road, Urjanagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Bombay Sandwich,Airport Gandhinagar Highway,₹300,10:30am – 11pm (Mon-Sun),NULL,"Sandwich,Street Food", Delivery Only,,30% off on your first order
+Cafe Amul- Amulfed Dairy,Airport Gandhinagar Highway,₹300,"10am – 10pm (Mon),10am – 9pm (Tue-Sun)",NULL,Fast Food," Near Indira Bridge, Village Bhatt, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Spicy Dine Inn,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),NULL,"Chinese,Fast Food"," 13, Pramukh Corporate, PDPU Road, Raysan, Gandhinagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Estrella De Mar,Airport Gandhinagar Highway,₹400,24 Hours (Mon-Sun),NULL,"Fast Food,Beverages", Delivery Only,,50% off on all orders
+Charmi Fast Food,Infocity,₹200,11am – 11pm (Mon-Sun),Quick Bites,Fast Food," 21, Pramukh Pacific, Opposite TP 9 Watertank, Surya Road, Sargasan, Infocity, Gandhinagar",,NULL
+Giranar Kathiyavadi Restaurant,Infocity,₹250,"7am – 10:45am, 12noon – 2:45pm (Mon-Sun)",Quick Bites,Gujarati," Ashvamegh Shopping 2, Sargasan, Infocity, Gandhinagar",,NULL
+Maysoor,"Chopati, Sector 16",₹300,11am – 11pm (Mon-Sun),Food Court,"North Indian,South Indian,Chinese"," Chopati, Behind Petrol Pump, GH Road, Sector 16, Gandhinagar",,NULL
+Maa Ki Roti Restuarant,Airport Gandhinagar Highway,₹250,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"Gujarati,North Indian,Chinese"," Feel Street, Opposite The Landmark Building, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Prithviraj Kathyawadi,Airport Gandhinagar Highway,₹200,"11am – 3pm, 7pm – 10:30pm (Mon-Sun)",Quick Bites,Gujarati," B 74, Pramukh Arcade, Kudasan Cross Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Indo China Food Junction,Airport Gandhinagar Highway,₹300,"12noon – 3pm, 6pm – 12midnight (Mon-Sun)",Quick Bites,"South Indian,Chinese,Sandwich,Street Food"," 10, Radhe Square, Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Foodsteps,Infocity,₹200,7am – 8pm (Mon-Sun),NULL,"North Indian,South Indian,Fast Food"," Shop 11, A Wing, Swagat Rainforest 2, Urjanagar, Kudasan, Infocity, Gandhinagar",,NULL
+R.K Omlet,"Chopati, Sector 16",₹300,10am – 10pm (Mon-Sun),Food Court,Fast Food," 61, Chopati, GH -5, Sector 16, Gandhinagar",,10% off on all orders
+Maruti - The Gujrati Thal,Infocity,₹200,"11:30am – 2:30pm, 7pm – 10:30pm (Mon-Sun)",Quick Bites,Gujarati," Shop 108, First Floor, Supermall 2, Infocity, Gandhinagar",,NULL
+Vibes Bistro,Airport Gandhinagar Highway,₹500,"12midnight – 2am, 10am – 12midnight (Mon-Sun)",Quick Bites,Fast Food," Ground Floor, 4 Tangent Complex, Near Sargasan Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Smokiez BBQ,"The Spicy Street Road, Airport Gandhinagar Highway",₹300,5:30pm – 11:30pm (Mon-Sun),Food Court,"BBQ,Fast Food"," Stall 8, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Dhan Laxmi,"Sector 16, Gandhinagar",₹400,10am – 11pm (Mon-Sun),Food Court,"Chinese,North Indian"," Stall 70, Food Court, Near G-5, Sector 16, Gandhinagar",,NULL
+Send We Cheese,Infocity,₹250,5pm – 12midnight (Mon-Sun),Quick Bites,"Sandwich,Fast Food"," 8, Urban Otalo Food Park, Nera Mocha, Infocity, Gandhinagar",,NULL
+William John's Pizza,Airport Gandhinagar Highway,₹600,11am – 11pm (Mon-Sun),Quick Bites,"Pizza,Fast Food"," 135-136, First Floor, Radhe Fortune, Apollo Circle, 200 Ft Ring Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+New Egg World,Infocity,₹500,5pm – 3am (Mon-Sun),Quick Bites,"North Indian,Fast Food"," Shop 22, Pramukh Tangent Gandhinagar Bypass Road, Cross Road, Sargasan, Infocity, Gandhinagar",,NULL
+Naivedhyam - The Khichdi Junction,"Sector 7, Gandhinagar",₹300,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Gujarati"," 438/A-2, Geetanjali Park, Sector 8B, Near Sector 7, Gandhinagar",,NULL
+Magic Maza,Airport Gandhinagar Highway,₹350,11am – 3am (Mon-Sun),Quick Bites,"Fast Food,North Indian"," Shop 162, 1st Floor, Radhe Square, Reliance Circle Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Small Feast,Airport Gandhinagar Highway,₹300,11am – 3am (Mon-Sun),Quick Bites,"North Indian,Fast Food"," 162, 1st Floor, Radhe Square, Reliance Circle Khudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+SFS Health Cafe,Infocity,₹350,7am – 11pm (Mon-Sun),Quick Bites,"Fast Food,North Indian,Healthy Food,Juices"," Shop 11, Atria B Business Hub, Sargasan Cross Road, Infocity, Gandhinagar",,NULL
+The Sandwich 1919,"The Spicy Street Road, Airport Gandhinagar Highway",₹400,12noon – 12midnight (Mon-Sun),Food Court,"Sandwich,Fast Food"," Stall 6-7, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Capital Russian Bakery,"Sector 6, Gandhinagar",₹200,8am – 11pm (Mon-Sun),Bakery,Bakery," Plot 5/1556, Jalaram Square, Near Apna Bazar, Sector 6, Gandhinagar",,NULL
+Freaky Frankie,"The Spicy Street Road, Airport Gandhinagar Highway",₹200,6:30pm – 11:30pm (Mon-Sun),Food Court,Rolls," Stall 25, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan Road, Urjanagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Jay Matarani Parotha Factory,Infocity,₹200,11am – 11pm (Mon-Sun),Quick Bites,North Indian," 135, Super Mall 1, Infocity, Gandhinagar",,NULL
+Sevak Cafe,Airport Gandhinagar Highway,₹300,11am – 3am (Mon-Sun),Quick Bites,"Fast Food,Street Food,Beverages"," SH 34, Shri Rang Mall, GIFT City Road, Randesan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Dangee Dums,Airport Gandhinagar Highway,₹400,10am – 11pm (Mon-Sun),Dessert Parlor,"Bakery,Beverages"," Radhe Square Building, Near Reliance Chokdi, Kudasan, Airport Gandhinagar Highway",,NULL
+Sai Krupa Bombay Vadapav & Bhel Puri Center,Infocity,₹150,9am – 10pm (Mon-Sun),Quick Bites,Street Food," Shop 25, Infocity, Gandhinagar",,NULL
+U.S. Pizza,Airport Gandhinagar Highway,₹500,11am – 11pm (Mon-Sun),Quick Bites,"Pizza,Fast Food,Beverages,Desserts"," Radhe Fortune Plot, Near Apollo Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Egg Box & Cafe,Infocity,₹500,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Street Food,Gujarati,North Indian"," B 1, Ground Floor, Business Park Complex, Pdpu Road, Raysan, Infocity, Gandhinagar",,NULL
+Radhe Fast Food,Infocity,₹250,11am – 11pm (Mon-Sun),NULL,"Street Food,Fast Food,Chinese,South Indian"," Shop 2, Ashwamegh Complex, Sargasan Circle, Infocity, Gandhinagar",,NULL
+Chat Corner,"Sector 21, Gandhinagar",₹200,9am – 10:30pm (Mon-Sun),Quick Bites,"Chinese,Street Food"," Shop B/1, District Shopping Centre, Sector 21, Gandhinagar",,10% off on all orders above ₹299
+Vijay Food Corner,Infocity,₹300,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,South Indian,Chinese"," Shop 17, Infocity Super Mall 1, Near GH 0 Circle, Infocity, Gandhinagar",,NULL
+Just Us,Airport Gandhinagar Highway,"₹1,000",11am – 11pm (Mon-Sun),Casual Dining,"Italian,Mexican,Chinese,North Indian"," Ground Floor, Shree Vinus Siddhi Resort Private Limited, Nabhoi, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Bombay Pav Bhaji and Chinese,Infocity,₹350,11am – 11pm (Mon-Sun),NULL,"Street Food,Chinese"," SWFF/01/E, Ground Floor, Infocity Supermall 1, Infocity, Gandhinagar",,NULL
+Mr. Singh's Cafe,"Sector 25, Gandhinagar",₹300,11am – 11pm (Mon-Sun),Quick Bites,Fast Food," Shop 3, Ground Floor, Block 230, Sector 24, Near Sector 25, Gandhinagar",,NULL
+Yuvi The Cafe,Infocity,₹300,8am – 11pm (Mon-Sun),Café,"Sandwich,Fast Food,North Indian,South Indian,Chinese"," Shop 17, Super Mall 1, Near GH 0 Circle, Infocity, Gandhinagar",,NULL
+Kulchas And More,Airport Gandhinagar Highway,₹250,11am – 11pm (Mon-Sun),Quick Bites,"Street Food,North Indian"," 18, Radhe Square Complex, Near Reliance Chokadi, Gandhinagar - Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Fusion Feast,Infocity,₹500,11am – 2am (Mon-Sun),NULL,"North Indian,Fast Food"," 219, Radhe Square, Reliance Circle, Infocity, Gandhinagar",,NULL
+A1-  Food Point,Airport Gandhinagar Highway,₹400,11am – 11pm (Mon-Sun),Quick Bites,"Chinese,North Indian,Street Food,Pizza"," B 14, Krushnakunj Complex, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Batuk Sweet Mart,"Sector 6, Gandhinagar",₹200,9am – 10pm (Mon-Sun),Sweet Shop,Mithai," 6, Apna Bazaar, Gh 2, Sector 6, Gandhinagar",,NULL
+Havmor - The Eatery,Infocity,₹700,10:30am – 6:30pm (Mon-Sun),Quick Bites,"Pizza,Sandwich,Fast Food,Biryani,Wraps,Beverages"," 8, Amenity Building, Behind Gift Tower, Gift City, Infocity, Gandhinagar",,NULL
+7 Each Pizza,"Sector 21, Gandhinagar",₹150,10am – 9pm (Mon-Sun),Quick Bites,Pizza," Plot 493/2, Lal Bhuvan Complex, Near Gh-6, Sector 21, Gandhinagar",,NULL
+Jiya Fast Food,"Sector 16, Gandhinagar",₹200,8am – 7pm (Mon-Sun),Quick Bites,Fast Food," Pathnagar Yojna Bhavan, Sector 16, Gandhinagar",,NULL
+Gandhinagar Nu Manek Chowk,Airport Gandhinagar Highway,₹500,11am – 11:45pm (Mon-Sun),Casual Dining,"Chinese,Gujarati,North Indian,South Indian"," Raksha Shakti Circle-Dholakuva Circle, Near Jognimata Temple, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Heer Night Food Zone,Airport Gandhinagar Highway,₹300,7pm – 3am (Mon-Sun),NULL,"North Indian,Chinese"," Shop 7, Pramukh Oasis, Sargasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+I M Vadapav,Infocity,₹250,11am – 10:45pm (Mon-Sun),Quick Bites,"Street Food,Fast Food"," 15, Ground Floor, Pramukh Associates, Tangent Complex, Near Sargasan Circle, Infocity, Gandhinagar",,NULL
+Royal Cafe,Airport Gandhinagar Highway,₹400,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages"," B 2, Business Park, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Sadasya Bhojnalaya,"Sector 21, Gandhinagar",₹150,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,Gujarati," MLA Quaters, CH 5, Sector 21, Gandhinagar",,NULL
+Shreenath Snacks,Airport Gandhinagar Highway,₹150,8am – 11pm (Mon-Sun),Quick Bites,"Street Food,Sandwich"," 33, Radhe Square, Reliance Crossroad, Near Kabir World, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Chai G,"Sector 11, Gandhinagar",₹300,24 Hours (Mon-Sun),Quick Bites,"Fast Food,Beverages"," Shop 6, Chip Typs Shopping Center Pop, Khodiyar Temple, Civil Campus, Sector 12, Near Sector 11, Gandhinagar",,20% off on all orders above ₹150
+Bhaiyas Quick Bites,"Sector 11, Gandhinagar",₹400,10am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages"," Shop 5, Shopping Complex, Sector 9, Near Sector 11, Gandhinagar",,NULL
+New Parampara Garden Restaurant,"Sector 25, Gandhinagar","₹1,000","10:30am – 3pm, 6:30pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Chinese"," Sector 26, Gandhinagar Mansa Highway, Opposite Mahakali Mataji Mandir, Sector 25, Gandhinagar",,NULL
+Radhe - Sukhadia Sweet Mart,"Sector 25, Gandhinagar",₹250,8:30am – 9:30pm (Mon-Sun),Sweet Shop,"Mithai,Fast Food,Street Food"," 307, Radha Sadan, GH-6 Circle, Sector 29, Near Sector 25, Gandhinagar",,NULL
+Sadda Tandoor,Airport Gandhinagar Highway,₹500,"12noon – 4pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Mughlai"," B-56/57, Pramukh Arcade, Near Reliance Cross Road, Urjanagar 1, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+A2 to P2 Paratha,"The Spicy Street Road, Airport Gandhinagar Highway",₹200,3pm – 12midnight (Mon-Sun),Food Court,North Indian," Stall 16, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Hot And Cool Cafe,Infocity,₹250,7am – 9pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," B10, Swagat Rainforest 2, Kudasan, Near Aastha Supermarket, Infocity, Gandhinagar",,NULL
+Gummy Baker's,"Sector 21, Gandhinagar",₹400,11am – 10pm (Mon-Sun),Bakery,Bakery," B-24, District Shopping Center, Near Reliance Mart, Sector 21, Gandhinagar",,NULL
+94 MM Bengali Restaurant,Infocity,₹450,11am – 11:30pm (Mon-Sun),Quick Bites,"North Indian,Bengali"," B 120, 1st Floor, Swagat Rain Forest 2 Village, Kudasan, Infocity, Gandhinagar",,NULL
+Sangam,Infocity,"₹1,600",11am – 9pm (Mon-Sun),Casual Dining,"North Indian,Continental,Gujarati,Fast Food,Desserts,Beverages"," Building 53 F, Block 53, Road 5C, Zone 5, Gift City, Infocity, Gandhinagar",,NULL
+The Shake Maker,Airport Gandhinagar Highway,₹250,11am – 11pm (Mon-Sun),Beverage Shop,"Desserts,Beverages"," B-58, Pramukh Arcade, Near Middle Town Hotel, Reliance Chokdi, At-Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Pramukh Food Point,Airport Gandhinagar Highway,₹250,11am – 11pm (Mon-Sun),Quick Bites,"Chinese,Street Food,Fast Food"," Shop C 16, Radhe Arced, Opposite Pratik Mall, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Chatko,Airport Gandhinagar Highway,₹200,8am – 10pm (Mon-Sun),Quick Bites,South Indian," F 3 & 4, Swagat Rainforest 1, Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Aaru's Restaurant,Airport Gandhinagar Highway,₹700,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Italian,Chinese"," Kanan Farms, Near Mother Dairy, Bhat, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Gulalwadi Fast food,"Sector 16, Gandhinagar",₹200,6am – 10:30pm (Mon-Sun),Quick Bites,"Street Food,Fast Food"," A 12, Plot 296, CPD Complex, Sector 16, Gandhinagar",,NULL
+Chinese Hut,Airport Gandhinagar Highway,₹300,12noon – 12midnight (Mon-Sun),Quick Bites,Chinese," Foodie's Den, Opposite Nagraj Party Plot, Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Punjab Ka Tadka,Infocity,₹300,10am – 1am (Mon-Sun),NULL,"North Indian,Chinese"," 108, First Floor, Tangent Complex, Near Sardar Cross Road, Village Sargasan, Infocity, Gandhinagar",,NULL
+Khana Khazana,Infocity,₹350,"7am – 3pm, 6pm – 11pm (Mon-Sun)",NULL,"North Indian,Chinese"," B/12, Pramukh Arcade 1, Near Relaince Circle, Infocity, Gandhinagar",,NULL
+Thali Adda,Infocity,₹300,"11am – 3pm, 6:30pm – 11:30pm (Mon-Sun)",Quick Bites,North Indian," B-80, Pramukh Arcade, Reliance Road, Kudasan, Infocity, Gandhinagar",,NULL
+Food Filleer,Infocity,₹150,11am – 11pm (Mon-Sun),Quick Bites,Fast Food," Shop 15, Ground Floor, Radhe Signature, Kudasan, Opposite Sahjanand City, Infocity, Gandhinagar",,20% off on your first order
+Karnavati Dabeli,Airport Gandhinagar Highway,₹200,9am – 10pm (Mon-Sun),Quick Bites,"Street Food,Fast Food"," At 5, Atira B, Sargasan Char Rasta, Sargasan, Airport Gandhinagar Highway, Gandhinagar",,10% off on your first order
+Chula Dhosa Hut,Airport Gandhinagar Highway,₹400,"11am – 2:30pm, 7pm – 12midnight (Mon-Sun)",Food Court,South Indian," Foodie's Den, Opposite Nagraj Party Plot, Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Manmohan Kharek Centre,"Sector 16, Gandhinagar",₹350,"11am – 3pm, 6pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Street Food,Chinese"," Stall 40, Food Court, Near G6, Sector 16, Gandhinagar",,NULL
+Hot And Spicy,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),NULL,Fast Food," Shop 6, Shree Rang Society 2, PDPU Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Sajan,"Sector 16, Gandhinagar",₹300,"11am – 3pm, 7pm – 10pm (Mon-Sun)",Quick Bites,"North Indian,Gujarati"," Plot 382, Basement, Near Shalimar Cinema, Sector 16, Gandhinagar",,NULL
+Lunchbox,Airport Gandhinagar Highway,₹400,9am – 1am (Mon-Sun),NULL,"Chinese,North Indian,Desserts,Beverages", Delivery Only,,NULL
+Krishna Fast Food,"Chopati, Sector 16",₹450,11am – 11pm (Mon-Sun),Food Court,"South Indian,Chinese,North Indian,Street Food"," 26, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Yummy For Tummy,Airport Gandhinagar Highway,₹450,"10:30am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"Gujarati,North Indian,Chinese"," 26, Radhe Square, Reliance Cross Road, Kudasan Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shreeji Bhojnalay,Infocity,₹200,"11:30am – 2:30pm, 7pm – 10pm (Mon-Sun)",Quick Bites,Gujarati," Shop 15, Super Mall 1, Near Gh 0 Circle, Infocity, Gandhinagar",,NULL
+Shivansh Food Zone,"Sector 7, Gandhinagar",₹200,8am – 11pm (Mon-Sun),NULL,Gujarati," P 512/1, Sector 8B, Near CH 2 Circle, Near Sector 7, Gandhinagar",,NULL
+The Biryani Life,Airport Gandhinagar Highway,₹350,10am – 11pm (Mon-Sun),NULL,"Biryani,North Indian", Delivery Only,,10% off on your first order
+Om Shivshakti Snacks,"Sector 11, Gandhinagar",₹150,10am – 8pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," Megh Malhar, Sector 11, Gandhinagar",,NULL
+Jay Gatod Snacks,Infocity,₹200,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"Chinese,Gujarati"," Opposite Santur Residency, Pramukhnagar Road, Sargasan, Infocity, Gandhinagar",,NULL
+Mother S Idli,Airport Gandhinagar Highway,₹250,"8am – 12noon, 6pm – 10:30pm (Mon-Sun)",Quick Bites,South Indian," A-28, Pramukh Arcade, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Chef Iffi's Cafe,Airport Gandhinagar Highway,₹400,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Pizza,Burger,Sandwich"," Shop 1, Radhe Arcade, Near Reliance Circle, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shahi Fry Centre,Airport Gandhinagar Highway,₹350,"6pm – 11:30pm (Mon, Wed), 6pm – 12midnight (Tue...",Food Court,North Indian," PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Eggetarian,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,Fast Food," Shop 5, Pramukh Corporate, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Whocare Food Point,Airport Gandhinagar Highway,₹350,10am – 11pm (Mon-Sun),NULL,"North Indian,South Indian,Fast Food,Chinese,Street Food"," 292, Randesan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shree World of Lassi & Ice Cream,Airport Gandhinagar Highway,₹200,10:30am – 10pm (Mon-Sun),Dessert Parlor,"Desserts,Beverages"," 14, Shyam Shukan Complex, Near Raisan Petrol Pump, Airport Gandhinagar Highway, Gandhinagar",,NULL
+The Cafe Time,Airport Gandhinagar Highway,₹200,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages,Italian"," Plot 276, PDPU Road, Raysan, Near Radhe Parlour, Airport Gandhinagar Highway, Gandhinagar",,15% off on your first order
+9834 The Fruit Truck,Airport Gandhinagar Highway,₹500,11am – 11pm (Mon-Sun),Beverage Shop,"Juices,Beverages,Healthy Food,Desserts"," Shop 135, First Floor, Radhe Square, Reliance Chowk, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Pizza Point,Airport Gandhinagar Highway,₹500,11am – 11:30pm (Mon-Sun),Quick Bites,"Pizza,Fast Food"," Bhat, Near Mother Dairy, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Spice Craft,Infocity,₹400,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Chinese,Gujarati"," 108, Supermall Annexe, Gate 1, Infocity, Gandhinagar",,NULL
+Raju Omlet Centre,Airport Gandhinagar Highway,₹150,4pm – 11pm (Mon-Sun),Quick Bites,Street Food," Ground Floor 7, Radhe Fortune Plot, Near Apollo Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Haalo Kathiyawad,"Sector 25, Gandhinagar",₹400,"11:30am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Gujarati"," C-14, GIDC, Sector 25, Gandhinagar",,NULL
+Danny's Coffee Bar,Airport Gandhinagar Highway,₹400,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages"," PDPU Road, Bhaijipura Patiya, Ahmedabad",,NULL
+Savariya,"Chopati, Sector 16",₹400,11am – 11pm (Mon-Sun),Food Court,"Chinese,North Indian,Gujarati"," 38, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Raju Parlour,"Sector 11, Gandhinagar",₹300,10am – 8pm (Mon-Sun),NULL,"Sandwich,Beverages"," Shop 1/A, Plot 17, Ground Floor, Cinemax (Sumancity), Sector 11, Gandhinagar",,NULL
+Fitsteps,Airport Gandhinagar Highway,₹300,5am – 12midnight (Mon-Sun),NULL,Healthy Food," D-107, Vedika E-Series, Bhaijipura Patia, PDPU Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Jay Matarani Parivaar,Infocity,₹400,"12noon – 3pm, 7pm – 10pm (Mon-Sun)",Quick Bites,North Indian," 133, Super Mall 1, Infocity, Gandhinagar",,NULL
+Patel Ice Cream Cafe,Airport Gandhinagar Highway,₹400,12noon – 12midnight (Mon-Sun),Café,"Ice Cream,Beverages"," B-9, 10, Krushnakunj Complex, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+McCafe by McDonald's,Infocity,₹500,11am – 11pm (Mon-Sun),NULL,"Coffee,Tea,Beverages,Desserts", Delivery Only,,NULL
+The Taste Factory,Airport Gandhinagar Highway,₹400,2:30pm – 2am (Mon-Sun),Quick Bites,"Fast Food,Street Food"," Shop C-02, Business Park, Opposite Silicon Hills, Pdpu Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Yubbys Restaurant,Airport Gandhinagar Highway,₹350,12noon – 11:30pm (Mon-Sun),Quick Bites,"Fast Food,North Indian,Chinese"," Shop 4, Pramukh Corporate, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Pattradu Khaman House Farsan,"Sector 6, Gandhinagar",₹200,11am – 11pm (Mon-Sun),NULL,Fast Food," Akme House, Apna Bazar, Near Nikanth Super Market, GH-2, Sector 6, Gandhinagar",,NULL
+KV Fruits & Spice,"The Spicy Street Road, Airport Gandhinagar Highway",₹250,6:30pm – 11:55pm (Mon-Sun),Food Court,"Juices,Beverages"," Stall 17, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Poco Bowls,Airport Gandhinagar Highway,₹300,"12midnight – 2:30am, 11:30am – 3:30pm, 7pm –...",Quick Bites,North Indian," 218, Pramukh Corporate, Pdpu Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Kobra Foods And Restaurant,Airport Gandhinagar Highway,₹600,"11am – 2pm, 6pm – 3am (Mon-Sun)",Quick Bites,North Indian," Shop 7, Pramukh Cypus, Opposite Aska Hospital, Sargasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Northan Tadka Restaurant,Airport Gandhinagar Highway,₹350,"10:30am – 3pm, 6pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Chinese"," 312, 3rd Floor, Shyam Shukan Residency, PdDPU Road, Raisha, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Hunger's Den,"The Spicy Street Road, Airport Gandhinagar Highway",₹350,6:30pm – 11:30pm (Mon-Sun),Food Court,"South Indian,Street Food"," Stall 12, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Stone Baked Pizza,"The Spicy Street, Airport Gandhinagar Highway",₹300,7pm – 11:30pm (Mon-Sun),Food Court,Pizza," Stall 15, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Bunty Paji Da Dhaba,Airport Gandhinagar Highway,₹200,"11am – 3pm, 6pm – 12midnight...",Dhaba,"North Indian,Chinese"," LS 112, Village Bhat, SP Ring Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Babita Samosa,Airport Gandhinagar Highway,₹150,9am – 11pm (Mon-Sun),Quick Bites,"Street Food,North Indian"," Shop 19, Radhe 111 Society, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+CHASKO PUNJABI TADKA,"The Spicy Street Road, Airport Gandhinagar Highway",₹400,5pm – 12midnight (Mon-Sun),Food Court,"North Indian,Maharashtrian"," Stall 24, The Spicy Street Food, Opposite Nagraj Party Plot, Kudasan Road, Urjanagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Umiya Khaman Shop,Airport Gandhinagar Highway,₹200,10:30am – 11pm (Mon-Sun),NULL,Gujarati," 65, Radhe Square, Reliance Cross Road, Dholakua, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Gopal Krishna Dairy,"Sector 21, Gandhinagar",₹150,6am – 10:30pm (Mon-Sun),Dessert Parlor,"Desserts,Mithai"," B-1, District Shopping Centre, Sector 21, Gandhinagar",,NULL
+Radha Ki Rasoi,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Biryani,Chinese"," Shop 10, Pramukh Corporate, PDPU Road, Raysan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Dilli Top99,Airport Gandhinagar Highway,₹600,12noon – 3am (Mon-Sun),Quick Bites,"North Indian,Mughlai"," Near Apollo Circle, Ring Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+La Foodies Paradise,Airport Gandhinagar Highway,₹500,11am – 11pm (Mon-Sun),NULL,"Fast Food,Beverages"," Shop 1, Kanam Residency 2, DA-IICT Cross Roads, Near Kanam Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Bombay Bhaji Pav,Airport Gandhinagar Highway,₹200,7am – 12midnight (Mon-Sun),NULL,Fast Food," 110, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Food Mohalla,Airport Gandhinagar Highway,₹550,10am – 12midnight (Mon-Sun),Quick Bites,"Sandwich,Fast Food,Street Food,Beverages"," Shop 10, Shyam Sukan Complex, Opposite PDPU Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Govinda Snacks,Airport Gandhinagar Highway,₹250,"8am – 10am (Mon),8am – 10pm (Tue-Sun)",Quick Bites,"Sandwich,Fast Food,Street Food,Beverages"," Shop 8, Sarthak Heaven, Near Raysan Petrol Pump, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shiv BhajiPav & Pulav,"The Spicy Street, Airport Gandhinagar Highway",₹300,11am – 11pm (Mon-Sun),Food Court,"Street Food,Fast Food,Biryani"," Stall 20 & 21, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Tahuko Chehar Khana Khajana,Airport Gandhinagar Highway,₹350,6pm – 2am (Mon-Sun),NULL,"North Indian,Gujarati"," Saptrishi Complex, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Karm Dining Hall,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,Gujarati," 129, Sunrise Arcade, Near Nexa Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Patel Special Dalbati,"Sector 21, Gandhinagar",₹300,11am – 11pm (Mon-Sun),Quick Bites,Gujarati," NH 48, Chiloda, Sector 21, Gandhinagar",,NULL
+Ashapura Bhojanalya,Airport Gandhinagar Highway,₹300,"11am – 3:30pm, 7pm – 12midnight (Mon-Sun)",Bhojanalya,"Gujarati,North Indian"," Apollo Circle, S P Ring Road, Opposite Radhe Fortune, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Bansi Sweet Mart,"Sector 21, Gandhinagar",₹150,8am – 9pm (Mon-Sun),Sweet Shop,Mithai," A-5, District Shopping Centre, Opposite Reliance Fresh, Sector 21, Gandhinagar",,NULL
+Shri Matangi Bhojanalay,Airport Gandhinagar Highway,₹200,11am – 11pm (Mon-Sun),Bhojanalya,North Indian," Shop 27 & 28, Radhe Square, Near Reliance, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Tealogy,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,"Tea,Fast Food,Street Food,Beverages"," B/23, Ground Floor, Pramukh Arcade, Behind Infocity, Dholakuva, Mansa, Airport Gandhinagar Highway, Gandhinagar",,NULL
+A-One Maggi & Pasta,Airport Gandhinagar Highway,₹300,7am – 12midnight (Mon-Sun),Quick Bites,Fast Food," 110, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Punjab Grill,Airport Gandhinagar Highway,₹500,12noon – 11pm (Mon-Sun),Quick Bites,North Indian," Foodie's Den, Opposite Nagraj Party Plot, Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Janta Panipuri House,"The Spicy Street Road, Airport Gandhinagar Highway",₹150,6:30pm – 11pm (Mon-Sun),Kiosk,"Street Food,Beverages"," The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Karnavati Dabeli Centre,Airport Gandhinagar Highway,₹150,7am – 12midnight (Mon-Sun),NULL,Gujarati," 110, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Heerbaa Foods,Airport Gandhinagar Highway,₹500,11am – 11pm (Mon-Sun),NULL,North Indian," Pramukh Cypus, Opposite Aska Hospital, Sargasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Egg Hub,Infocity,₹200,"11am – 3pm, 6:30pm – 11:30pm (Mon-Sun)",NULL,"Fast Food,North Indian"," Shop 1 A, Shreerang Nanocity 2, Sargasan, Infocity, Gandhinagar",,NULL
+Vadilal Scoop Shop,Airport Gandhinagar Highway,₹250,"11am – 10pm (Mon),11am – 11pm (Tue-Sun)",Dessert Parlor,Ice Cream," Near Tapovan Circle, Sardar Patel Ring Road, Amiyapur, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Ad Foodholic,"Sector 16, Gandhinagar",₹300,11am – 11pm (Mon-Sun),NULL,Fast Food," Plot 442, Ground Floor, Sector 16, Gandhinagar",,NULL
+Galaxy Dosa,Airport Gandhinagar Highway,₹250,7am – 11pm (Mon-Sun),Quick Bites,"South Indian,Street Food"," Shop 12, Sarthak Heaven, Besides Umiya Nursery, Raisan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Prayan's Cafe,Airport Gandhinagar Highway,₹300,7am – 12midnight (Mon-Sun),Quick Bites,"Fast Food,Beverages"," 110, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Prem Mevad Ice Cream,"Chopati, Sector 16",₹150,12noon – 12midnight (Mon-Sun),Dessert Parlor,"Juices,Beverages"," GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+Tummy Fillers,Airport Gandhinagar Highway,₹400,11am – 11pm (Mon-Sun),Quick Bites,"Burger,Fast Food,Pizza,Beverages"," Shree Rang Mall & Nagar Randesan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Virat Fast Food,Airport Gandhinagar Highway,₹250,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,North Indian"," A1, Suyash Status, Randesan, Near Urjanagar 2, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Dosa Camp,"The Spicy Street Road, Airport Gandhinagar Highway",₹200,5pm – 12midnight (Mon-Sun),Food Court,South Indian," Stall 28 & 29, The Spicy Street Road, Opposite Nagraj Party Plot, Kudasan Road, Urjanagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Cake Express,"Sector 25, Gandhinagar",₹400,"9am – 10pm (Mon-Tue),11am – 8pm (Wed-Sun)",Bakery,Bakery, Delivery Only,,10% off on all orders above ₹199
+Egg Steps,Infocity,₹300,7am – 8pm (Mon-Sun),NULL,"North Indian,Fast Food"," Shop 11, A Wing, Swagat Rainforest 2, Urjanagar, Kudasan, Infocity, Gandhinagar",,NULL
+Jay Mahadev,"Sector 21, Gandhinagar",₹250,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,South Indian"," 865 - 866, Vishwakarma Shopping, Indi Sector 21, Gandhinagar",,NULL
+New Karnavati Dabeli And Vadapav,Infocity,₹150,11am – 11pm (Mon-Sun),Quick Bites,Fast Food," Shop 34, Satyamev Royal, Sargasan, Near Tilak Banglow, Infocity, Gandhinagar",,NULL
+Burgerstry,Airport Gandhinagar Highway,₹200,10am – 10pm (Mon-Sun),NULL,"Burger,Fast Food"," 110, 1st Floor, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Choice Of Pizzas,Airport Gandhinagar Highway,₹450,7pm – 1am (Mon-Sun),Food Court,"Pizza,Fast Food"," Shop 22, Opposite Nagaraj Party Plot, Kudasan Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Paratha House,"Sector 25, Gandhinagar",₹100,8am – 11pm (Mon-Sun),Quick Bites,North Indian," Near GIDC, Sector 26, Gandhinagar-Kolabada Road, Sector 25, Gandhinagar",,NULL
+Mr.Puff,Infocity,₹250,10am – 10pm (Mon-Sun),Bakery,"Bakery,Fast Food"," 47, Super Mall 2, GH-0, Infocity, Gandhinagar",,NULL
+Non Veg Point,Infocity,₹500,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Mughlai"," Gift City Road, Dholakuva, Infocity, Gandhinagar",,NULL
+Nasto,Airport Gandhinagar Highway,₹400,8am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Street Food,Chinese"," Shop 16, Radhe Square Building, Kudasan, Reliance Crossroads, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Laxmi Bake N Cake,Airport Gandhinagar Highway,₹300,6:30am – 10:30pm (Mon-Sun),Bakery,Bakery," Shop 12, Radhe Crystal, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Balle Balle,Airport Gandhinagar Highway,₹600,6am – 11pm (Mon-Sun),NULL,"North Indian,Chinese,Fast Food"," C/06, Business Park, PDPU Road, Raiysan, Airport Gandhinagar Highway, Gandhinagar",,20% off on all orders above ₹99
+Southern Bite,Infocity,₹300,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,South Indian,Chinese,Street Food"," Shop 17, Infocity Super Mall, Near GH 0 Circle, Infocity, Gandhinagar",,20% off on all orders
+Feel Street,Airport Gandhinagar Highway,₹300,6pm – 11pm (Mon-Sun),Quick Bites,"Fast Food,Mexican,Chinese,Street Food"," Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Divya Laxmi,"Sector 21, Gandhinagar",₹250,8:30am – 9:30pm (Mon-Sun),Bakery,Bakery," 680, Main Shopping Centre, Sector 22, Near Sector 21, Gandhinagar",,NULL
+Jai Ambe Nasta House,"Sector 16, Gandhinagar",₹100,7am – 6pm (Mon-Sun),Quick Bites,Fast Food," Pathnagar Yojna Bhavan, Sector 16, Gandhinagar",,NULL
+Khichdi & More,Infocity,₹300,11am – 11pm (Mon-Sun),Quick Bites,North Indian," Nabhoi, Infocity, Gandhinagar",,NULL
+Vibrant FastFood,"Sector 21, Gandhinagar",₹400,7am – 11pm (Mon-Sun),Quick Bites,"Sandwich,Desserts,Beverages"," Shop 25, Sutariya Chirag Vinodray, Micro Shopping Center, Sector 22, Near Sector 21, Gandhinagar",,NULL
+Prince,Infocity,₹200,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Quick Bites,"Gujarati,Chinese"," Shop 1-2, Santoor Grace, Pramukhnagar Road, Sargasan, Infocity, Gandhinagar",,NULL
+Hotel Any Time,Infocity,₹500,"11am – 3pm, 6pm – 4am (Mon-Sun)",Quick Bites,"North Indian,Chinese,Gujarati,Biryani"," Shop 112, Supermall 2, Infocity, Gandhinagar",,NULL
+Dal Roti,Airport Gandhinagar Highway,₹450,"11am – 3pm, 7pm – 11pm (Mon-Sun)",NULL,North Indian," B 102, Pramukh Arcade 2, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Vraj Gopal Dairy,"Sector 21, Gandhinagar",₹100,8am – 11pm (Mon-Sun),Beverage Shop,Beverages," B-1/A, District Shopping Center, Sector 21, Gandhinagar",,NULL
+Chatpata Corner,Airport Gandhinagar Highway,₹150,7am – 12midnight (Mon-Sun),NULL,Street Food," 110, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Raj Pramukh,"Chopati, Sector 16",₹350,11am – 11pm (Mon-Sun),Food Court,"Fast Food,Chinese,South Indian,North Indian"," Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Tahuko Chehar,"Sector 16, Gandhinagar",₹350,6pm – 11pm (Mon-Sun),Food Court,"Chinese,North Indian"," 67, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Iceaac - The Natural Ice Cream Genius,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Dessert Parlor,"Ice Cream,Beverages"," B-74, Pramukh Arcade, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Monginis,Airport Gandhinagar Highway,₹150,9am – 10:30pm (Mon-Sun),Bakery,Bakery," B 13,Pramukh Arcade, Near Infocity Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Murli Restaurant,Infocity,₹250,"11am – 2pm, 7pm – 11pm (Mon-Sun)",Quick Bites,Gujarati," 104-105, Pramukh Tangent, Sargasan, Infocity, Gandhinagar",,NULL
+The Penny Pancakes,"Sector 21, Gandhinagar",₹300,11am – 11pm (Mon-Sun),NULL,"Bakery,Desserts"," Quarter 62/2, Near Ayurveda Dawakhana, Sector 21, Gandhinagar",,NULL
+Weekend Biryani,Airport Gandhinagar Highway,₹400,"12midnight – 3am (Mon),Closed (Tue-Fri),11am –...",NULL,Biryani," Vedika Happy Valley, Randesan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Hot Spot,"The Spicy Street Road, Airport Gandhinagar Highway",₹350,11am – 12midnight (Mon-Sun),Food Court,Chinese," 10/11, The Spicy Street Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Bistro,Airport Gandhinagar Highway,₹400,11am – 11pm (Mon-Sun),NULL,"Fast Food,North Indian,Chinese"," City Pulse Cinema, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Helly & Chilly - The Premium Cafe,Airport Gandhinagar Highway,₹600,"10:30am – 10pm (Mon-Thu),12noon – 12midnight...",Café,"Cafe,Italian,Continental,Fast Food,Beverages"," Shop 63, Pramukh Mastana, Near Reliance Cross Road, Airport Gandhinagar Highway, Gandhinagar",,20% off on all orders above ₹200
+Navrang Fast Food,"Chopati, Sector 16",₹300,11am – 10:30pm (Mon-Sun),Food Court,"Fast Food,Chinese,North Indian"," 45, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Pramukh Dining Hall,Infocity,₹300,"11am – 2:30pm, 6:45pm – 10pm (Mon-Sun)",Quick Bites,North Indian," Shop A-7, Super Mall 1, NRGH, Infocity, Gandhinagar, Ahmedabad",,NULL
+Milan,"Chopati, Sector 16",₹350,11am – 11pm (Mon-Sun),Food Court,"North Indian,Chinese"," 10, GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+Vadilal Ice Cream Parlour,"Sector 25, Gandhinagar",₹100,6am – 11pm (Mon-Sun),Dessert Parlor,Ice Cream," 446/1, Sector 26, Kishannagar, Near Sector 25, Gandhinagar",,NULL
+Tarun Dhaba,"Sector 21, Gandhinagar",₹200,"10:30am – 3pm, 6pm – 11pm (Mon-Sun)",Dhaba,"Rajasthani,Gujarati,North Indian"," GJ SH 141, Lekawada Patia, Near CRPF Camp, Chiloda Road, Sector 21, Gandhinagar",,NULL
+The W Baker,Airport Gandhinagar Highway,₹400,9am – 11pm (Mon-Sun),Bakery,"Bakery,Desserts"," Shree Vinus Siddhi Resort, Nabhoi, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Urban Kitli,Airport Gandhinagar Highway,₹300,7am – 12midnight (Mon-Sun),Quick Bites,"Fast Food,Beverages"," 110, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Honey Cafe & Restaurant,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Fast Food"," Shop A- 11, Swagat Rainforest 2, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Flavorets,Airport Gandhinagar Highway,₹450,11am – 11pm (Mon-Sun),Quick Bites,"South Indian,North Indian,Fast Food"," City Pulse Campus, Near Koba Circle, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Masala Republik,"Sector 16, Gandhinagar",₹300,11am – 11pm (Mon-Sun),NULL,"North Indian,Street Food"," Swagat Party Plot, Near Raisan Petrol Pump, Koba Gandhinagar Road, Kudasan, Sector 16, Gandhinagar",,NULL
+Shiv Chinese And Punjabi Food,Infocity,₹300,5pm – 11pm (Mon-Sun),NULL,"Chinese,North Indian"," 2/7 Chokdi, Near GH 2 Circle, Sector 2, Infocity, Gandhinagar",,NULL
+Tom Uncle Maggie Point,Airport Gandhinagar Highway,₹300,7am – 12midnight (Mon-Sun),NULL,"Fast Food,Beverages"," 012, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Maha Shiv Shakti Bhaji Pav & Pulav,"Sector 16, Gandhinagar",₹200,11am – 11pm (Mon-Sun),Quick Bites,"Street Food,Chinese"," Shop 78, GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+Dosaji,Infocity,₹200,7pm – 11pm (Mon-Sun),Quick Bites,South Indian," Shop 4, Urban Otlo, Infocity Club And Resort, Infocity, Gandhinagar",,NULL
+Maha Shiv Shakti,"Chopati, Sector 16",₹200,3pm – 11pm (Mon-Sun),Food Court,"Fast Food,Chinese"," 78, GH-5, Chopati, Sector 16, Gandhinagar",,NULL
+Shree Behrunath Dal Bati,"Chopati, Sector 16",₹350,11am – 11pm (Mon-Sun),Food Court,"Fast Food,North Indian,Gujarati"," 81, GH 5, Chopati, Sector 16, Gandhinagar",,NULL
+Bhavani Fast Food,Airport Gandhinagar Highway,₹250,"12noon – 2:30pm, 7pm – 11:30pm (Mon-Sun)",Quick Bites,Street Food," Kudasan Road, Opposite Nagraj Party Plot, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Mahi Sagar,"Chopati, Sector 16",₹300,11am – 11pm (Mon-Sun),Food Court,"Fast Food,North Indian"," 37, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Shree  Bholenath,"Chopati, Sector 16",₹450,6pm – 11pm (Mon-Sun),Food Court,"North Indian,South Indian,Street Food,Gujarati,Chinese"," 76, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Kahawa-The Shake Factory,Airport Gandhinagar Highway,₹300,7am – 12midnight (Mon-Sun),Beverage Shop,Beverages," 12, 1st Floor, Swagat Rainforest 2, Near KTM Showroom, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+A1 Food Point,Airport Gandhinagar Highway,₹300,"11am – 3pm, 5:30pm – 11pm (Mon-Sun)",Quick Bites,"Chinese,North Indian,Street Food"," B 14, Krishna Kunj Complex, Near Vrindavan Bungalows, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Karnavati Food Point,"Chopati, Sector 16",₹400,11am – 11:30pm (Mon-Sun),Food Court,"Fast Food,North Indian"," 90, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+EAT 365,Infocity,₹250,4pm – 3am (Mon-Sun),Quick Bites,"Sandwich,Pizza,Fast Food,Beverages"," 21, Shree Rang Plaza, Near Dholeshwar Temple, Village Randesan, Infocity, Gandhinagar",,NULL
+Cream and Fudge,"Sector 21, Gandhinagar",₹300,11am – 11pm (Mon-Sun),Dessert Parlor,"Ice Cream,Desserts"," Ground Floor, Shop A/10, Vrundavan Trade Center, Kudasan, Sector 21, Gandhinagar",,NULL
+Jay Ambe Fast Food,"Sector 21, Gandhinagar",₹150,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,North Indian"," Near GH 6 Corner, Sector 22, Near Sector 21, Gandhinagar",,NULL
+Arabian Fry,Infocity,₹200,11am – 11pm (Mon-Sun),NULL,"Arabian,North Indian"," Shop 115, Shrirang Plaza, Gift City Road, Raysan, Infocity, Gandhinagar",,NULL
+Chaat Masti,"The Spicy Street Road, Airport Gandhinagar Highway",₹250,"11am – 3pm, 6pm – 12midnight (Mon-Sun)",Food Court,Street Food," 10 & 11, The Spicy Street Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Samiyosa,Infocity,₹200,9am – 11pm (Mon-Sun),NULL,"Street Food,Fast Food", Delivery Only,,NULL
+Chay With Hum Tum,Airport Gandhinagar Highway,₹150,7:30am – 3am (Mon-Sun),Beverage Shop,"Tea,Beverages,Fast Food"," Shyam Sukan Complex, Near PDPU, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Mombrodadies Cafe,Infocity,₹350,10am – 2am (Mon-Sun),Café,Cafe," Shop 67, Pramukh Mastana, Dholakuva Circle, Infocity, Gandhinagar",,NULL
+Shree Savariya Hotel,"Chopati, Sector 16",₹400,"11am – 3pm, 6:30pm – 11pm (Mon-Sun)",Food Court,"North Indian,Gujarati"," 27, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Cake Valley,"Sector 25, Gandhinagar",₹300,9am – 12midnight (Mon-Sun),Bakery,Bakery, Delivery Only,,NULL
+Arabin Fry,Infocity,₹150,7am – 3am (Mon-Sun),Quick Bites,Fast Food," 95, Shreerung Plaza, Raysan, Infocity, Gandhinagar",,NULL
+Kaka Ni Chaa - Gathiya,Airport Gandhinagar Highway,₹100,24 Hours (Mon-Sun),Food Court,"Fast Food,Gujarati"," Manekchok, Near Jogni Mata Mandir, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shivansh Food Truck,"Sector 16, Gandhinagar",₹150,8:30am – 10pm (Mon-Sun),Food Truck,"Street Food,Beverages"," Opposite LDRP Institute, Sector 15, Near Sector 16, Gandhinagar",,NULL
+Desi Adda,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),NULL,"North Indian,Chinese,Biryani", Delivery Only,,NULL
+Shahi Mother''s Restaurant,Airport Gandhinagar Highway,₹500,11am – 11pm (Mon-Sun),NULL,"Mughlai,Biryani,North Indian"," A-12, Pramukh Arcade 2, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Gujju Chinese,Infocity,₹150,5pm – 12midnight (Mon-Sun),Quick Bites,"Street Food,Fast Food"," A5- Sampat Prime, Sargaasan, Opposite Swagat Blossom, Infocity, Gandhinagar",,NULL
+Kwality Wall's,"Sector 25, Gandhinagar",₹200,9am – 10pm (Mon-Sun),NULL,"Ice Cream,Desserts", Delivery Only,,NULL
+Punjab Grill,Airport Gandhinagar Highway,₹350,11am – 11pm (Mon-Sun),Quick Bites,North Indian," Shop 9, Foodies Lane, Opposite Nagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Jay Ambe Bhojanalaya,Airport Gandhinagar Highway,₹100,11:30am – 10pm (Mon-Sun),Quick Bites,Gujarati," D-4, Swagat, Rein Forest 1, Opposite Pratik Mall, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Mr. Ganna Wala,Airport Gandhinagar Highway,₹100,6pm – 12midnight (Mon-Sun),Beverage Shop,"Beverages,Desserts"," Stall 30, The Spicy Street Road, Plot Kudasan, Opposite Naagraj Party, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Hunger 's Den Dosa,"The Spicy Street, Airport Gandhinagar Highway",₹300,11am – 11:30pm (Mon-Sun),Food Court,"South Indian,Street Food"," Stall 23, The Spicy Street Food, Opposite Nagraj Party Plot, Kudasan Road, Urjanagar, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Amigos,Airport Gandhinagar Highway,₹200,7am – 12midnight (Mon-Sun),NULL,Beverages," D-107, Vedika E-Series, Bhaijipura Patia, Pdpu Road, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Cake Crown,"Sector 6, Gandhinagar",₹400,8am – 11:30pm (Mon-Sun),Bakery,Bakery, Delivery Only,,50% off on all orders above ₹199
+Amar Shakti,"Chopati, Sector 16",₹450,11am – 11pm (Mon-Sun),Food Court,"Fast Food,Chinese,North Indian"," 2, Chopaty, GH -5, Sector 16, Gandhinagar",,NULL
+Shots & Juice,Infocity,₹300,7pm – 11pm (Mon-Sun),Beverage Shop,"Juices,Beverages"," Shop 5, Urban Otlo Infocity Club And Resort, Infocity, Gandhinagar",,NULL
+Kitchen 24,"Sector 6, Gandhinagar",₹350,"10am – 3pm, 6pm – 11pm (Mon-Sun)",Quick Bites,"Gujarati,North Indian,Chinese"," Near Vaishnodevi Temple, SG Highway, Vaishnodevi Circle, Sector 6, Gandhinagar",,NULL
+Santosh,"Chopati, Sector 16",₹250,6pm – 11pm (Mon-Sun),Food Court,"Fast Food,Chinese,Street Food"," Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+South Indian Food,"Sector 6, Gandhinagar",₹100,6pm – 10pm (Mon-Sun),Kiosk,South Indian," 12/13, Chaukdi Hanuman Mandir, Sector 6, Gandhinagar",,NULL
+Sandy Palm Resort and Hotels,"Sector 21, Gandhinagar",₹550,"7am – 3pm, 7pm – 10:30pm (Mon-Sun)",Casual Dining,"North Indian,Gujarati,Chinese"," Near Sarojba Petroleum, Chiloda, Sector 21, Gandhinagar, Ahemdabad",,NULL
+Kathiyawad Restaurant,"Sector 25, Gandhinagar",₹350,"7am – 9am, 11am – 2pm, 7pm – 9pm (Mon-Sun)",Quick Bites,"North Indian,Gujarati"," KH 5, Sector 25, Gandhinagar",,NULL
+Gift Kitchen,Infocity,₹200,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Chinese"," Shop 36, 1st Floor, Janaadar Mangla, Infocity, Gandhinagar",,NULL
+Jai Bholenath Bhojnalaya,"Sector 21, Gandhinagar",₹150,8am – 1pm (Mon-Sun),Bhojanalya,Gujarati," Shop 3, APMC Market, Alampur Cross Road, Opposite BSF Camp, Sector 21, Gandhinagar",,NULL
+KK Santosh,"Sector 16, Gandhinagar",₹400,6pm – 11pm (Mon-Sun),Food Court,"Fast Food,South Indian,North Indian"," 66, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Tulsi Bakers,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Bakery,"Bakery,Fast Food"," Shop 103, IIT Gandhinagar Campus, Village Palaj, Airport Gandhinagar Highway, Gandhinagar",,NULL
+RK Ice Cream,"Sector 16, Gandhinagar",₹150,5pm – 11pm (Mon-Sun),Dessert Parlor,Ice Cream," 86, GH 5, Sector 16, Gandhinagar",,NULL
+Varity Fast Food,"Chopati, Sector 16",₹300,11am – 11pm (Mon-Sun),Food Court,"North Indian,Chinese,South Indian"," 35, Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Shree Ram Cafe,Airport Gandhinagar Highway,₹150,9am – 10:30pm (Mon-Sun),Quick Bites,"Fast Food,Street Food"," Shop 2, Vrundavan Residency 2, Sargasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Maharajeshree Food Point,"Chopati, Sector 16",₹300,5pm – 11pm (Mon-Sun),Food Court,"Chinese,North Indian,Gujarati,Fast Food"," 73, GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+Tulsi Dinning Hall,"Sector 25, Gandhinagar",₹400,7am – 11pm (Mon-Sun),Quick Bites,"North Indian,Gujarati,Chinese"," Gaziya Building, GIDC, Sector 25, Gandhinagar",,NULL
+Balaji & Bangalore Fast Food,"Chopati, Sector 16",₹400,11am – 11pm (Mon-Sun),Food Court,"Chinese,South Indian,Gujarati"," 82, GH -5, Chopati, Sector 16, Gandhinagar",,NULL
+Ramdev Fast Food,"Chopati, Sector 16",₹300,11am – 11:30pm (Mon-Sun),Food Court,North Indian," Chopati, GH -5, Sector 16, Gandhinagar",,NULL
+Shree Food Point,Airport Gandhinagar Highway,₹250,9am – 8pm (Mon-Sun),Quick Bites,"North Indian,Sandwich"," B 13, Ground Floor, Swagat Rainforest 2, Opposite Swami Narayan Dham, Kudasan, Near Airport Gandhinagar Highway, Gandhinagar",,NULL
+Shreeji Dining Hall,"Sector 7, Gandhinagar",₹300,"11:30am – 2:30pm, 7pm – 10pm (Mon-Sun)",Quick Bites,Gujarati," Shop 15, Super Mall 1, Sector 7, Gandhinagar",,NULL
+Biryani Kitchen,Infocity,₹500,11am – 11pm (Mon-Sun),NULL,"Biryani,Chinese", Delivery Only,,NULL
+Paapi Pet,Airport Gandhinagar Highway,₹350,11am – 11pm (Mon-Sun),NULL,"North Indian,Biryani,Chinese", Delivery Only,,NULL
+Khana Khajana Restaurant,Airport Gandhinagar Highway,₹500,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Chinese"," Shop A/3, Ugti Hights, POR Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Top 10 Snacks,Infocity,₹200,10am – 10:30pm (Mon-Sun),Quick Bites,Fast Food," 84, Pramukh Mastana Building, Near Reliance Circle, Kudasan, Gandhinagar, Ahmedabad",,NULL
+I Shri Khodiyar Food Corner,"Sector 25, Gandhinagar",₹200,8am – 8pm (Mon-Sun),Quick Bites,"North Indian,South Indian"," 12, Ground Floor, Randheja Road, Pethapur, Sector 25, Gandhinagar",,NULL
+Om Pet Pooja Parlour,Infocity,₹250,11am – 11pm (Mon-Sun),Kiosk,Street Food," Shop 13, Virandawan Resident-2, Ashka Hospital, Near Sarghasan, Infocity, Gandhinagar",,NULL
+Woodland,Airport Gandhinagar Highway,₹450,"11am – 3pm, 6pm – 11pm (Mon-Sun)",Quick Bites,"Fast Food,South Indian,North Indian,Italian,Chinese"," City Pulse Campus, Near Koba Circle, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+King Town Cafe,Airport Gandhinagar Highway,₹450,11am – 11pm (Mon-Sun),Café,"Cafe,Fast Food,North Indian"," Block L6/103, Pushpak Apartment, Sector 13/B, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Kutchi Dabeli,"Sector 21, Gandhinagar",₹100,11am – 11pm (Mon-Sun),Kiosk,Street Food," District Shopping Centre, Sector 21, Gandhinagar",,NULL
+Jiyaan Ice Cream Zone,Airport Gandhinagar Highway,₹200,6:30pm – 12midnight (Mon-Sun),Dessert Parlor,"Ice Cream,Desserts"," Stall 03, The Spicy Street Road, Opposite Naagraj Party Plot, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Top 10,Infocity,₹250,11am – 11pm (Mon-Sun),NULL,"Fast Food,Beverages", Delivery Only,,NULL
+Neelkanth Parlour,Infocity,₹150,8am – 10pm (Mon-Sun),Dessert Parlor,"Ice Cream,Desserts"," Shop 13, Divya Sanskar City, Behind Pramukh Nagar, Near Surya Circle, Sargasan, Infocity, Gandhinagar",,NULL
+Chez Moi,Infocity,₹450,7pm – 12midnight (Mon-Sun),Quick Bites,"North Indian,South Indian"," Stall 4 & 5, Urban Otlo, Near Ch-O Circle, Infocity, Gandhinagar",,NULL
+Shatvika Thal,Airport Gandhinagar Highway,₹250,6pm – 12midnight (Mon-Sun),Quick Bites,"Gujarati,Street Food"," Stall 2, The Spicy Street Road, Plot Kudasan, Opposite Nagraj Party, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Zumpadi,Airport Gandhinagar Highway,₹150,6pm – 12midnight (Mon-Sun),Quick Bites,Gujarati," Stall 1 & 2, The Spicy Street Road, Plot Kudasan, Opposite Naagraj Party, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Yubbys Coffee Bar,Airport Gandhinagar Highway,₹300,11am – 11pm (Mon-Sun),Quick Bites,"Fast Food,Beverages"," A-007, Ground Floor, Block-A, Near Rayasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+PVR Cinemas,"Sector 11, Gandhinagar",₹500,11am – 11pm (Mon-Sun),NULL,"Fast Food,Burger", Delivery Only,,NULL
+Indian Dhaba,Infocity,₹350,10am – 11pm (Mon-Sun),NULL,"North Indian,Chinese,Fast Food"," Shop 10, Permukh Corporate, PDPU Road, Raysan, Infocity, Gandhinagar",,NULL
+Silver Stove,Infocity,₹400,7am – 3am (Mon-Sun),NULL,"North Indian,Biryani"," 402, Urjanagar, Kudasan, Infocity, Gandhinagar",,NULL
+Subway,Infocity,₹500,11am – 12midnight (Mon-Sun),Quick Bites,"Healthy Food,Sandwich,Salad,Wraps,Fast Food"," Shop 1, Super Mall 1, Infocity, Gandhinagar",,NULL
+Spices & Herbs,Infocity,₹700,"12noon – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Mexican,Chinese"," Swagat Rainforest 2, Opposite Swaminarayan Dham, Infocity, Gandhinagar","Outdoor Seating,Unique Dining",NULL
+Terracotta,Airport Gandhinagar Highway,"₹1,000","12noon – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"North Indian,Italian,Chinese"," A-101, Pramukh Arcade 2, Near Reliance Cross Road, Kudasan, Airport Gandhinagar Highway, Gandhinagar",Best of Ahmedabad,NULL
+Creamoholic Cafe & Restaurant,Airport Gandhinagar Highway,₹700,12noon – 6am (Mon-Sun),Café,"Cafe,North Indian,Continental"," G Block, 59/60, Krishna Kunj Complex, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Domino's Pizza,"Sector 11, Gandhinagar",₹600,10:57am – 3am (Mon-Sun),Quick Bites,"Pizza,Fast Food"," 231, Haveli Arcade, Sector 11, Gandhinagar",,NULL
+Trupti Ice Cream Parlour,"Sector 16, Gandhinagar",₹250,"10:30am – 10pm (Mon, Tue, Wed, Fri, Sat, Sun)...",Dessert Parlor,"Desserts,Ice Cream"," 382 & 383, Near DCB Bank, Sector 16, Gandhinagar",,NULL
+Mocha,Infocity,"₹1,200",12noon – 9:30pm (Mon-Sun),Café,"Cafe,Italian,North Indian,Continental,Beverages,Desserts"," SG Highway, Near Indroda Circle, Infocity, Gandhinagar","Great Coffee,Trending This Week",10% off on all orders above ₹499
+Mezza 9,Airport Gandhinagar Highway,₹700,"11am – 3pm, 7pm – 11:30pm (Mon-Sun)",Casual Dining,"North Indian,Beverages"," Plot Radhe Fortune, Near Apollo Circle, Airport Gandhinagar Highway, Gandhinagar",,NULL
+La Pino'z Pizza,Airport Gandhinagar Highway,₹800,11am – 11pm (Mon-Sun),Quick Bites,"Pizza,Italian,Fast Food,Desserts,Beverages"," A 139, Pramukh Arcade, Kudasan, Gandhinagar, Airport Gandhinagar Highway, Gandhinagar",Best Pizza in Town,NULL
+Bhavnaben Raval,"Chopati, Sector 16",₹300,11am – 11pm (Mon-Sun),Quick Bites,"North Indian,Chinese,South Indian"," Shop 77, Chopati, GH Road, Sector 16, Gandhinagar",,NULL
+Cafe Chocoaddict,Airport Gandhinagar Highway,₹400,"12midnight – 12:30am, 11am – 12midnight...",Café,Cafe," 52, Radhe Square Building, Near Reliance Chokdi, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Greenz Restaurant,Infocity,₹700,"11am – 3pm, 7pm – 11pm (Mon-Sun)",Casual Dining,"Chinese,North Indian,Continental"," Near Ved International School, Sargasan Road, Infocity, Gandhinagar",,10% off on all orders
+Gurukrupa Food Zone,Airport Gandhinagar Highway,₹400,"11am – 3pm, 6pm – 11pm (Mon-Sun)",Quick Bites,"North Indian,Chinese"," Shop 50, Radhe Square, Near Kabir world, Reliance chowkadi,Kudasan Airport Gandhinagar Highway, Gandhinagar",,20% off on all orders above ₹129
+Foodsta,Airport Gandhinagar Highway,₹400,10am – 3am (Mon-Sun),Quick Bites,"North Indian,Chinese,Fast Food"," 51, Radhey Square Complex, Kudasan, Airport Gandhinagar Highway, Gandhinagar",,NULL
+Sardar Foods,Infocity,₹500,"11:30am – 3pm, 7pm – 10:30pm (Mon-Sun)",Quick Bites,"North Indian,Chinese"," Shop 24, Super Mall 2, Gh 0 Circle, Infocity, Gandhinagar",,NULL
