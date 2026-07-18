@@ -16,17 +16,17 @@
 - In place of headers, the user must replace it with the result of **my user agent** must be used instead (this can be looked up in Google).
 - The Email settings of the user must be configured to operate on less secure mode to facilitate the sending of emails.
 
-![Image](../images/lesssecure.png)
+![Image](https://raw.githubusercontent.com/ankitdobhal/Awesome-Python-Scripts/master/System-Automation-Scripts/Amazon-price-tracker/images/lesssecure.png)
 
 - After this, the script can be run.
 
 - Using this as an example
 
-![Image](../images/single.png)
+![Image](https://raw.githubusercontent.com/ankitdobhal/Awesome-Python-Scripts/master/System-Automation-Scripts/Amazon-price-tracker/images/single.png)
 
 - The user enters 700 rupees as the budget, as the price is lesser than the budget the following email is sent, else the program continues to run till the condition is satisfied.
 
-![Image](../images/confirm.png)
+![Image](https://raw.githubusercontent.com/ankitdobhal/Awesome-Python-Scripts/master/System-Automation-Scripts/Amazon-price-tracker/images/confirm.png)
 
 - The prices are also logged into the file price_logger.txt as shown, so the user will have an account of the changes the price underwent.
 
